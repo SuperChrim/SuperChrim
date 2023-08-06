@@ -1,7 +1,7 @@
 {
     "id": "SuperChrim",
     "title": "SuperChrim's Patch Repository",
-    "contact": "christianhsieh900@gmail.com",
+    "contact": "@superchrim",
     "servers": [
         "https://mirrors.thpatch.net/SuperChrim/"
     ],
