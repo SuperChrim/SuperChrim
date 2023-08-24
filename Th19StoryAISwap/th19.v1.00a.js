@@ -20,7 +20,7 @@
     },
     "P2StoryMeterRate": {
       "addr": [ "RxEADA9", "RxEADBD", "RxEAE36" ],
-      "code": "76"
+      "code": "64"
     },
 
     "StoryP1Input": {
@@ -53,14 +53,26 @@
     }
   },
   "codecaves": {
+    "AutoAttackTable": {
+      "access": "R",
+      "code": "\
+        06 0B 10 16 1D 25\
+        00 00 01 01 FF\
+        00 00 01 01 FF\
+        00 00 01 00 01 FF\
+        00 00 01 00 01 01 FF\
+        00 01 00 00 01 00 01 FF\
+        00 01 00 00 00 00 01 01 01 FF\
+      "
+    },
     "P2BossAttackToAutoAttack": {
       "code": "\
         A1 <Rx1AE4C4>\
         3BC3\
-        75 42\
+        75 63\
         A1 <Rx1AE4E0>\
         85C0\
-        74 39\
+        74 5A\
         50\
         51\
         A1 <Rx1AE4E4>\
@@ -71,10 +83,20 @@
         84 C0\
         59\
         58\
-        75 22\
+        75 43\
         8B40 34\
         85 C0\
-        74 1B\
+        74 3C\
+        51\
+        8B0D <Rx2082C0>\
+        49\
+        0FB6 89 <codecave:AutoAttackTable>\
+        8B70 04\
+        01 F1\
+        0FB6 89 <codecave:AutoAttackTable>\
+        83 F9 01\
+        59\
+        75 1B\
         8B48 08\
         81C1 E8030000\
         8948 08\
@@ -93,10 +115,10 @@
       "code": "\
         A1 <Rx1AE4C4>\
         3BC3\
-        75 40\
+        75 5E\
         A1 <Rx1AE4E0>\
         85C0\
-        74 37\
+        74 55\
         50\
         A1 <Rx1AE4E4>\
         8B 48 18\
@@ -105,10 +127,18 @@
         FF D0\
         84 C0\
         58\
-        75 22\
+        75 40\
         8B40 34\
         85 C0\
-        74 1B\
+        74 39\
+        8B0D <Rx2082C0>\
+        49\
+        0FB6 89 <codecave:AutoAttackTable>\
+        8B70 04\
+        01 F1\
+        0FB6 89 <codecave:AutoAttackTable>\
+        85 C9\
+        75 1B\
         8B48 08\
         81C1 E8030000\
         8948 08\
