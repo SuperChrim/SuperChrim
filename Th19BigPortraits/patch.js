@@ -1,7 +1,4 @@
 {
-  "dependencies": [
-    "nmlgc/base_tsa"
-  ],
   "id": "Th19BigPortraits",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19BigPortraits/"
