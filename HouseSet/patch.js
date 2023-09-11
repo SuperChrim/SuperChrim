@@ -2,7 +2,7 @@
   "dependencies": [
     "nmlgc/base_tsa"
   ],
-  "id": "House Set",
+  "id": "HouseSet",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/HouseSet/"
   ],

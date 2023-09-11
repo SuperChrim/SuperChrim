@@ -2,7 +2,7 @@
   "dependencies": [
     "nmlgc/base_tsa"
   ],
-  "id": "Th19 Chaos",
+  "id": "Th19Chaos",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19Chaos/"
   ],

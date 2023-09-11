@@ -2,7 +2,7 @@
   "dependencies": [
     "nmlgc/base_tsa"
   ],
-  "id": "Th19 Story Balance",
+  "id": "Th19StoryBalance",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19StoryBalance/"
   ],

@@ -2,7 +2,7 @@
   "dependencies": [
     "nmlgc/base_tsa"
   ],
-  "id": "Th19 Story AI Swap",
+  "id": "Th19StoryAISwap",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19StoryAISwap/"
   ],
