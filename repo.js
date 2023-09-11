@@ -10,7 +10,7 @@
         "Th19BigPortraits": "Adds a new big version of the character portraits for boss attacks. (Customization options included)",
         "Th19Chaos": "Enemy waves spawn in all the time with no wait in between. Absolute chaos!",
         "Th19StoryAIswap": "A silly little mod that makes you control player 2 in Touhou 19 story mode.",
-        "Th19StorySalance": "A few tweaks to story mode balance.",
+        "Th19StoryBalance": "A few tweaks to story mode balance.",
         "Th19StoryBGMChange": "Changes the first couple stage BGMs of each story to their respective opponent themes."
     }
 }
