@@ -19,8 +19,22 @@
       "code": "E9 [codecave:P2EXAttackToAutoAttack] CC"
     },
     "P2StoryMeterRate": {
-      "addr": [ "RxEADA9", "RxEADBD", "RxEAE36" ],
-      "code": "64"
+      "addr": [ "RxEADA9", "RxEADBD", "RxEAE36", "RxEAFDA" ],
+      "code": "88"
+    },
+
+    // P2 Meter Rate Uncap
+    "P2StoryMeterRateUnCap1": {
+      "addr": "RxEB00B",
+      "code": "9090"
+    },
+    "P2StoryMeterRateUnCap2": {
+      "addr": "Rx10EA53",
+      "code": "8BC2 90"
+    },
+    "P2StoryMeterRateUnCap3": {
+      "addr": "Rx10EA53",
+      "code": "909090"
     },
 
     "StoryP1Input": {
