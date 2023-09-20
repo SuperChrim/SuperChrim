@@ -10,4 +10,4 @@ Changes:
  - Saki overall damage output is increased.
  - Saki unfocus and focus shot damage is increased.
  - Chiyari Ex attacks have decreased speed and disappear faster.
- - Chiyari skill dyamically increases size of bullets based on thier current size rather than setting them all to one size.
+ - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
