@@ -7,5 +7,6 @@ Changes:
  - Nazrin overall damage output is increased.
  - Rin overall damage output is increased.
  - Tsukasa overall damage output is increased.
+ - Saki overall damage output is increased.
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dyamically increases size of bullets based on thier current size rather than setting them all to one size.
