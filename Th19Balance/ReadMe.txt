@@ -8,6 +8,6 @@ Changes:
  - Rin overall damage output is increased.
  - Tsukasa overall damage output is increased.
  - Saki overall damage output is increased.
- - Saki unfocus and focus shot damage is increased.
+ - Yuuma unfocused and focus shot damage is increased.
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
