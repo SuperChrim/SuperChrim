@@ -5,5 +5,6 @@ Please be aware that this will impact online play as well. Be sure that your opp
 Changes:
  - Reimu overall damage output is decreased.
  - Nazrin overall damage output is increased.
+ - Rin overall damage output is increased.
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dyamically increases size of bullets based on thier current size rather than setting them all to one size.
