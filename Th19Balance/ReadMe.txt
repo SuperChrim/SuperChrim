@@ -6,6 +6,7 @@ IMPORTANT! Do NOT use this in random matches in online mode.
 Changes:
  - Reimu overall damage output is decreased.
  - Reimu skill requires more meter to use.
+ - Aunn overall damage output is increased.
  - Nazrin overall damage output is increased.
  - Rin overall damage output is increased.
  - Tsukasa overall damage output is increased.
