@@ -17,3 +17,4 @@ Changes:
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
  - Chiyari skill and Ex attack require more meter to use.
+ - Zanmu skill and Ex attack require more meter to use.
