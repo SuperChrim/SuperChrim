@@ -20,3 +20,6 @@ Changes:
  - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
  - Chiyari skill and Ex attack require more meter to use.
  - Zanmu skill and Ex attack require more meter to use.
+
+If you want to use this alongside my Th19StoryBalance patch,
+take the files in the alt folder and replace the ones of the same name inside the th19 folder.
