@@ -7,6 +7,7 @@ Changes:
  - Reimu overall damage output is decreased.
  - Reimu skill requires more meter to use.
  - Reimu Ex bullet speed and acceleration is decreased.
+ - Reimu spell card bullet speed and acceleration is decreased.
  - Sanae unfocused/focus shot and C1 damage outpot increased.
  - Aunn overall damage output is increased.
  - Nazrin overall damage output is increased.
