@@ -12,7 +12,6 @@ Changes:
  - Aunn overall damage output is increased.
  - Nazrin overall damage output is increased.
  - Rin overall damage output is increased.
- - Rin hp of vengful spirits is decreased.
  - Tsukasa overall damage output is increased.
  - Saki overall damage output is increased.
  - Yuuma unfocused/focus shot damage is increased.
