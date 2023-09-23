@@ -12,6 +12,7 @@ Changes:
  - Aunn overall damage output is increased.
  - Nazrin overall damage output is increased.
  - Rin overall damage output is increased.
+ - Rin C2 death bug is fixed.
  - Tsukasa overall damage output is increased.
  - Saki overall damage output is increased.
  - Yuuma unfocused/focus shot damage is increased.
