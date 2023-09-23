@@ -10,6 +10,7 @@ Changes:
  - Reimu spell card bullet speed and acceleration is decreased.
  - Sanae unfocused/focus shot and C1 damage outpot increased.
  - Aunn overall damage output is increased.
+ - Aunn spell card bullets are have increased speed and density and can no longer be erased.
  - Nazrin overall damage output is increased.
  - Rin overall damage output is increased.
  - Rin C2 death bug is fixed.
