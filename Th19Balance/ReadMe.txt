@@ -12,6 +12,7 @@ Changes:
  - Aunn overall damage output is increased.
  - Aunn spell card bullets have increased speed and density and can no longer be erased.
  - Nazrin overall damage output is increased.
+ - Nazrin spell card bullets are faster and more dense.
  - Rin overall damage output is increased.
  - Rin C2 death bug is fixed.
  - Tsukasa overall damage output is increased.
