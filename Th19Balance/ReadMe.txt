@@ -15,6 +15,7 @@ Changes:
  - Nazrin spell card bullets are faster and more dense.
  - Rin overall damage output is increased.
  - Rin C2 death bug is fixed.
+ - Rin Ex vengeful spirit bullets are slower and fire less often.
  - Tsukasa overall damage output is increased.
  - Saki overall damage output is increased.
  - Yuuma unfocused/focus shot damage is increased.
