@@ -29,3 +29,4 @@ Changes:
 
 If you want to use this alongside my Th19StoryBalance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.
+?cjzeioygheiozgjezoigjvze=cizojeogjzeigzg
