@@ -33,6 +33,10 @@
       F30F1015 <Rx1878D8> \
       0F2FD1 \
       "
+    },
+    "NazrinScopeSpeedIncrease": {
+      "addr": "Rx188D6",
+      "code": "BB"
     }
   },
   "codecaves": {
