@@ -16,6 +16,7 @@ Changes:
  - Rin overall damage output is increased.
  - Rin C2 death bug is fixed.
  - Rin Ex vengeful spirit bullets are slower and fire less often.
+ - Rin Ex vengeful spirits have smaller collision.
  - Tsukasa overall damage output is increased.
  - Tsukasa spell card laser bounce bug is fixed.
  - Saki overall damage output is increased.
