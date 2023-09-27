@@ -17,6 +17,7 @@ Changes:
  - Rin C2 death bug is fixed.
  - Rin Ex vengeful spirit bullets are slower and fire less often.
  - Tsukasa overall damage output is increased.
+ - Tsukasa spell card laser bounce bug is fixed.
  - Saki overall damage output is increased.
  - Yuuma unfocused/focus shot damage is increased.
  - Biten overall damage output is increased.
