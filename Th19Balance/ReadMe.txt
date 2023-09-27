@@ -29,7 +29,6 @@ Changes:
  - Hisami unused attack animation has been added for her spell card.
  - Zanmu skill and Ex attack require more meter to use.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
- - Ghost and animal spirit count is capped at 600. This helps prevent slowdown in some situations.
 
 If you want to use this alongside my Th19StoryBalance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.
