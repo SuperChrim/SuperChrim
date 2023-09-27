@@ -37,6 +37,14 @@
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BB"
+    },
+    "ZanmuC2Speed": {
+      "addr": "Rx299BF",
+      "code": "6F"
+    },
+    "ZanmuC2Range": {
+      "addr": "Rx299C9",
+      "code": "14"
     }
   },
   "codecaves": {

@@ -32,6 +32,7 @@ Changes:
  - Hisami unused attack animation has been added for her spell card.
  - Hisami vine count is capped at 140 to prevent crashing.
  - Zanmu skill and Ex attack require more meter to use.
+ - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
 
 If you want to use this alongside my Th19StoryBalance patch,
