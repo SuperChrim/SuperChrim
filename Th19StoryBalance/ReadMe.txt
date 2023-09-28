@@ -5,7 +5,7 @@ What this patch changes:
  - Overall boss difficulty is increased.
  - Final boss attacks have a unique death. (Just for some visual difference)
  - Unused attack animation are added for Hisami and Zanmu bosses
- - Hisami vine count is capped at 140 to prevent crashing.
+ - Laser count is capped at 150 to Hisami prevent crashing the game.
 
 If you want to use this alongside my Th19Balance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.
