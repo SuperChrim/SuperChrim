@@ -8,7 +8,10 @@
       "addr": "Rx1A4D3",
       "code": "E9 [codecave:else_condition_OrinLv2]"
     },
-
+      "LaserCap": {
+      "addr": "Rx11DBA9",
+      "code": "9600"
+    },
   "LaserBounceFix": {
     "addr": "Rx11BA29",
     "code": "\

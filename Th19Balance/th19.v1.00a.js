@@ -13,6 +13,10 @@
       "addr": "RxE5B54",
       "code": "B004"
     },
+      "LaserCap": {
+      "addr": "Rx11DBA9",
+      "code": "9600"
+    },
 
   "LaserBounceFix": {
     "addr": "Rx11BA29",

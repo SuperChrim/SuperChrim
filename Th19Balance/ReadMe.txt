@@ -30,7 +30,7 @@ Changes:
  - Chiyari skill and Ex attack require more meter to use.
  - Hisami overall damage output is increased.
  - Hisami unused attack animation has been added for her spell card.
- - Hisami vine count is capped at 140 to prevent crashing.
+ - Laser count is capped at 150 to Hisami prevent crashing the game.
  - Zanmu skill and Ex attack require more meter to use.
  - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
