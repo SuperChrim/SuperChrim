@@ -33,7 +33,7 @@ Changes:
  - Zanmu skill and Ex attack require more meter to use.
  - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
- - Laser count is capped at 150 to Hisami prevent crashing the game.
+ - Laser count is capped at 150 to prevent Hisami crashing the game.
 
 If you want to use this alongside my Th19StoryBalance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.
