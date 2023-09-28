@@ -8,10 +8,12 @@
       "addr": "Rx1A4D3",
       "code": "E9 [codecave:else_condition_OrinLv2]"
     },
+
     "BulletCap": {
       "addr": "RxE5B54",
       "code": "B004"
     },
+
   "LaserBounceFix": {
     "addr": "Rx11BA29",
     "code": "\
@@ -34,9 +36,11 @@
       0F2FD1 \
       "
     },
+
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BB"
+
     },
     "ZanmuC2Speed": {
       "addr": "Rx299BF",
@@ -45,6 +49,19 @@
     "ZanmuC2Range": {
       "addr": "Rx299C9",
       "code": "14"
+
+    },
+    "ReimuC2Range": {
+      "addr": "Rx127C2F",
+      "code": "9A"
+    },
+    "ReimuC2Time1": {
+      "addr": "Rx127D97",
+      "code": "36"
+    },
+    "ReimuC2Time2": {
+      "addr": "Rx127BA1",
+      "code": "9090"
     }
   },
   "codecaves": {
