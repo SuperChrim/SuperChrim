@@ -20,6 +20,7 @@ Changes:
  - Rin Ex vengeful spirits have smaller collision.
  - Tsukasa overall damage output is increased.
  - Tsukasa spell card laser bounce bug is fixed.
+ - mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
  - Saki overall damage output is increased.
  - Yuuma unfocused/focus shot damage is increased.
