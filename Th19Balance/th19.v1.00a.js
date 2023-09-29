@@ -66,6 +66,11 @@
     "ReimuC2Time2": {
       "addr": "Rx127BA1",
       "code": "9090"
+    },
+
+    "ZanmuCard2": {
+      "addr": "RxD8424",
+      "code": "9090909090"
     }
   },
   "codecaves": {
