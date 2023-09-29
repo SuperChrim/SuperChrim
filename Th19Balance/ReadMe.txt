@@ -35,6 +35,7 @@ Changes:
  - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
  - Laser count is capped at 150 to prevent Hisami crashing the game.
+ - Violence is Hell's Flower ability card only grants a bomb piece after sending a boss attack.
 
 If you want to use this alongside the Th19StoryBalance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.
