@@ -68,9 +68,43 @@
       "code": "9090"
     },
 
-    "ZanmuCard2": {
-      "addr": "RxD8424",
-      "code": "9090909090"
+    "NerfZanmuCard2A": {
+      "addr": "RxD7E57",
+      "code": "\
+        8B50 2C \
+        8B42 30 \
+        31C9 \
+        85C0 \
+        0F48C1 \
+        BE C4090000 \
+        39F0 \
+        0F4FC6 \
+        8942 30 \
+        BE FFFFFFFF \
+        <nop:15> \
+      "
+    },
+    "NerfZanmuCard2B": {
+      "addr": "RxD8359",
+      "code": "\
+        8B46 2C \
+        31C9 \
+        85C0 \
+        0F48C1 \
+        BA C4090000 \
+        39D0 \
+        0F4FC2 \
+        8946 2C \
+        31F6 \
+        90<nop:18> \
+      "
+    },
+    "NerfZanmuCard2C": {
+      "addr": "RxD83F8",
+      "code": "\
+        96 \
+        8481 B5000000 \
+      "
     }
   },
   "codecaves": {
