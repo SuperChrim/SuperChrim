@@ -1,4 +1,7 @@
 {
+  "dependencies": [
+    "nmlgc/base_tsa"
+  ]
   "id": "Th19storyBGMchange",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19StoryBGMChange/"

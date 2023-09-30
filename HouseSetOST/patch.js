@@ -1,4 +1,7 @@
 {
+  "dependencies": [
+    "nmlgc/base_tsa"
+  ],
   "id": "HouseSetOST",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/HouseSetOST/"
