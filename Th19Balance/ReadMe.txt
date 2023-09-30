@@ -23,7 +23,6 @@ Changes:
  - Saki overall damage output is increased.
  - Yuuma unfocused/focus shot damage is increased.
  - Yuuma skill collision is increased to better matches the animation.
- - Yuuma skill requires more meter to use.
  - Biten overall damage output is increased.
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
