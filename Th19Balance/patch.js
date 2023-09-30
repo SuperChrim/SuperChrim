@@ -1,4 +1,7 @@
 {
+  "dependencies": [
+    "SuperChrim/Th19BugFixes"
+  ],
   "id": "Th19Balance",
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19Balance/"

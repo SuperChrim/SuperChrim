@@ -15,12 +15,9 @@ Changes:
  - Nazrin scope speed is increased.
  - Nazrin spell card bullets are faster and more dense.
  - Rin overall damage output is increased.
- - Rin skill death bug is fixed.
  - Rin Ex vengeful spirit bullets are slower and fire less often.
  - Rin Ex vengeful spirits have smaller collision.
  - Tsukasa overall damage output is increased.
- - Tsukasa spell card laser bounce bug is fixed.
- - Yachie laser cancel bug is fixed.
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
  - Saki overall damage output is increased.
@@ -35,8 +32,12 @@ Changes:
  - Zanmu skill and Ex attack require more meter to use.
  - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
- - Laser count is capped at 150 to prevent Hisami crashing the game.
  - Zanmu's second ability card only grants a bomb piece after a full meter charge.
+Bug Fixes:
+ - Includes Shoxla's Rin skill death bug fix.
+ - Tsukasa spell card laser bounce bug is fixed.
+ - Yachie laser cancel bug is fixed.
+ - Laser count is capped at 150 to prevent Hisami crashing the game.
 
 If you want to use this alongside the Th19StoryBalance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.
