@@ -33,6 +33,14 @@
       F30F1015 <Rx1878D8> \
       0F2FD1 \
       "
+    },
+    "YachieLaserCancelA": {
+      "addr": "Rx116F6A",
+      "code": "90909090"
+    },
+    "YachieLaserCancelB": {
+      "addr": "Rx1197BA",
+      "code": "90909090"
     }
   },
   "codecaves": {

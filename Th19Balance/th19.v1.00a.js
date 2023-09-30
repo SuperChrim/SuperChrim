@@ -40,6 +40,14 @@
       0F2FD1 \
       "
     },
+    "YachieLaserCancelA": {
+      "addr": "Rx116F6A",
+      "code": "90909090"
+    },
+    "YachieLaserCancelB": {
+      "addr": "Rx1197BA",
+      "code": "90909090"
+    },
 
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
