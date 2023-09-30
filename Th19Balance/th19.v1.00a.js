@@ -43,8 +43,33 @@
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BB"
-
     },
+
+    "YuumaC2A": {
+      "addr": "Rx21BA4",
+      "code": "A0C2"
+    },
+    "YuumaC2B": {
+      "addr": "Rx21BAE",
+      "code": "C843"
+    },
+    "YuumaC2C": {
+      "addr": "Rx21BB8",
+      "code": "A0C2"
+    },
+    "YuumaC1TimeOffset": {
+      "addr": "Rx21A56",
+      "code": "11"
+    },
+    "YuumaC2EndTime": {
+      "addr": "Rx21DF5",
+      "code": "50"
+    },
+    "YuumaExTimeCap": {
+      "addr": "Rx21F07",
+      "code": "1B"
+    },
+
     "ZanmuC2Speed": {
       "addr": "Rx299BF",
       "code": "6F"
