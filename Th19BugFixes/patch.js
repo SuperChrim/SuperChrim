@@ -1,5 +1,6 @@
 {
   "dependencies": [
+    "nmlgc/base_tsa",
     "Shoxla/Th19FixOrinLV2",
     "Shoxla/Th19ExAttackResAnimFix"
   ],

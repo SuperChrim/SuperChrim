@@ -1,5 +1,6 @@
 {
   "dependencies": [
+    "nmlgc/base_tsa",
     "SuperChrim/Th19BugFixes"
   ],
   "id": "Th19Balance",
