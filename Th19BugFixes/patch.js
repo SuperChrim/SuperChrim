@@ -1,6 +1,7 @@
 {
   "dependencies": [
-    "Shoxla/Th19FixOrinLV2"
+    "Shoxla/Th19FixOrinLV2",
+    "Shoxla/Th19ExAttackResAnimFix"
   ],
   "id": "Th19BugFixes",
   "servers": [
