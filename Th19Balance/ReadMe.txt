@@ -40,7 +40,7 @@ Th19BugFixes:
  - Tsukasa spell card laser bounce bug is fixed.
  - Yachie laser cancel bug is fixed.
  - Laser count is capped at 150 to prevent Hisami crashing the game.
- - Achievenment 21 can be obtained.
+ - Achievement 21 can be obtained.
 
 If you want to use this alongside the Th19StoryBalance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.
