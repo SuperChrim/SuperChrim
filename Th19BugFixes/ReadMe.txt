@@ -6,3 +6,4 @@ Fixes:
  - Tsukasa spell card laser bounce bug is fixed.
  - Yachie laser cancel bug is fixed.
  - Laser count is capped at 150 to Hisami prevent crashing the game.
+ - Achievenment 21 can be obtained.

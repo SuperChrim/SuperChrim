@@ -34,11 +34,13 @@ Changes:
  - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
  - Zanmu's second ability card only grants a bomb piece after a full meter charge.
-Bug Fixes:
+Th19BugFixes:
  - Includes Shoxla's Rin skill death bug fix.
+ - Includes Shoxla's Th19ExAttackResAnimFix.
  - Tsukasa spell card laser bounce bug is fixed.
  - Yachie laser cancel bug is fixed.
  - Laser count is capped at 150 to prevent Hisami crashing the game.
+ - Achievenment 21 can be obtained.
 
 If you want to use this alongside the Th19StoryBalance patch,
 take the files in the alt folder and replace the ones of the same name inside the th19 folder.

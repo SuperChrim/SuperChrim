@@ -26,6 +26,7 @@
       0F2FD1 \
       "
     },
+
     "YachieLaserCancelA": {
       "addr": "Rx116F6A",
       "code": "90909090"
@@ -33,6 +34,23 @@
     "YachieLaserCancelB": {
       "addr": "Rx1197BA",
       "code": "90909090"
+    },
+
+    "Achievement21A": {
+      "addr": "Rx106B5C",
+      "code": "6079"
+    },
+    "Achievement21B": {
+      "addr": "Rx106B65",
+      "code": "6079"
+    },
+    "Achievement21C": {
+      "addr": "Rx106B7C",
+      "code": "6079"
+    },
+    "Achievement21D": {
+      "addr": "Rx106B90",
+      "code": "6079"
     }
   }
 }
