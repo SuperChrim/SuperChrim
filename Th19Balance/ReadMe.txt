@@ -14,6 +14,7 @@ Changes:
  - Nazrin overall damage output is increased.
  - Nazrin scope speed is increased.
  - Nazrin spell card bullets are faster and more dense.
+ - Seiran can shoot while performing her skill.
  - Rin overall damage output is increased.
  - Rin Ex vengeful spirit bullets are slower and fire less often.
  - Rin Ex vengeful spirits have smaller collision.
