@@ -33,6 +33,7 @@ Changes:
  - Zanmu skill and Ex attack require more meter to use.
  - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
+ - All ability card shots have increased damage.
  - Zanmu's second ability card only grants a bomb piece after a full meter charge.
 Th19BugFixes:
  - Includes Shoxla's Rin skill death bug fix.
