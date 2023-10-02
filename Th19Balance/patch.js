@@ -2,8 +2,8 @@
   "dependencies": [
     "nmlgc/base_tsa",
     "SuperChrim/Th19BugFixes",
-    "Shoxla/Th19FixOrinLV2",
-    "Shoxla/Th19ExAttackResAnimFix"
+    "Shoxlu/Th19FixOrinLV2",
+    "Shoxlu/Th19ExAttackResAnimFix"
   ],
   "id": "Th19Balance",
   "servers": [
