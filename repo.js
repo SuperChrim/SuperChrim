@@ -12,7 +12,7 @@
         "Th19BugFixes": "Multiple bug fixes and performance improvements for Touhou 19.",
         "Th19Chaos": "Enemy waves spawn in all the time with no wait in between. Absolute chaos!",
         "Th19StoryAISwap": "A silly little mod that makes you control player 2 in Touhou 19 story mode.",
-        "Th19StoryBalance": "A few tweaks to story mode balance.",
+        "Th19StoryBalance": "An expansion to Th19Balance. Adds tweaks and story mode.",
         "Th19StoryBGMChange": "Changes the first couple stage BGMs of each story to their respective opponent themes."
     }
 }
