@@ -21,7 +21,9 @@ Changes:
  - Tsukasa overall damage output is increased.
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
+ - Yachie Ex otter spirit health is increased.
  - Saki overall damage output is increased.
+ - Saki Ex wolf spirit health is increased.
  - Yuuma unfocused/focus shot damage is increased.
  - Yuuma skill collision is increased to better matches the animation.
  - Biten overall damage output is increased.
@@ -36,6 +38,12 @@ Changes:
  - Zanmu skill is slower and range is decreased.
  - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
  - All ability card shots have increased damage.
+ - Yachie's Ex otters can be strengthened or weakened with Yachie's ability cards.
+ - Saki's Ex wolves can be strengthened or weakened with Saki's ability cards.
+ - Yuuma's Ex eagles can be strengthened or weakened with Yuuma's ability cards.
+ - Biten's second abiliy card can make you pass through Yachie's Ex otters when pacified.
+ - Enoko's second abiliy card can make you pass through Saki's Ex wolves when pacified.
+ - Chiyari's second abiliy card can make you pass through Yuuma's Ex eagles when pacified.
  - Zanmu's second ability card only grants a bomb piece after a full meter charge.
 Th19BugFixes:
  - Includes Shoxla's Rin skill death bug fix.
