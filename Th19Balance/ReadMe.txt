@@ -28,6 +28,7 @@ Changes:
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
  - Chiyari Ex attacks have no collision for the first 30 frames after they spawn in.
+ - Chiyari Ex attacks disappear after a player death.
  - Chiyari skill and Ex attack require more meter to use.
  - Hisami overall damage output is increased.
  - Hisami unused attack animation has been added for her spell card.
