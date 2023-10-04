@@ -41,9 +41,9 @@ Changes:
  - Yachie's Ex otters can be strengthened or weakened with Yachie's ability cards.
  - Saki's Ex wolves can be strengthened or weakened with Saki's ability cards.
  - Yuuma's Ex eagles can be strengthened or weakened with Yuuma's ability cards.
- - Biten's second abiliy card can make you pass through Yachie's Ex otters when pacified.
- - Enoko's second abiliy card can make you pass through Saki's Ex wolves when pacified.
- - Chiyari's second abiliy card can make you pass through Yuuma's Ex eagles when pacified.
+ - Biten's second ability card can make you pass through Yachie's Ex otters when pacified.
+ - Enoko's second ability card can make you pass through Saki's Ex wolves when pacified.
+ - Chiyari's second ability card can make you pass through Yuuma's Ex eagles when pacified.
  - Zanmu's second ability card only grants a bomb piece after a full meter charge.
 Th19BugFixes:
  - Includes Shoxla's Rin skill death bug fix.
