@@ -3,7 +3,8 @@
     "nmlgc/base_tsa",
     "SuperChrim/Th19BugFixes",
     "Shoxlu/Th19FixOrinLV2",
-    "Shoxlu/Th19ExAttackResAnimFix"
+    "Shoxlu/Th19ExAttackResAnimFix",
+    "zero318/ZeroEclExtensions"
   ],
   "id": "Th19Balance",
   "servers": [

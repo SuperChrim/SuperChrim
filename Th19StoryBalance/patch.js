@@ -1,6 +1,11 @@
 {
   "dependencies": [
-    "nmlgc/base_tsa"
+    "nmlgc/base_tsa",
+    "zero318/ZeroEclExtensions",
+    "SuperChrim/Th19Balance",
+    "SuperChrim/Th19BugFixes",
+    "Shoxlu/Th19FixOrinLV2",
+    "Shoxlu/Th19ExAttackResAnimFix"
   ],
   "id": "Th19StoryBalance",
   "servers": [
