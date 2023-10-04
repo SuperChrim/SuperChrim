@@ -46,8 +46,8 @@ Changes:
  - Chiyari's second ability card can make you pass through Yuuma's Ex eagles when pacified.
  - Zanmu's second ability card only grants a bomb piece after a full meter charge.
 Th19BugFixes:
- - Includes Shoxla's Rin skill death bug fix.
- - Includes Shoxla's Th19ExAttackResAnimFix.
+ - Includes Shoxlu's Rin skill death bug fix.
+ - Includes Shoxlu's Th19ExAttackResAnimFix.
  - Tsukasa spell card laser bounce bug is fixed.
  - Yachie laser cancel bug is fixed.
  - Laser count is capped at 150 to prevent Hisami crashing the game.
