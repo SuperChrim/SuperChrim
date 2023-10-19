@@ -92,6 +92,22 @@
       "code": "9090"
     },
 
+    "AnimalSpiritIdentify": {
+      "addr": "Rx29DC5",
+      "code": "\
+        F20F1086 78120000 \
+        C1E8 1B \
+        A8 01 \
+        F20F1145 9C \
+        8B96 D8140000 \
+        B8 <Rx186B98> \
+        0F45C1 \
+        83E2 03 \
+        8955 C8 \
+        90 \
+      "
+    },
+
     "NerfZanmuCard2A": {
       "addr": "RxD7E57",
       "code": "\
