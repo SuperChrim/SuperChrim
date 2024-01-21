@@ -12,6 +12,8 @@ Changes:
  - Ran non spell fires more bullets.
  - Aunn overall damage output is increased.
  - Aunn spell card bullets have increased speed and density and can no longer be erased.
+ - Aunn spell card lasers are longer and travel at a sharper angle.
+ - Aunn Ex attack spawns more bullets.
  - Nazrin overall damage output is increased.
  - Nazrin scope speed is increased.
  - Nazrin spell card bullets are faster and more dense.
@@ -23,10 +25,13 @@ Changes:
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
  - Yachie Ex otter spirit health is increased.
+ - Yachie Ex otter spirits shoot less bullets when disabled.
  - Saki overall damage output is increased.
  - Saki Ex wolf spirit health is increased.
+ - Saki Ex wolf spirits shoot less bullets when disabled.
  - Yuuma unfocused/focus shot damage is increased.
  - Yuuma skill collision is increased to better matches the animation.
+ - Yuuma Ex eagle spirits shoot less bullets when disabled.
  - Biten overall damage output is increased.
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
