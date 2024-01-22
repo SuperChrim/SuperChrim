@@ -32,6 +32,8 @@ Changes:
  - Yuuma unfocused/focus shot damage is increased.
  - Yuuma skill collision is increased to better matches the animation.
  - Yuuma Ex eagle spirits shoot less bullets when disabled.
+ - Suika spell card boss health is increased.
+ - Suika Ex health is increased.
  - Biten overall damage output is increased.
  - Chiyari Ex attacks have decreased speed and disappear faster.
  - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
