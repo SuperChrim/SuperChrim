@@ -21,6 +21,7 @@ Changes:
  - Rin overall damage output is increased.
  - Rin Ex vengeful spirit bullets are slower and fire less often.
  - Rin Ex vengeful spirits have smaller collision.
+ - Rin Ex vengeful spirits spawn rate has a soft cap starting at 30.
  - Tsukasa overall damage output is increased.
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
