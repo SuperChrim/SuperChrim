@@ -25,13 +25,16 @@ Changes:
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
  - Yachie Ex otter spirit health is increased.
- - Yachie Ex otter spirits shoot less bullets when disabled.
+ - Yachie Ex otter spirits shoot less bullets.
+ - Yachie Ex otter spawn rate has a soft cap starting at 20.
  - Saki overall damage output is increased.
  - Saki Ex wolf spirit health is increased.
- - Saki Ex wolf spirits shoot less bullets when disabled.
+ - Saki Ex wolf spirits shoot less bullets.
+ - Saki Ex wolf spawn rate has a soft cap starting at 20.
  - Yuuma unfocused/focus shot damage is increased.
  - Yuuma skill collision is increased to better matches the animation.
- - Yuuma Ex eagle spirits shoot less bullets when disabled.
+ - Yuuma Ex eagle spirits shoot less bullets.
+ - Yuuma Ex eagle spawn rate has a soft cap starting at 20.
  - Suika spell card boss health is increased.
  - Suika Ex health is increased.
  - Biten overall damage output is increased.
