@@ -21,21 +21,21 @@ Changes:
  - Rin overall damage output is increased.
  - Rin Ex vengeful spirit bullets are slower and fire less often.
  - Rin Ex vengeful spirits have smaller collision.
- - Rin Ex vengeful spirits spawn rate has a soft cap starting at 20.
+ - Rin Ex vengeful spirits spawn rate is adjusted.
  - Tsukasa overall damage output is increased.
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
  - Yachie Ex otter spirit health is increased.
  - Yachie Ex otter spirits shoot less bullets.
- - Yachie Ex otter spawn rate has a soft cap starting at 20.
+ - Yachie Ex otter spawn rate is adjusted.
  - Saki overall damage output is increased.
  - Saki Ex wolf spirit health is increased.
  - Saki Ex wolf spirits shoot less bullets.
- - Saki Ex wolf spawn rate has a soft cap starting at 20.
+ - Saki Ex wolf spawn rate is adjusted.
  - Yuuma unfocused/focus shot damage is increased.
  - Yuuma skill collision is increased to better matches the animation.
  - Yuuma Ex eagle spirits shoot less bullets.
- - Yuuma Ex eagle spawn rate has a soft cap starting at 20.
+ - Yuuma Ex eagle spawn rate is adjusted.
  - Suika spell card boss health is increased.
  - Suika Ex health is increased.
  - Biten overall damage output is increased.
