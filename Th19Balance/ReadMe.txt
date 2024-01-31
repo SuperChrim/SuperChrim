@@ -25,6 +25,7 @@ Changes:
  - Tsukasa overall damage output is increased.
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
+ - Yachie skill and Ex attack require more meter to use.
  - Yachie Ex otter spirit health is increased.
  - Yachie Ex otter spirits shoot less bullets.
  - Yachie Ex otter spawn rate is adjusted.
