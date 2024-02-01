@@ -72,7 +72,7 @@
 
     "ZanmuC2Speed": {
       "addr": "Rx299BF",
-      "code": "D0"
+      "code": "C0"
     },
     "ZanmuC2Range": {
       "addr": "Rx299C9",
