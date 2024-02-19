@@ -13,7 +13,7 @@ Changes:
  - Aunn overall damage output is increased.
  - Aunn spell card bullets have increased speed and density and can no longer be erased.
  - Aunn spell card lasers are longer and travel at a sharper angle.
- - Aunn Ex attack spawns more bullets.
+ - Aunn Ex attack spawns more bullets and have an altered momement path.
  - Nazrin overall damage output is increased.
  - Nazrin scope speed is increased.
  - Nazrin spell card bullets are faster and more dense.
