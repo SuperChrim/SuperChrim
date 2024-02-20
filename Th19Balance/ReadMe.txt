@@ -8,7 +8,7 @@ Changes:
  - Reimu skill requires more meter to use and range for erasing bullets is decreased.
  - Reimu Ex bullet speed and acceleration is decreased, and higher levels have reduced bullet size.
  - Reimu spell card bullet speed and acceleration is decreased.
- - Sanae unfocused/focus shot and C1 damage outpot increased.
+ - Sanae unfocused/focus shot and C1 damage output increased.
  - Sanae Ex attack covers more of the screen at higher levels.
  - Ran non spell fires more bullets.
  - Aunn overall damage output is increased.
