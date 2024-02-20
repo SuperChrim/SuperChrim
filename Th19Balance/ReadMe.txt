@@ -9,6 +9,7 @@ Changes:
  - Reimu Ex bullet speed and acceleration is decreased, and higher levels have reduced bullet size.
  - Reimu spell card bullet speed and acceleration is decreased.
  - Sanae unfocused/focus shot and C1 damage outpot increased.
+ - Sanae Ex attack covers more of the screen at higher levels.
  - Ran non spell fires more bullets.
  - Aunn overall damage output is increased.
  - Aunn spell card bullets have increased speed and density and can no longer be erased.
