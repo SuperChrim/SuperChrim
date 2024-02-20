@@ -23,7 +23,7 @@ Changes:
  - Rin Ex vengeful spirits have smaller collision.
  - Rin Ex vengeful spirits spawn rate is adjusted.
  - Tsukasa overall damage output is increased.
- - Tsukasa Ex attack shhots more bullets, and origin is higher.
+ - Tsukasa Ex attack shoots more bullets, and origin is higher.
  - Mamizou C1 damage is increased.
  - Mamizou skill and Ex attack require less meter to use.
  - Yachie skill and Ex attack require more meter to use.
