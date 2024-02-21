@@ -35,6 +35,7 @@ Changes:
  - Saki Ex wolf spirit health is increased.
  - Saki Ex wolf spirits shoot less bullets.
  - Saki Ex wolf spawn rate is adjusted.
+ - Saki spell card laser are longer and shoot faster.
  - Yuuma unfocused/focus shot damage is increased.
  - Yuuma skill collision is increased to better matches the animation.
  - Yuuma Ex eagle spirits shoot less bullets.
