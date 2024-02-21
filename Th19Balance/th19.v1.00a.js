@@ -70,13 +70,13 @@
       "code": "1B"
     },
 
-    "ZanmuC2Speed": {
+    "ZanmuC2A": {
       "addr": "Rx299BF",
-      "code": "C0"
+      "code": "A001" //5A00
     },
-    "ZanmuC2Range": {
+    "ZanmuC2B": {
       "addr": "Rx299C9",
-      "code": "00"
+      "code": "06" //04
     },
 
     "ReimuC2Range": {
