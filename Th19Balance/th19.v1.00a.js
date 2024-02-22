@@ -39,6 +39,10 @@
       "addr": "Rx1197BA",
       "code": "90909090"
     },
+    "YachieCancelDamage": {
+      "addr": "Rx1F443",
+      "code": "08"
+    },
 
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
