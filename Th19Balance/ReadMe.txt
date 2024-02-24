@@ -15,7 +15,6 @@ Changes:
  - Aunn spell card bullets have increased speed/density and cannot be erased
  - Aunn spell card lasers are longer and travel at a sharper angle
  - Aunn Ex attack spawns more enemies and have a altered movement path
- - Aunn Ex enemies cannot be erased with Yachie/Yuuma
  - Nazrin overall damage output is increased
  - Nazrin scope speed is increased
  - Nazrin spell card bullets are faster and more dense
@@ -34,6 +33,7 @@ Changes:
  - Saki Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
  - Saki spell card laser are longer and shoot faster
  - Yuuma unfocused/focus shot damage is increased
+ - Yuuma cannot kill Ex special enemies with her C1 or skill
  - Yuuma skill collision is increased to better match animation
  - Yuuma Ex eagle spirits shoot less bullets and rate is adjusted
  - Suika spell card boss health is increased

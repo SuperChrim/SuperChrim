@@ -73,6 +73,10 @@
       "addr": "Rx21F07",
       "code": "1B"
     },
+    "YuumaNoCancel": {
+      "addr": "Rx21E84",
+      "code": "90909090"
+    },
 
     "ZanmuC2A": {
       "addr": "Rx299BF",
