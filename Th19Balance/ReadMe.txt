@@ -4,70 +4,64 @@ IMPORTANT! Do NOT use this in random matches in online mode.
 (This patch is a work in progress. More changes will be added in the future.)
 
 Changes:
- - Reimu overall damage output is decreased.
- - Reimu skill requires more meter to use and range for erasing bullets is decreased.
- - Reimu Ex bullet speed and acceleration is decreased, and higher levels have reduced bullet size.
- - Reimu spell card bullet speed and acceleration is decreased.
- - Sanae unfocused/focus shot and C1 damage output increased.
- - Sanae Ex attack covers more of the screen at higher levels.
- - Ran non spell fires more bullets.
- - Aunn overall damage output is increased.
- - Aunn spell card bullets have increased speed and density and can no longer be erased.
- - Aunn spell card lasers are longer and travel at a sharper angle.
- - Aunn Ex attack spawns more enemies and have an altered movement path.
- - Aunn Ex enemies cannot be erased with Yachie/Yuuma.
- - Nazrin overall damage output is increased.
- - Nazrin scope speed is increased.
- - Nazrin spell card bullets are faster and more dense.
- - Seiran can shoot while performing her skill.
- - Rin overall damage output is increased.
- - Rin Ex vengeful spirit bullets are slower and fire less often.
- - Rin Ex vengeful spirits have smaller collision.
- - Rin Ex vengeful spirits spawn rate is adjusted.
- - Tsukasa overall damage output is increased.
- - Tsukasa Ex attack shoots more bullets, and origin is higher.
- - Mamizou C1 damage is increased.
- - Mamizou skill and Ex attack require less meter to use.
- - Yachie skill deals less damage.
- - Yachie skill and Ex attack require more meter to use.
- - Yachie Ex otter spirit health is increased.
- - Yachie Ex otter spirits shoot less bullets.
- - Yachie Ex otter spawn rate is adjusted.
- - Saki overall damage output is increased.
- - Saki Ex wolf spirit health is increased.
- - Saki Ex wolf spirits shoot less bullets.
- - Saki Ex wolf spawn rate is adjusted.
- - Saki spell card laser are longer and shoot faster.
- - Yuuma unfocused/focus shot damage is increased.
- - Yuuma skill collision is increased to better matches the animation.
- - Yuuma Ex eagle spirits shoot less bullets.
- - Yuuma Ex eagle spawn rate is adjusted.
- - Suika spell card boss health is increased.
- - Suika Ex health is increased.
- - Biten overall damage output is increased.
- - Chiyari Ex attacks have decreased speed and disappear faster.
- - Chiyari skill dynamically increases size of bullets based on their current size rather than setting them all to one size.
- - Chiyari Ex attacks have no collision for the first 30 frames after they spawn in.
- - Chiyari Ex attacks disappear inside bomb and after a player death.
- - Chiyari Ex attacks can be grazed.
- - Chiyari skill and Ex attack require more meter to use.
- - Hisami overall damage output is increased.
- - Hisami unused attack animation has been added for her spell card.
- - Zanmu skill and Ex attack require more meter to use.
- - Zanmu skill is slower and range is decreased.
- - Bullet count is capped at 1200. This helps prevent slowdown in some situations.
- - All ability card shots have increased damage.
- - Yachie's Ex otters can be strengthened or weakened with Yachie's ability cards.
- - Saki's Ex wolves can be strengthened or weakened with Saki's ability cards.
- - Yuuma's Ex eagles can be strengthened or weakened with Yuuma's ability cards.
- - Biten's second ability card can make you pass through Yachie's Ex otters when pacified.
- - Enoko's second ability card can make you pass through Saki's Ex wolves when pacified.
- - Chiyari's second ability card can make you pass through Yuuma's Ex eagles when pacified.
- - Zanmu's second ability card only grants a bomb piece after a full meter charge.
+ - Reimu overall damage output is decreased
+ - Reimu skill requires more meter to use and range for erasing bullets is decreased
+ - Reimu Ex bullet speed and acceleration is decreased and higher levels have reduced bullet size
+ - Reimu spell card bullet speed and acceleration is decreased
+ - Sanae unfocused/focus shot and C1 damage output increased
+ - Sanae Ex attack covers more of screen at higher levels
+ - Ran non spell fires more bullets
+ - Aunn overall damage output is increased
+ - Aunn spell card bullets have increased speed/density and cannot be erased
+ - Aunn spell card lasers are longer and travel at a sharper angle
+ - Aunn Ex attack spawns more enemies and have a altered movement path
+ - Aunn Ex enemies cannot be erased with Yachie/Yuuma
+ - Nazrin overall damage output is increased
+ - Nazrin scope speed is increased
+ - Nazrin spell card bullets are faster and more dense
+ - Seiran can shoot while performing her skill
+ - Rin overall damage output is increased
+ - Rin Ex vengeful spirit bullets are slower and fire less often
+ - Rin Ex vengeful spirits have smaller collision
+ - Rin Ex vengeful spirits spawn rate is adjusted
+ - Tsukasa overall damage output is increased
+ - Tsukasa Ex attack shoots more bullets and origin is higher
+ - Mamizou C1 damage is increased
+ - Mamizou skill and Ex attack require less meter to use
+ - Yachie skill deals less damage
+ - Yachie Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
+ - Saki overall damage output is increased
+ - Saki Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
+ - Saki spell card laser are longer and shoot faster
+ - Yuuma unfocused/focus shot damage is increased
+ - Yuuma skill collision is increased to better match animation
+ - Yuuma Ex eagle spirits shoot less bullets and rate is adjusted
+ - Suika spell card boss health is increased
+ - Suika Ex health is increased
+ - Biten overall damage output is increased
+ - Chiyari Ex attacks have decreased speed and disappear faster
+ - Chiyari skill dynamically increases size of bullets based on current size rather than one size
+ - Chiyari Ex attacks have no collision for first 30 frames after spawning in
+ - Chiyari Ex attacks disappear inside bomb and after player death
+ - Chiyari Ex attacks can be grazed
+ - Chiyari skill and Ex attack require more meter to use
+ - Hisami overall damage output is increased
+ - Hisami unused attack animation has been added for her spell card
+ - Zanmu skill and Ex attack require more meter to use
+ - Zanmu skill range and speed is decreased.
+ - Bullet count is capped at 1200 to prevent slowdown in some situations
+ - All ability card shots have increased damage
+ - Yachie's Ex otters can be strengthened or weakened with Yachie's ability cards
+ - Saki's Ex wolves can be strengthened or weakened with Saki's ability cards
+ - Yuuma's Ex eagles can be strengthened or weakened with Yuuma's ability cards
+ - Biten's second ability card can make you pass through Yachie's Ex otters when pacified
+ - Enoko's second ability card can make you pass through Saki's Ex wolves when pacified
+ - Chiyari's second ability card can make you pass through Yuuma's Ex eagles when pacified
+ - Zanmu's second ability card only grants bomb piece after full meter charge
 Th19BugFixes:
- - Includes Shoxlu's Rin skill death bug fix.
- - Includes Shoxlu's Th19ExAttackResAnimFix.
- - Tsukasa spell card laser bounce bug is fixed.
- - Yachie laser cancel bug is fixed.
- - Laser count is capped at 150 to prevent Hisami crashing the game.
- - Achievement 21 can be obtained.
+ - Includes Shoxlu's Rin skill death bug fix
+ - Includes Shoxlu's Th19ExAttackResAnimFix
+ - Tsukasa spell card laser bounce bug is fixed
+ - Yachie laser cancel bug is fixed
+ - Laser count is capped at 150 to prevent Hisami crashing the game
+ - Achievement 21 can be obtained
