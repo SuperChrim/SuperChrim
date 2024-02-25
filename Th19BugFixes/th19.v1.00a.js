@@ -36,6 +36,11 @@
       "code": "90909090"
     },
 
+    "ZanmuC2Fix": {
+      "addr": "RxF8C1F",
+      "code": "80"
+    },
+
     "Achievement21A": {
       "addr": "Rx106B5C",
       "code": "6079"
