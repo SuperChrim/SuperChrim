@@ -11,6 +11,7 @@ Changes:
  - Sanae unfocused/focus shot and C1 damage output increased
  - Sanae Ex attack covers more of screen at higher levels
  - Ran non spell fires more bullets
+ - Chen does not remain on screen when boss leaves during spawn
  - Aunn overall damage output is increased
  - Aunn spell card bullets have increased speed/density and cannot be erased
  - Aunn spell card lasers are longer and travel at a sharper angle
