@@ -31,14 +31,6 @@
       0F2FD1 \
       "
     },
-    "YachieLaserCancelA": {
-      "addr": "Rx116F6A",
-      "code": "90909090"
-    },
-    "YachieLaserCancelB": {
-      "addr": "Rx1197BA",
-      "code": "90909090"
-    },
     "YachieCancelDamage": {
       "addr": "Rx1F443",
       "code": "08"
@@ -85,6 +77,18 @@
     "ZanmuC2B": {
       "addr": "Rx299C9",
       "code": "06" //04
+    },
+    "ZanmuC2C": {
+      "addr": "Rx299D5",
+      "code": "803F"
+    },
+    "ZanmuC2D": {
+      "addr": "Rx299DF",
+      "code": "A043"
+    },
+    "ZanmuC2E": {
+      "addr": "Rx299E9",
+      "code": "803F"
     },
 
     "ReimuC2Range": {
@@ -160,7 +164,7 @@
       "
     },
     "NerfZanmuCard2C": {
-     "addr": "RxD8356",
+      "addr": "RxD8356",
       "code": "\
         8B51 2C \
         8B42 2C \
