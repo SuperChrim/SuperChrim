@@ -35,9 +35,9 @@
       "addr": "Rx1F443",
       "code": "08"
     },
-    "YachieC2Rang": {
+    "YachieC2Range": {
       "addr": "Rx1F3D5",
-      "code": "28"
+      "code": "1E"
     },
 
     "NazrinScopeSpeedIncrease": {
