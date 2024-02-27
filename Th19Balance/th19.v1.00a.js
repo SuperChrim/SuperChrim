@@ -51,7 +51,7 @@
     },
     "YuumaC2B": {
       "addr": "Rx21BAE",
-      "code": "C843"
+      "code": "9643"
     },
     "YuumaC2C": {
       "addr": "Rx21BB8",
