@@ -36,7 +36,7 @@ Changes:
  - Saki spell card laser are longer and shoot faster
  - Yuuma unfocused/focus shot damage is increased
  - Yuuma cannot kill Ex special enemies with her C1 or skill
- - Yuuma skill collision is increased to better match animation
+ - Yuuma skill animation and collision is adjusted
  - Yuuma Ex eagle spirits shoot less bullets and rate is adjusted
  - Suika spell card boss health is increased
  - Suika Ex health is increased
