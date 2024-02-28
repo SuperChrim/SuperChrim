@@ -5,6 +5,7 @@ Fixes:
  - Includes Shoxla's Th19ExAttackResAnimFix
  - Tsukasa spell card laser bounce bug is fixed
  - Yachie laser cancel bug is fixed
+ - Suika bomb is fixed
  - Laser count is capped at 150 to Hisami prevent crashing the game
  - Zanmu skill bug preventing spirits to spawn is fixed
  - Achievement 21 can be obtained
