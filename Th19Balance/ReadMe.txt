@@ -60,6 +60,7 @@ Changes:
  - Enoko's second ability card can make you pass through Saki's Ex wolves when pacified
  - Chiyari's second ability card can make you pass through Yuuma's Ex eagles when pacified
  - Zanmu's second ability card only grants bomb piece after full meter charge
+ - Spirits don't spawn during bombs
 Th19BugFixes:
  - Includes Shoxlu's Rin skill death bug fix
  - Includes Shoxlu's Th19ExAttackResAnimFix
