@@ -19,6 +19,7 @@ Changes:
  - Aunn Ex can only be destroyed with bombs
  - Nazrin overall damage output is increased
  - Nazrin scope speed is increased
+ - Nazrin Ex attacks have no collision for first 30 frames after spawning in
  - Nazrin spell card bullets are faster and more dense
  - Seiran can shoot while performing her skill
  - Rin overall damage output is increased
