@@ -27,6 +27,14 @@
       "
     },
 
+    "NazrinExOrinC2Fix": {
+      "addr": "RxF75D0",
+      "code": "\
+        00007008 \
+        74 \
+      "
+    },
+
     "YachieLaserCancelA": {
       "addr": "Rx116F6A",
       "code": "90909090"
