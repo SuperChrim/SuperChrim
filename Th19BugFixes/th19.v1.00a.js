@@ -60,25 +60,25 @@
       "code": "65"
     },
 
-    //"ChiyariExFixA": {
-      //"addr": "Rx10641B",
-      //"code": "13"
-    //},
-    //"ChiyariExFixB": {
-      //"addr": "Rx10641B",
-      //"code": "A8"
-    //},
-    //"ChiyariExFixC": {
-      //"addr": "Rx106429",
-      //"code": "8991 AC"
-    //},
-    //"ChiyariExFixD": {
-      //"addr": "Rx10642F",
-      //"code": "\
-        //C741 1000000000 \
-        //909090 \
-      //"
-    //},
+    "ChiyariExFixA": {
+      "addr": "Rx10641B",
+      "code": "13"
+    },
+    "ChiyariExFixB": {
+      "addr": "Rx10641F",
+      "code": "C7 81 A8000000 00000000"
+    },
+    "ChiyariExFixC": {
+      "addr": "Rx106429",
+      "code": "8991 AC000000"
+    },
+    "ChiyariExFixD": {
+      "addr": "Rx10642F",
+      "code": "\
+        C741 1000000000 \
+        909090 \
+      "
+    },
 
     "ZanmuC2Fix": {
       "addr": "RxF8C1F",
