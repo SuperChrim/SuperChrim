@@ -3,7 +3,7 @@ NOTE: This patch is unnecessary if you are already running the Th19Balance patch
 Fixes:
  - Includes Shoxla's Rin skill death bug fix
  - Includes Shoxla's Th19ExAttackResAnimFix
- - Nazrin Ex vulnerable to Orin skill bug is fixed
+ - Nazrin and Suika Ex vulnerable to Orin skill bug is fixed
  - Tsukasa spell card laser bounce bug is fixed
  - Yachie laser cancel bug is fixed
  - Suika bomb is fixed
