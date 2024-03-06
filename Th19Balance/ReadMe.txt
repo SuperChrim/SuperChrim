@@ -6,7 +6,7 @@ IMPORTANT! Do NOT use this in random matches in online mode.
 Changes:
  - Reimu overall damage output is decreased
  - Reimu skill requires more meter to use and range for erasing bullets is decreased
- - Reimu Ex bullet speed and acceleration is decreased and higher levels have reduced bullet size
+ - Reimu Ex bullet speed/acceleration is decreased and higher levels have reduced bullet size
  - Reimu spell card bullet speed and acceleration is decreased
  - Sanae unfocused/focus shot and C1 damage output increased
  - Sanae Ex attack covers more of screen at higher levels
@@ -19,7 +19,8 @@ Changes:
  - Aunn Ex can only be destroyed with bombs
  - Nazrin overall damage output is increased
  - Nazrin scope speed is increased
- - Nazrin Ex have no collision for first 30 frames after spawning in
+ - Nazrin Ex have no collision for first 30 frames after spawning
+ - Nazrin non spell bullets are faster and stay on screen longer
  - Nazrin spell card bullets are faster and more dense
  - Seiran can shoot while performing her skill
  - Rin overall damage output is increased
@@ -44,7 +45,7 @@ Changes:
  - Biten overall damage output is increased
  - Chiyari Ex attacks have decreased speed and disappear faster
  - Chiyari skill dynamically increases size of bullets based on current size rather than one size
- - Chiyari Ex attacks have no collision for first 30 frames after spawning in
+ - Chiyari Ex attacks have no collision for first 30 frames after spawning
  - Chiyari Ex attacks disappear inside bomb and after player death
  - Chiyari Ex attacks can be grazed
  - Chiyari skill and Ex attack require more meter to use
