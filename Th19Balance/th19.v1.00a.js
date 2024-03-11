@@ -33,7 +33,7 @@
     },
     "YachieCancelDamage": {
       "addr": "Rx1F443",
-      "code": "08"
+      "code": "0A"
     },
     "YachieC2Range": {
       "addr": "Rx1F3D5",
