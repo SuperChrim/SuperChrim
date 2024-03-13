@@ -59,9 +59,9 @@ Changes:
  - Zanmu Ex can be grazed
  - Bullet count is capped at 1200 to prevent slowdown in some situations
  - All ability card shots have increased damage
- - Yachie Ex otters can be strengthened or weakened with Yachie's ability cards
- - Saki Ex wolves can be strengthened or weakened with Saki's ability cards
- - Yuuma Ex eagles can be strengthened or weakened with Yuuma ability cards
+ - Yachie Ex otters can be strengthened/weakened with Yachie's ability cards
+ - Saki Ex wolves can be strengthened/weakened with Saki's ability cards
+ - Yuuma Ex eagles can be strengthened/weakened with Yuuma ability cards
  - Biten's second ability card can make you pass through Yachie Ex otters when disabled
  - Enoko's second ability card can make you pass through Saki Ex wolves when disabled
  - Chiyari's second ability card can make you pass through Yuuma Ex eagles when disabled
