@@ -30,6 +30,7 @@ Changes:
  - Rin Ex vengeful spirits spawn rate is adjusted
  - Tsukasa overall damage output is increased
  - Tsukasa Ex attack shoots more bullets and origin is higher
+ - Tsukasa Ex tube speed and spawn rate is adjusted
  - Mamizou C1 damage is increased
  - Mamizou skill and Ex attack require less meter to use
  - Yachie skill deals less damage and range is decreased
@@ -57,12 +58,12 @@ Changes:
  - Zanmu skill range and speed is decreased.
  - Bullet count is capped at 1200 to prevent slowdown in some situations
  - All ability card shots have increased damage
- - Yachie's Ex otters can be strengthened or weakened with Yachie's ability cards
- - Saki's Ex wolves can be strengthened or weakened with Saki's ability cards
- - Yuuma's Ex eagles can be strengthened or weakened with Yuuma's ability cards
- - Biten's second ability card can make you pass through Yachie's Ex otters when pacified
- - Enoko's second ability card can make you pass through Saki's Ex wolves when pacified
- - Chiyari's second ability card can make you pass through Yuuma's Ex eagles when pacified
+ - Yachie Ex otters can be strengthened or weakened with Yachie's ability cards
+ - Saki Ex wolves can be strengthened or weakened with Saki's ability cards
+ - Yuuma Ex eagles can be strengthened or weakened with Yuuma ability cards
+ - Biten's second ability card can make you pass through Yachie Ex otters when disabled
+ - Enoko's second ability card can make you pass through Saki Ex wolves when disabled
+ - Chiyari's second ability card can make you pass through Yuuma Ex eagles when disabled
  - Zanmu's second ability card only grants bomb piece after full meter charge
  - Spirits don't spawn during bombs
 Th19BugFixes:
