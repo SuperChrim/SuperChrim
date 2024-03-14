@@ -53,10 +53,11 @@ Changes:
  - Chiyari skill and Ex attack require more meter to use
  - Hisami overall damage is increased
  - Hisami vines are slower and spawn rate is adjusted
- - Hisami unused attack animation has been added for her spell card
+ - Hisami unused attack animation is added for spell card
  - Zanmu skill and Ex attack require more meter to use
  - Zanmu skill range and speed decreased
  - Zanmu Ex can be grazed
+ - Zanmu unused attack animation is added for spell card
  - Bullet count is capped at 1200 to prevent slowdown in some situations
  - All ability card shots have increased damage
  - Yachie Ex otters can be strengthened/weakened with Yachie's ability cards
