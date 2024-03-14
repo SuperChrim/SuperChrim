@@ -4,60 +4,60 @@ IMPORTANT! Do NOT use this in random matches in online mode.
 (This patch is a work in progress. More changes will be added in the future.)
 
 Changes:
- - Reimu overall damage is decreased
+ - Reimu overall damage decreased
  - Reimu skill requires more meter to use and range for erasing bullets is decreased
  - Reimu Ex bullet speed/acceleration is decreased and higher levels have reduced bullet size
  - Reimu spell card bullet speed and acceleration is decreased
- - Marisa C1 damage is decreased
+ - Marisa C1 damage decreased
  - Sanae unfocused/focus shot and C1 damage increased
  - Sanae Ex attack covers more of screen at higher levels
  - Ran non spell fires more bullets
  - Chen does not remain on screen when boss leaves during spawn
- - Aunn overall damage is increased
+ - Aunn overall damage increased
  - Aunn spell card bullets have increased speed/density and cannot be erased
  - Aunn spell card lasers are longer and travel at a sharper angle
  - Aunn Ex attack spawns more enemies and have altered movement paths
  - Aunn Ex can only be destroyed with bombs
- - Nazrin overall damage is increased
- - Nazrin scope speed is increased
+ - Nazrin overall damage increased
+ - Nazrin scope speed increased
  - Nazrin Ex have no collision for first 30 frames after spawning
  - Nazrin non spell bullets are faster and stay on screen longer
  - Nazrin spell card bullets are faster and more dense
  - Seiran can shoot while performing her skill
- - Rin overall damage is increased
+ - Rin overall damage increased
  - Rin Ex vengeful spirit bullets are slower and fire less often
  - Rin Ex vengeful spirits have smaller collision
  - Rin Ex vengeful spirits spawn rate is adjusted
- - Tsukasa overall damage is increased
+ - Tsukasa overall damage increased
  - Tsukasa Ex attack shoots more bullets that get less dense and origin is higher
  - Tsukasa Ex tube speed and spawn rate is adjusted
- - Mamizou C1 damage is increased
+ - Mamizou C1 damage increased
  - Mamizou skill and Ex attack require less meter to use
  - Yachie skill deals less damage and range is decreased
  - Yachie Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
- - Saki overall damage is increased
+ - Saki overall damage increased
  - Saki Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
  - Saki spell card laser are longer and shoot faster
- - Yuuma unfocused/focus shot damage is increased
+ - Yuuma unfocused/focus shot damage increased
  - Yuuma cannot kill Ex special enemies with her C1 or skill
  - Yuuma skill animation and collision is adjusted
  - Yuuma Ex eagle spirits shoot less bullets and rate is adjusted
- - Suika spell card boss health is increased
- - Suika Ex health is increased
- - Biten overall damage is increased
+ - Suika spell card boss health increased
+ - Suika Ex health increased
+ - Biten overall damage increased
  - Chiyari Ex attacks have decreased speed and disappear faster
  - Chiyari skill dynamically increases size of bullets based on current size rather than one size
  - Chiyari Ex attacks have no collision for first 30 frames after spawning
  - Chiyari Ex attacks disappear inside bomb and after player death
  - Chiyari Ex attacks can be grazed
  - Chiyari skill and Ex attack require more meter to use
- - Hisami overall damage is increased
+ - Hisami overall damage increased
  - Hisami vines are slower and spawn rate is adjusted
- - Hisami unused attack animation is added for spell card
+ - Hisami unused animation is added for spell card
  - Zanmu skill and Ex attack require more meter to use
  - Zanmu skill range and speed decreased
  - Zanmu Ex can be grazed
- - Zanmu unused attack animation is added for spell card
+ - Zanmu unused animation is added for spell card
  - Bullet count is capped at 1200 to prevent slowdown in some situations
  - All ability card shots have increased damage
  - Yachie Ex otters can be strengthened/weakened with Yachie's ability cards
