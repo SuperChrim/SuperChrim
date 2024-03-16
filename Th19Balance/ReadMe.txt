@@ -9,7 +9,7 @@ Changes:
  - Reimu Ex bullet speed/acceleration is decreased and higher levels have reduced bullet size
  - Reimu spell card bullet speed and acceleration is decreased
  - Marisa C1 damage decreased
- - Sanae unfocused/focus shot and C1 damage increased
+ - Sanae damage increased and she shoots dering C1
  - Sanae Ex attack covers more of screen at higher levels
  - Ran non spell fires more bullets
  - Chen does not remain on screen when boss leaves during spawn
