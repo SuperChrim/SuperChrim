@@ -9,26 +9,45 @@
       "code": "9600"
     },
 
-  "LaserBounceFix": {
-    "addr": "Rx11BA29",
-    "code": "\
-      D947 7C \
-      D947 78 \
-      D9FB \
-      D8CA \
-      D95D E8 \
-      DEC9 \
-      D95D EC \
-      F20F104D E8 \
-      F20F1047 60 \
-      0F58C8 \
-      0F114D E8 \
-      0F28C1 \
-      0FC6C0 55 \
-      <nop:50> \
-      90 \
-      F30F1015 <Rx1878D8> \
-      0F2FD1 \
+    //302A0000
+    "RankDelayA": {
+      "addr": "Rx1087B7",
+      "code": " \
+        07080000 \
+        7D 07 \
+        33C0 \
+        E9 98000000 \
+        A1 <Rx1AE618> \
+        8B 4008 \
+        E9 8B000000 \
+        <nop:4> \
+      "
+    },
+    "RankDelayB": {
+      "addr": "Rx108861",
+      "code": "<nop:10>"
+    },
+
+    "LaserBounceFix": {
+      "addr": "Rx11BA29",
+      "code": " \
+        D947 7C \
+        D947 78 \
+        D9FB \
+        D8CA \
+        D95D E8 \
+        DEC9 \
+        D95D EC \
+        F20F104D E8 \
+        F20F1047 60 \
+        0F58C8 \
+        0F114D E8 \
+        0F28C1 \
+        0FC6C0 55 \
+        <nop:50> \
+        90 \
+        F30F1015 <Rx1878D8> \
+        0F2FD1 \
       "
     },
     "YachieCancelDamage": {
@@ -49,6 +68,7 @@
       "addr": "Rx21BA4",
       "code": "A0C2"
     },
+
     "YuumaC2B": {
       "addr": "Rx21BAE",
       "code": "9643"
@@ -110,7 +130,7 @@
 
     "AnimalSpiritIdentify": {
       "addr": "Rx29DBA",
-      "code": "\
+      "code": " \
         8B86 CC140000 \
         8945BC \
         8B86 D8140000 \
@@ -134,88 +154,47 @@
     },
 
     "NerfZanmuCard2A": {
-      "addr": "RxD7E57",
-      "code": "\
-        8B50 2C \
-        8B42 30 \
-        31C9 \
-        85C0 \
-        0F48C1 \
-        BE C4090000 \
-        39F0 \
-        0F4FC6 \
-        8942 30 \
-        BE FFFFFFFF \
-        <nop:15> \
+      "addr": "RxD83FF",
+      "code": " \
+        E9 [codecave:NerfZanmuCard2ACave] CC \
+        90 \
       "
     },
     "NerfZanmuCard2B": {
-      "addr": "RxD7E97",
-      "code": "\
-        8B49 2C \
-        80B9 B5000000 00 \
-        7428 \
+      "addr": "RxD848C",
+      "code": " \
+        E9 [codecave:NerfZanmuCard2BCave] \
+      "
+    }
+  },
+
+  "codecaves": {
+    "NerfZanmuCard2ACave": {
+      "code": " \
+        0F84 [RxD8429] \
+        8B83 94000000 \
+        3B41 30 \
+        0F8C [RxD8429] \
         E8 [RxA5E0] \
-        8B8B CC000000 \
-        8BF0 \
-        8B49 2C \
-        E8 [RxA5A0] \
-        39C6 \
-        7D0F \
-        51 \
-        8B8B CC000000 \
-        8B49 2C \
-        E8 [Rx124240] \
-        8B8B CC000000 \
-        8B41 38 \
-        8B48 18 \
-        8B01 \
-        8B40 24 \
-        FFD0 \
-        84 C0 \
-        0F85 82040000 \
+        E9 [RxD8406] \
       "
     },
-    "NerfZanmuCard2C": {
-      "addr": "RxD8356",
+    "NerfZanmuCard2BCave": {
       "code": "\
-        8B51 2C \
-        8B42 2C \
-        31C9 \
-        85C0 \
-        0F48C1 \
-        8942 2C \
-        EB19 \
-        8B8B CC000000 \
-        8B49 2C \
-        8B91 B5000000 \
-        85D2 \
-        74 16 \
-        8B4930 \
-        51 \
-        EB10 \
-        3983 94000000 \
-        <nop:4> \
-      "
-    },
-    "NerfZanmuCard2D": {
-      "addr": "RxD83F8",
-      "code": "\
-        EB2F \
-        <nop:5> \
-      "
-    },
-    "NerfZanmuCard2E": {
-      "addr": "RxD8489",
-      "code": "\
-        8BC5 \
-        29E0 \
-        3D 88000000 \
-        7403 \
-        58 \
-        EB0F \
-        8B46 2C \
-        <nop:12> \
+        56 \
+        8B4DFC \
+        8BB1 94000000 \
+        3B73 30 \
+        5E \
+        7C 14 \
+        0F1F4000 \
+        80BB B5000000 00 \
+        74 07 \
+        0F1F4000 \
+        83C6 04 \
+        83C6 2C \
+        8B0E \
+        E9 [RxD8491] \
       "
     }
   }
