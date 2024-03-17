@@ -26,8 +26,7 @@ Changes:
  - Seiran can shoot while performing her skill
  - Rin overall damage increased
  - Rin Ex vengeful spirit bullets are slower and fire less often
- - Rin Ex vengeful spirits have smaller collision
- - Rin Ex vengeful spirits spawn rate is adjusted
+ - Rin Ex vengeful spirits have smaller collision and rate is adjusted
  - Tsukasa overall damage increased
  - Tsukasa Ex attack shoots more bullets that get less dense and origin is higher
  - Tsukasa Ex tube speed and spawn rate is adjusted
