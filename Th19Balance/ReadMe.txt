@@ -60,12 +60,12 @@ Changes:
  - Zanmu unused animation is added for spell card
  - Bullet count is capped at 1200 to prevent slowdown in some situations
  - All ability card shots have increased damage
- - Yachie Ex otters can be strengthened/weakened with Yachie's ability cards
- - Saki Ex wolves can be strengthened/weakened with Saki's ability cards
- - Yuuma Ex eagles can be strengthened/weakened with Yuuma ability cards
- - Biten's second ability card can make you pass through Yachie Ex otters when disabled
- - Enoko's second ability card can make you pass through Saki Ex wolves when disabled
- - Chiyari's second ability card can make you pass through Yuuma Ex eagles when disabled
+ - Yachie Ex otters can be strengthened/weakened with Yachie's cards
+ - Saki Ex wolves can be strengthened/weakened with Saki's cards
+ - Yuuma Ex eagles can be strengthened/weakened with Yuuma's cards
+ - Biten's second card makes Yachie Ex otters passable when disabled
+ - Enoko's second card makes Saki Ex wolves passable when disabled
+ - Chiyari's second card makes Yuuma Ex eagles passable when disabled
  - Zanmu's second ability card only grants bomb piece after full meter charge
  - Spirits don't spawn during bombs
  - Decision victory counts bosses before Ex
