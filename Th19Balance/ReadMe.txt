@@ -68,6 +68,7 @@ Changes:
  - Chiyari's second ability card can make you pass through Yuuma Ex eagles when disabled
  - Zanmu's second ability card only grants bomb piece after full meter charge
  - Spirits don't spawn during bombs
+ - Decision victory counts bosses before Ex
 Th19BugFixes:
  - Includes Shoxlu's Rin skill death bug fix
  - Includes Shoxlu's Th19ExAttackResAnimFix

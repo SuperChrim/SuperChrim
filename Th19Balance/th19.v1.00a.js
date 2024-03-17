@@ -9,24 +9,29 @@
       "code": "9600"
     },
 
-    //302A0000
-    "RankDelayA": {
-      "addr": "Rx1087B7",
+    "SeperateExAttackAndBossAttackCheckA": {
+      "addr": "Rx1032A0",
+      "code": "83C6 4C"
+    },
+    "SeperateExAttackAndBossAttackCheckB": {
+      "addr": "Rx1032C4",
       "code": " \
-        07080000 \
-        7D 07 \
-        33C0 \
-        E9 98000000 \
-        A1 <Rx1AE618> \
-        8B 4008 \
-        E9 8B000000 \
-        <nop:4> \
+        8B35 <Rx1AE4D8> \
+        8B7E 4C \
+        39F9 \
+        0F8F 93000000 \
+        0F8C 9D000000 \
+        8B35 <Rx1AE49C> \
+        8B4E 48 \
+        8B35 <Rx1AE4D8> \
+        8B7E 48 \
+        39F9 \
+        7F 77 \
+        0F8C 81000000 \
+        E9 8A000000 \
       "
     },
-    "RankDelayB": {
-      "addr": "Rx108861",
-      "code": "<nop:10>"
-    },
+
 
     "LaserBounceFix": {
       "addr": "Rx11BA29",
