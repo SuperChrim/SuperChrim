@@ -34,7 +34,7 @@ Changes:
  - Mamizou skill and Ex attack require less meter to use
  - Yachie skill deals less damage and range is decreased
  - Yachie Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
- - Saki overall damage increased
+ - Saki overall damage increased, and C1 and skill require less meter
  - Saki Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
  - Saki spell card laser are longer and shoot faster
  - Yuuma unfocused/focus shot damage increased
