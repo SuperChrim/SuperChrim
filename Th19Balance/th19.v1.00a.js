@@ -144,7 +144,7 @@
     },
     "ReimuC2Time1": {
       "addr": "Rx127D97",
-      "code": "36"
+      "code": "28"
     },
     "ReimuC2Time2": {
       "addr": "Rx127BA1",
