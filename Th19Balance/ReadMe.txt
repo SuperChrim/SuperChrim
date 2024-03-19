@@ -31,7 +31,7 @@ Changes:
  - Tsukasa Ex attack shoots more bullets that get less dense and origin is higher
  - Tsukasa Ex tube speed and spawn rate is adjusted
  - Mamizou C1 damage increased
- - Mamizou skill and Ex attack require less meter to use
+ - Mamizou skill/Ex attack require less meter
  - Yachie skill deals less damage and range is decreased
  - Yachie Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
  - Saki overall damage increased, and C1 and skill require less meter
