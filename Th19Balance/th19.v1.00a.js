@@ -117,7 +117,7 @@
 
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
-      "code": "BB"
+      "code": "BD"
     },
 
     "YachieCancelDamage": {
