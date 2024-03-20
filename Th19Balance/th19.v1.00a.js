@@ -73,6 +73,53 @@
         0F2FD1 \
       "
     },
+
+    "ReimuC2DmgRange": {
+      "addr": "Rx127BA1",
+      "code": "0F8D 06010000 \
+        8D7D D8 \
+        BB 03000000 \
+        90 \
+      "
+    },
+    "ReimuC2BulletCancelA": {
+      "addr": "Rx127C29",
+      "code": "9090"
+    },
+    "ReimuC2BulletCancelB": {
+      "addr": "Rx127C37",
+      "code": "<nop:8>"
+    },
+    "ReimuC2BulletCancelC": {
+      "addr": "Rx127C59",
+      "code": "<nop:6>"
+    },
+    "ReimuC2BulletCancelD": {
+      "addr": "Rx127C64",
+      "code": "<nop:5>"
+    },
+    "ReimuC2LaserCancelA": {
+      "addr": "Rx127C71",
+      "code": "9090"
+    },
+    "ReimuC2LaserCancelB": {
+      "addr": "Rx127C7A",
+      "code": "90"
+    },
+    "ReimuC2LaserCancelC": {
+      "addr": "Rx127C7E",
+      "code": "<nop:5>"
+    },
+    "ReimuC2Time": {
+      "addr": "Rx127D97",
+      "code": "32"
+    },
+
+    "NazrinScopeSpeedIncrease": {
+      "addr": "Rx188D6",
+      "code": "BB"
+    },
+
     "YachieCancelDamage": {
       "addr": "Rx1F443",
       "code": "0A"
@@ -80,11 +127,6 @@
     "YachieC2Range": {
       "addr": "Rx1F3D5",
       "code": "1E"
-    },
-
-    "NazrinScopeSpeedIncrease": {
-      "addr": "Rx188D6",
-      "code": "BB"
     },
 
     "YuumaC2A": {
@@ -136,19 +178,6 @@
     "ZanmuC2E": {
       "addr": "Rx299E9",
       "code": "803F"
-    },
-
-    "ReimuC2Range": {
-      "addr": "Rx127C2F",
-      "code": "9A"
-    },
-    "ReimuC2Time1": {
-      "addr": "Rx127D97",
-      "code": "28"
-    },
-    "ReimuC2Time2": {
-      "addr": "Rx127BA1",
-      "code": "9090"
     },
 
     "AnimalSpiritIdentify": {
