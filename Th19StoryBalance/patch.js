@@ -11,5 +11,5 @@
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19StoryBalance/"
   ],
-  "title": "An expansion to Th19Balance. Adds tweaks and story mode."
+  "title": "An expansion to Th19Balance. Adds tweaks to story mode."
 }
