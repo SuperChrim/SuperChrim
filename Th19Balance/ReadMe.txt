@@ -34,7 +34,7 @@ Rin:
  - Overall damage increased
  - Ex vengeful spirit bullets are slower and fire less often
  - Ex vengeful spirits have smaller collision and spawn rate is adjusted
- - Ex vengeful spirit kill reward is lowered
+ - Ex vengeful spirit kill reward decreased
 Tsukasa:
  - Overall damage increased
  - Ex attack shoots more bullets that get less dense and origin is higher
@@ -45,19 +45,19 @@ Mamizou:
 Yachie:
  - Skill deals less damage and range is decreased
  - Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
- - Ex otter spirit kill reward is lowered
+ - Ex otter spirit kill reward decreased
 Saki:
  - Overall damage increased
  - C1, skill, and Ex attack require less meter
  - Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
- - Ex wolf spirit kill reward is lowered
+ - Ex wolf spirit kill reward decreased
  - Spell card laser are longer and shoot faster
 Yuuma:
  - Unfocused/focus shot damage increased
  - C1/skill cannot kill Ex special enemies
  - Skill animation and collision is adjusted
  - Ex eagle spirits shoot less bullets and rate is adjusted
- - Ex eagle spirit kill reward is lowered
+ - Ex eagle spirit kill reward decreased
 Suika:
  - Spell card boss health increased
  - Ex health increased
