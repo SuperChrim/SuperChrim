@@ -32,29 +32,6 @@
       "
     },
 
-    "LaserBounceFix": {
-      "addr": "Rx11BA29",
-      "code": " \
-        D947 7C \
-        D947 78 \
-        D9FB \
-        D8CA \
-        D95D E8 \
-        DEC9 \
-        D95D EC \
-        F20F104D E8 \
-        F20F1047 60 \
-        0F58C8 \
-        0F114D E8 \
-        0F28C1 \
-        0FC6C0 55 \
-        <nop:50> \
-        90 \
-        F30F1015 <Rx1878D8> \
-        0F2FD1 \
-      "
-    },
-
     "ReimuC2DmgRange": {
       "addr": "Rx127BA1",
       "code": "0F8D 06010000 \
