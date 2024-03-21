@@ -32,41 +32,13 @@
       "
     },
 
-    "ReimuC2DmgRange": {
+    "ReimuC2Range": {
       "addr": "Rx127BA1",
       "code": "0F8D 06010000 \
         8D7D D8 \
         BB 03000000 \
         90 \
       "
-    },
-    "ReimuC2BulletCancelA": {
-      "addr": "Rx127C29",
-      "code": "9090"
-    },
-    "ReimuC2BulletCancelB": {
-      "addr": "Rx127C37",
-      "code": "<nop:8>"
-    },
-    "ReimuC2BulletCancelC": {
-      "addr": "Rx127C59",
-      "code": "<nop:6>"
-    },
-    "ReimuC2BulletCancelD": {
-      "addr": "Rx127C64",
-      "code": "<nop:5>"
-    },
-    "ReimuC2LaserCancelA": {
-      "addr": "Rx127C71",
-      "code": "9090"
-    },
-    "ReimuC2LaserCancelB": {
-      "addr": "Rx127C7A",
-      "code": "90"
-    },
-    "ReimuC2LaserCancelC": {
-      "addr": "Rx127C7E",
-      "code": "<nop:5>"
     },
     "ReimuC2Time": {
       "addr": "Rx127D97",
