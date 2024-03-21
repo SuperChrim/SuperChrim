@@ -45,16 +45,19 @@ Mamizou:
 Yachie:
  - Skill deals less damage and range is decreased
  - Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
+ - Ex otter spirit kill reward is lowered
 Saki:
  - Overall damage increased
  - C1, skill, and Ex attack require less meter
  - Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
+ - Ex wolf spirit kill reward is lowered
  - Spell card laser are longer and shoot faster
 Yuuma:
  - Unfocused/focus shot damage increased
  - C1/skill cannot kill Ex special enemies
  - Skill animation and collision is adjusted
  - Ex eagle spirits shoot less bullets and rate is adjusted
+ - Ex eagle spirit kill reward is lowered
 Suika:
  - Spell card boss health increased
  - Ex health increased
