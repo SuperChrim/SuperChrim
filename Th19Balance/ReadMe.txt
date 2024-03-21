@@ -56,7 +56,8 @@ Yuuma:
  - Unfocused/focus shot damage increased
  - C1/skill cannot kill Ex special enemies
  - Skill animation and collision is adjusted
- - Ex eagle spirits shoot less bullets and rate is adjusted
+ - Ex eagle spirits shoot less bullets and spawn rate is adjusted
+ - Ex eagle spirits can be grazed
  - Ex eagle spirit kill reward decreased
 Suika:
  - Spell card boss health increased
