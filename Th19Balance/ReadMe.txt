@@ -35,6 +35,7 @@ Rin:
  - Ex vengeful spirit bullets are slower and fire less often
  - Ex vengeful spirits have smaller collision, less health, and spawn rate is adjusted
  - Ex vengeful spirit kill reward decreased
+ - Ex vengeful spirits can be grazed
 Tsukasa:
  - Overall damage increased
  - Ex attack shoots more bullets that get less dense and origin is higher
@@ -46,11 +47,13 @@ Yachie:
  - Skill deals less damage and range is decreased
  - Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
  - Ex otter spirit kill reward decreased
+ - Ex otter spirits can be grazed
 Saki:
  - Overall damage increased
  - C1, skill, and Ex attack require less meter
  - Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
  - Ex wolf spirit kill reward decreased
+ - Ex wolf spirits can be grazed
  - Spell card laser are longer and shoot faster
 Yuuma:
  - Unfocused/focus shot damage increased
