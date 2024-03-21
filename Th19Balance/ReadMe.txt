@@ -33,7 +33,8 @@ Seiran:
 Rin:
  - Overall damage increased
  - Ex vengeful spirit bullets are slower and fire less often
- - Ex vengeful spirits have smaller collision and rate is adjusted
+ - Ex vengeful spirits have smaller collision and spawn rate is adjusted
+ - Ex vengeful spirit kill reward is lowered
 Tsukasa:
  - Overall damage increased
  - Ex attack shoots more bullets that get less dense and origin is higher
