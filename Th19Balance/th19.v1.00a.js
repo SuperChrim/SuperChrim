@@ -59,11 +59,15 @@
       "code": "1E"
     },
 
+    "YuumaScopeSpeedA": {
+      "addr": "Rx21382",
+      "code": "9843"
+    },
+
     "YuumaC2A": {
       "addr": "Rx21BA4",
       "code": "A0C2"
     },
-
     "YuumaC2B": {
       "addr": "Rx21BAE",
       "code": "9643"

@@ -4,88 +4,97 @@ IMPORTANT! Do NOT use this in random matches in online mode.
 (This patch is a work in progress. More changes will be added in the future.)
 
 Reimu:
- - Overall damage decreased
+ - Overall shot damage is decreased
  - Skill requires more meter to use and range for erasing bullets is decreased
  - Ex bullet speed/acceleration is decreased and higher levels have reduced bullet size
  - Spell card bullet speed and acceleration is decreased
 Marisa:
- - C1 damage decreased
+ - C1 damage is decreased
 Sanae:
- - Damage increased and she shoots during C1
+ - Damage is increased and she shoots during C1
  - Ex attack covers more of screen at higher levels
 Ran:
  - Non spell fires more bullets
  - Chen always despawns with Ran boss
 Aunn:
- - Overall damage increased
- - Spell card bullets have increased speed/density and cannot be erased
+ - Overall shot damage is increased
+ - Spell card bullets have is increased speed/density and cannot be erased
  - Spell card lasers are longer and travel at sharper angle
  - Ex attack spawns more enemies and have altered movement paths
  - Ex can only be destroyed with bombs
 Nazrin:
- - Overall damage increased
- - Scope speed increased
+ - Overall shot damage is increased
+ - Scope speed is increased
  - Ex have no collision for first 30 frames after spawning
  - Non spell bullets are faster and stay on screen longer
  - Spell card bullets are faster and more dense
 Seiran:
  - Seiran can shoot while performing skill
 Rin:
- - Overall damage increased
+ - Overall shot damage is increased
+ - Ex vengeful spirit health is decreased
  - Ex vengeful spirit bullets are slower and fire less often
- - Ex vengeful spirits have smaller collision, less health, and spawn rate is adjusted
- - Ex vengeful spirit kill reward decreased
+ - Ex vengeful spirit spawn rate is adjusted
+ - Ex vengeful spirits have smaller collision
+ - Ex vengeful spirit kill reward is decreased
  - Ex vengeful spirits can be grazed
 Tsukasa:
- - Overall damage increased
- - Ex attack shoots more bullets that get less dense and origin is higher
+ - Overall shot damage is increased
+ - Ex attack shoots more bullets that get less dense, and origin is higher
  - Ex tube speed and spawn rate is adjusted
 Mamizou:
- - C1 damage increased
+ - C1 damage is increased
  - Skill/Ex attack require less meter
 Yachie:
  - Skill deals less damage and range is decreased
- - Ex otter spirit health is increased, shoot less bullets, and spawn rate is adjusted
- - Ex otter spirit kill reward decreased
+ - Ex otter spirit health is increased
+ - Ex otters shoot less bullets
+ - Ex otter spawn rate is adjusted
+ - Ex otter spirit kill reward is decreased
  - Ex otter spirits can be grazed
 Saki:
- - Overall damage increased
+ - Overall shot damage is increased
  - C1, skill, and Ex attack require less meter
- - Ex wolf spirit health is increased, shoot less bullets, and spawn rate is adjusted
- - Ex wolf spirit kill reward decreased
+ - Ex wolf spirit health is increased
+ - Ex wolves shoot less bullets
+ - Ex wolf spawn rate is adjusted
  - Ex wolf spirits can be grazed
+ - Ex wolf spirit kill reward is decreased
  - Spell card laser are longer and shoot faster
 Yuuma:
- - Unfocused/focus shot damage increased
+ - Unfocused/focus shot damage is increased
+ - Scope speed is decreased
  - C1/skill cannot kill Ex special enemies
  - Skill animation and collision is adjusted
- - Ex eagle spirits shoot less bullets and spawn rate is adjusted
+ - Ex eagle spirits shoot less bullets
+ - Ex eagle movement speed is decreased
+ - Ex eagle spawn rate is adjusted
  - Ex eagle spirits can be grazed
- - Ex eagle spirit kill reward decreased
+ - Ex eagle kill reward is decreased
 Suika:
- - Spell card boss health increased
- - Ex health increased
+ - Spell card boss health is increased
+ - Ex health is increased
 Biten:
- - Overall damage increased
+ - Overall shot damage is increased
 Chiyari:
- - Ex attacks have decreased speed and disappear faster
- - Skill dynamically increases size of bullets based on current size rather than one size
+ - Ex attacks have is decreased speed and disappear faster
+ - Skill dynamically increases size of Ex based on current size rather than one size
  - Ex attacks have no collision for first 30 frames after spawning
  - Ex attacks disappear inside bomb and after player death
  - Ex attacks can be grazed
  - Skill/Ex attack require more meter to use
 Hisami:
- - Overall damage increased
+ - Overall shot damage is increased
  - Vines are slower and spawn rate is adjusted
  - Unused animation is added for spell card
 Zanmu:
  - Skill and Ex attack require more meter to use
- - Skill range and speed decreased
+ - Skill range and speed is decreased
  - Ex can be grazed
  - Unused animation is added for spell card
 System:
  - Bullet count is capped at 1200 to prevent slowdown in some situations
- - All ability card shots have increased damage
+ - All ability card shots have is increased damage
  - Yachie Ex otters can be strengthened/weakened with Yachie's cards
  - Saki Ex wolves can be strengthened/weakened with Saki's cards
  - Yuuma Ex eagles can be strengthened/weakened with Yuuma's cards
