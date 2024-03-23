@@ -69,7 +69,7 @@ Yuuma:
  - C1/skill require more meter and cannot kill Ex special enemies
  - Skill animation and collision is adjusted
  - Ex eagle spirits shoot less bullets
- - Ex eagle movement speed is adjusted
+ - Ex eagle movement speed and angle is adjusted
  - Ex eagle spawn rate is adjusted
  - Ex attack eagles cannot be disabled until one second after spawning
  - Ex eagle spirits can be grazed
