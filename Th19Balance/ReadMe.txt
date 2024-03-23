@@ -18,6 +18,7 @@ Ran:
  - Chen always despawns with Ran boss
 Aunn:
  - Overall shot damage is increased
+ - C1/Skill have piercing shots
  - Spell card bullets have is increased speed/density and cannot be erased
  - Spell card lasers are longer and travel at sharper angle
  - Ex attack spawns more enemies and have altered movement paths
