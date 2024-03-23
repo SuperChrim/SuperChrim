@@ -15,6 +15,7 @@ Sanae:
  - Ex attack covers more of screen at higher levels
 Ran:
  - Non spell fires more bullets
+ - Ex kill reward is decreased
  - Chen always despawns with Ran boss
 Aunn:
  - Overall shot damage is increased
