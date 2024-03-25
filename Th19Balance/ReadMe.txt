@@ -27,6 +27,7 @@ Aunn:
 Nazrin:
  - Overall shot damage is increased
  - Scope speed is increased
+ - Bomb damage is increased
  - Ex have no collision for first 30 frames after spawning
  - Non spell bullets are faster and stay on screen longer
  - Spell card bullets are faster and more dense
