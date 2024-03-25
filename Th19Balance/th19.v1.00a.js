@@ -50,37 +50,6 @@
       "code": "BD"
     },
 
-    "NazrinBombDmg": {
-      "addr": "Rx12C680",
-      "code": " \
-        68 28000000 \
-        6A 01 \
-        51 \
-        C70424 00000000 \
-        8D4D F8 \
-        56 \
-        51 \
-        8B48 30 \
-        E8 640FFEFF \
-        8B00 \
-        8BC8 \
-        81E1 00000F00 \
-        F7D9 \
-        50 \
-        1BC9 \
-        83E1 3C \
-        8B89 A0E40A01 \
-        E8 9710FEFF \
-        8348 14 10 \
-        5F \
-        33C0 \
-        5E \
-        8BE5 \
-        5D \
-        C3 \
-      "
-    },
-
     "YachieCancelDamage": {
       "addr": "Rx1F443",
       "code": "0A"
