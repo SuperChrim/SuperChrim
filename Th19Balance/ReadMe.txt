@@ -7,6 +7,7 @@ Reimu:
  - Overall shot damage is decreased
  - C1 is removed from performing skill
  - Skill requires more meter to use and range for erasing bullets is decreased
+ - Time after skill before actionable state is increased
  - Ex bullet speed/acceleration is decreased and higher levels have reduced bullet size
  - Spell card bullet speed and acceleration is decreased
 Marisa:

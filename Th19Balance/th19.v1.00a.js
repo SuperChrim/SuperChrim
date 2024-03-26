@@ -32,6 +32,13 @@
       "
     },
 
+    "ReimuC2Offset": {
+      "addr": "Rx127245",
+      "code": " \
+        E9 0D010000 \
+        90 \
+      "
+    },
     "ReimuC2NoC1": {
       "addr": "Rx127675",
       "code": " \
@@ -174,6 +181,54 @@
   },
 
   "codecaves": {
+    "ReimuC2ShootAndChargeDelayCounters": {
+      "access": "RW",
+      "code": "\
+        FFFFFFFF \
+        FFFFFFFF \
+      "
+    },
+    "ReimuC2ShootAndChargeDelayACave": {
+      "code": "\
+        8B42 64 \
+        85 C0 \
+        74 0C \
+        31C0 \
+        A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
+        A3 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
+        5D \
+        C2 0400 \
+      "
+    },
+    "ReimuC2ShootAndChargeDelayBCave": {
+      "code": "\
+        A1 <codecave:ReimuC2ShootAndChargeDelayCounters> \
+        85C0 \
+        78 3E \
+        0F1F4000 \
+        40 \
+        A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
+        83E0 01 \
+        75 31 \
+        0F1F4000 \
+        A1 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
+        83F8 38 /* Delay Frames */ \
+        7D 14 \
+        0F1F4000 \
+        40 \
+        A3 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
+        B8 01000000 \
+        EB 12 \
+        0F1F00 \
+        31C0 \
+        48 \
+        A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
+        A3 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
+        31C0 \
+        C3 \
+      "
+    },
+
     "NerfZanmuCard2ACave": {
       "code": " \
         0F84 [RxD8429] \
