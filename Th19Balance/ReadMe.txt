@@ -5,6 +5,7 @@ IMPORTANT! Do NOT use this in random matches in online mode.
 
 Reimu:
  - Overall shot damage is decreased
+ - C1 is removed from performing skill
  - Skill requires more meter to use and range for erasing bullets is decreased
  - Ex bullet speed/acceleration is decreased and higher levels have reduced bullet size
  - Spell card bullet speed and acceleration is decreased
