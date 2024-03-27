@@ -122,6 +122,10 @@
       "addr": "Rx21DF5",
       "code": "50"
     },
+    "YuumaC2Dmg": {
+      "addr": "Rx21E4C",
+      "code": "28"
+    },
     "YuumaExTimeCap": {
       "addr": "Rx21F07",
       "code": "1B"

@@ -69,6 +69,7 @@ Saki:
 Yuuma:
  - Unfocused/focus shot damage is increased
  - Scope speed is decreased
+ - C1/skill damage is decreased
  - C1/skill require more meter and cannot kill Ex special enemies
  - Skill animation and collision is adjusted
  - Ex eagle spirits shoot less bullets
