@@ -94,7 +94,7 @@
     },
     "YachieC2Range": {
       "addr": "Rx1F3D5",
-      "code": "1E"
+      "code": "22"
     },
 
     "YuumaScopeSpeedA": {
