@@ -54,6 +54,17 @@
         909090 \
       "
     },
+    "ReimuC2ShootAndChargeDelayA": {
+      "addr": "Rx1276D8",
+      "code": "\
+        E9 [codecave:ReimuC2ShootAndChargeDelayACave] \
+        90 \
+      "
+    },
+    "ReimuC2ShootAndChargeDelayB": {
+        "addr": "Rx185D60",
+        "code": "<codecave:ReimuC2ShootAndChargeDelayBCave>"
+    },
     "ReimuC2Range": {
       "addr": "Rx127BA1",
       "code": "0F8D 06010000 \
@@ -71,6 +82,7 @@
       "addr": "Rx188D6",
       "code": "BD"
     },
+
     "NazrinBombDmg": {
       "addr": "Rx12C681",
       "code": "28"
