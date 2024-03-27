@@ -124,7 +124,7 @@
     },
     "YuumaC2Dmg": {
       "addr": "Rx21E4C",
-      "code": "28"
+      "code": "2D"
     },
     "YuumaExTimeCap": {
       "addr": "Rx21F07",
