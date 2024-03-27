@@ -80,7 +80,7 @@
 
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
-      "code": "BF"
+      "code": "BE"
     },
 
     "NazrinBombDmg": {
