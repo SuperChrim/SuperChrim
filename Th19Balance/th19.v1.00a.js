@@ -135,6 +135,15 @@
       "code": "90909090"
     },
 
+    "CiyariScopeSize": {
+      "addr": "Rx26B82",
+      "code": "7A"
+    },
+    "CiyariScopeDmg": {
+      "addr": "Rx26D03",
+      "code": "06"
+    },
+
     "ZanmuC2A": {
       "addr": "Rx299BF",
       "code": "A001" //5A00

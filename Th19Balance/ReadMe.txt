@@ -84,6 +84,7 @@ Suika:
 Biten:
  - Overall shot damage is increased
 Chiyari:
+ - Scope size and damage in increased
  - Ex attacks have is decreased speed and disappear faster
  - Skill dynamically increases size of Ex based on current size rather than one size
  - Ex attacks have no collision for first 30 frames after spawning
