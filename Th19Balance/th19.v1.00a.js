@@ -22,7 +22,7 @@
     },
     "NazrinAuraAun2Base": {
       "type": "f32",
-      "val": 0.32
+      "val": 0.4
     },
     "SeiranAuraAun2Base": {
       "type": "f32",
@@ -42,7 +42,7 @@
     },
     "MamizouAuraAun2Base": {
       "type": "f32",
-      "val": 0.28
+      "val": 0.3
     },
     "YachieAuraAun2Base": {
       "type": "f32",
