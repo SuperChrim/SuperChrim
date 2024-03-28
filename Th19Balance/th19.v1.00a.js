@@ -173,39 +173,39 @@
       "code": "22"
     },
 
-    "YuumaScopeSpeedA": {
-      "addr": "Rx21382",
-      "code": "9843"
+    "ToutetsuScopeTime": {
+      "addr": "Rx21368",
+      "code": "20030000"
     },
-    "YuumaC2A": {
+    "ToutetsuC2A": {
       "addr": "Rx21BA4",
       "code": "A0C2"
     },
-    "YuumaC2B": {
+    "ToutetsuC2B": {
       "addr": "Rx21BAE",
       "code": "9643"
     },
-    "YuumaC2C": {
+    "ToutetsuC2C": {
       "addr": "Rx21BB8",
       "code": "A0C2"
     },
-    "YuumaC1TimeOffset": {
+    "ToutetsuC1TimeOffset": {
       "addr": "Rx21A56",
       "code": "11"
     },
-    "YuumaC2EndTime": {
+    "ToutetsuC2EndTime": {
       "addr": "Rx21DF5",
       "code": "50"
     },
-    "YuumaC2Dmg": {
+    "ToutetsuC2Dmg": {
       "addr": "Rx21E4C",
       "code": "2D"
     },
-    "YuumaExTimeCap": {
+    "ToutetsuExTimeCap": {
       "addr": "Rx21F07",
       "code": "1B"
     },
-    "YuumaNoCancel": {
+    "ToutetsuNoCancel": {
       "addr": "Rx21E84",
       "code": "90909090"
     },
