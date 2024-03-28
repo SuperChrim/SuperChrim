@@ -120,7 +120,6 @@ Zanmu:
 
 Ability Cards:
  - All ability card shots have increased damage
- - Aunn's second card effects all characters and effect is increased
  - Yachie Ex otters can be strengthened/weakened with Yachie's cards
  - Saki Ex wolves can be strengthened/weakened with Saki's cards
  - Yuuma Ex eagles can be strengthened/weakened with Yuuma's cards
