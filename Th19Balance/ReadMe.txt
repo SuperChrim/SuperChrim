@@ -20,7 +20,6 @@ Sanae:
 
 Ran:
  - Non spell fires more bullets
- - Ex kill reward is decreased
  - Chen always despawns with Ran boss
 
 Aunn:
