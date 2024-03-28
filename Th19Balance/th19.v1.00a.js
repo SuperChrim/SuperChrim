@@ -99,7 +99,6 @@
       "addr": "Rx11DBA9",
       "code": "9600"
     },
-
     "SeperateExAttackAndBossAttackCheckA": {
       "addr": "Rx1032A0",
       "code": "83C6 4C"
@@ -122,7 +121,6 @@
         E9 8A000000 \
       "
     },
-
     "ReimuC2NoC1": {
       "addr": "Rx127675",
       "code": "\
@@ -162,7 +160,6 @@
       "addr": "Rx12C681",
       "code": "28"
     },
-
     "YachieCancelDamage": {
       "addr": "Rx1F443",
       "code": "0A"
@@ -171,7 +168,6 @@
       "addr": "Rx1F3D5",
       "code": "22"
     },
-
     "ToutetsuScopeTime": {
       "addr": "Rx21368",
       "code": "20030000"
@@ -208,12 +204,10 @@
       "addr": "Rx21E84",
       "code": "90909090"
     },
-
     "CiyariScopeDmg": {
       "addr": "Rx26D03",
       "code": "06"
     },
-
     "ZanmuC2A": {
       "addr": "Rx299BF",
       "code": "A001" //5A00
@@ -234,7 +228,6 @@
       "addr": "Rx299E9",
       "code": "803F"
     },
-
     "AnimalSpiritIdentify": {
       "addr": "Rx29DBA",
       "code": " \
@@ -259,7 +252,6 @@
         8955AC \
       "
     },
-
     "ReimuAuraAun2Multiplier": {
       "addr": "Rx14CA0",
       "code": "<codecave:Aun2CardMultipliers>"
@@ -400,7 +392,6 @@
         E8 [codecave:Aun2CardCalculateB] \
       "
     },
-
     "NerfZanmuCard2B": {
       "addr": "RxD83FF",
       "code": " \
@@ -415,7 +406,6 @@
       "
     }
   },
-
   "codecaves": {
     "ReimuC2NoC1Cave": {
       "code": "\
@@ -478,7 +468,6 @@
         C3 \
       "
     },
-
     "NerfZanmuCard2ACave": {
       "code": " \
         0F84 [RxD8429] \
@@ -507,7 +496,6 @@
         E9 [RxD8491] \
       "
     },
-
     "Aun2CardMultipliers": {
       "access": "r",
       "code": "<option:ReimuAuraAun2Base><option:MarisaAuraAun2Base><option:SanaeAuraAun2Base><option:RanAuraAun2Base><option:AunAuraAun2Base><option:NazrinAuraAun2Base><option:SeiranAuraAun2Base><option:OrinAura1Aun2Base><option:OrinAura2Aun2Base><option:TsukasaAuraAun2Base><option:MamizouAuraAun2Base><option:YachieAuraAun2Base><option:SakiAura1Aun2Base><option:SakiAura2Aun2Base><option:ToutetsuAuraAun2Base><option:SuikaAuraAun2Base><option:BitenAuraAun2Base><option:EnokoAuraAun2Base><option:ChiyariAuraAun2Base><option:HisamiAuraAun2Base><option:ZanmuAura1Aun2Base><option:ZanmuAura2Aun2Base>"
