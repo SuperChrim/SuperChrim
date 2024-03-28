@@ -269,16 +269,14 @@
       "addr": "Rx15900",
       "code": "(<codecave:Aun2CardMultipliers>+4)"
     },
-/*
     "SanaeAuraAun2Multiplier": {
-      "addr": "Rx163D4",
+      "addr": "Rx163D1",
       "code": " \
         6A 08 \
         E8 [codecave:Aun2CardCalculate] \
         <nop:57> \
       "
     },
-*/
     "RanAuraAun2Multiplier": {
       "addr": "Rx173BD",
       "code": " \
