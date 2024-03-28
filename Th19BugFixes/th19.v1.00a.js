@@ -26,7 +26,6 @@
         0F2FD1 \
       "
     },
-
     "NazrinExOrinC2Fix": {
       "addr": "RxF75D0",
       "code": "\
@@ -34,7 +33,6 @@
         74 \
       "
     },
-
     "YachieLaserCancelA": {
       "addr": "Rx116F6A",
       "code": "90909090"
@@ -43,7 +41,6 @@
       "addr": "Rx1197BA",
       "code": "90909090"
     },
-
     "SuikaBombFixA": {
       "addr": "Rx22738",
       "code": "FC00"
@@ -59,7 +56,6 @@
       "addr": "Rx227DC",
       "code": "65"
     },
-
     "ChiyariExFixA": {
       "addr": "Rx10641B",
       "code": "13"
@@ -79,12 +75,10 @@
         909090 \
       "
     },
-
     "ZanmuC2Fix": {
       "addr": "RxF8C1F",
       "code": "80"
     },
-
     "Achievement21A": {
       "addr": "Rx106B5C",
       "code": "6079"
