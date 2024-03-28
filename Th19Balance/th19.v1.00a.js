@@ -32,26 +32,11 @@
       "
     },
 
-    "ReimuC2Offset": {
-      "addr": "Rx127245",
-      "code": " \
-        E9 0D010000 \
-        90 \
-      "
-    },
     "ReimuC2NoC1": {
       "addr": "Rx127675",
-      "code": " \
-        8B 4A 64 \
-        85 C9 \
-        75 5C \
-        8B8A 98000000 \
-        F6 C1 01 \
-        75 16 \
-        83 C9 01 \
-        C782 94000000 00000000 \
-        898A 98000000 \
-        909090 \
+      "code": "\
+        E9 [codecave:ReimuC2NoC1Cave] \
+        90 \
       "
     },
     "ReimuC2ShootAndChargeDelayA": {
@@ -190,7 +175,12 @@
       "
     },
 
-    "NerfZanmuCard2A": {
+    //"AunnCardTest": {
+      //"addr": "Rx8017",
+      //"code": "82"
+    //},
+
+    "NerfZanmuCard2B": {
       "addr": "RxD83FF",
       "code": " \
         E9 [codecave:NerfZanmuCard2ACave] CC \
@@ -206,6 +196,20 @@
   },
 
   "codecaves": {
+    "ReimuC2NoC1Cave": {
+      "code": "\
+        8B4A 64 \
+        85C9 \
+        74 14 \
+        0F1F4000 \
+        8B09 \
+        8B09 \
+        81F9 <Rx185DF8> \
+        0F84 [Rx1276D8] \
+        8B8A 98000000 \
+        E9 [Rx12767B] \
+      "
+    },
     "ReimuC2ShootAndChargeDelayCounters": {
       "access": "RW",
       "code": "\
