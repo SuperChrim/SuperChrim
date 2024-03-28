@@ -42,7 +42,7 @@
     },
     "MamizouAuraAun2Base": {
       "type": "f32",
-      "val": 0.3
+      "val": 0.33
     },
     "YachieAuraAun2Base": {
       "type": "f32",
