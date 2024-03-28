@@ -260,7 +260,6 @@
       "
     },
 
-
     "ReimuAuraAun2Multiplier": {
       "addr": "Rx14CA0",
       "code": "<codecave:Aun2CardMultipliers>"
@@ -416,7 +415,6 @@
       "
     }
   },
-
 
   "codecaves": {
     "ReimuC2NoC1Cave": {
