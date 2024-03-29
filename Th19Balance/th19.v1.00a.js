@@ -444,7 +444,7 @@
         75 31 \
         0F1F4000 \
         A1 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
-        83F8 58 /* Delay Frames */ \
+        83F8 38 /* Delay Frames */ \
         7D 14 \
         0F1F4000 \
         40 \
