@@ -387,7 +387,7 @@
         E8 [codecave:Aun2CardCalculateB] \
       "
     },
-    "NerfZanmuCard2B": {
+    "NerfZanmuCard2A": {
       "addr": "RxD83FF",
       "code": " \
         E9 [codecave:NerfZanmuCard2ACave] CC \
