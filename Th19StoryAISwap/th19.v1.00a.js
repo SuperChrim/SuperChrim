@@ -64,15 +64,6 @@
       "enable": "<option:P1AI> == 0",
       "addr": "RxEAC42",
       "code": "90909090909090909090"
-    },
-    // Vs AI Swap
-    "VsP1AI": {
-      "addr": "Rx1414FC",
-      "code": "01"
-    },
-    "VsP2Iput": {
-      "addr": "Rx141506",
-      "code": "00"
     }
   },
   "codecaves": {
