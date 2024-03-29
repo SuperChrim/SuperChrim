@@ -89,7 +89,6 @@
       "val": 0.64
     }
   },
-
   "binhacks": {
     "BulletCap": {
       "addr": "RxE5B54",
@@ -129,11 +128,8 @@
       "
     },
     "ReimuC2ShootAndChargeDelayA": {
-      "addr": "Rx1276D8",
-      "code": "\
-        E9 [codecave:ReimuC2ShootAndChargeDelayACave] \
-        90 \
-      "
+      "addr": "Rx12762A",
+      "code": "E9 [codecave:ReimuC2ShootAndChargeDelayACave]"
     },
     "ReimuC2ShootAndChargeDelayB": {
         "addr": "Rx185D60",
@@ -151,7 +147,6 @@
       "addr": "Rx127D97",
       "code": "32"
     },
-
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BE"
@@ -430,14 +425,11 @@
     },
     "ReimuC2ShootAndChargeDelayACave": {
       "code": "\
-        8B42 64 \
-        85 C0 \
-        74 0C \
         31C0 \
         A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
-        A3 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
-        5D \
-        C2 0400 \
+        A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
+        894E 08 \
+        E9 [Rx12762F] \
       "
     },
     "ReimuC2ShootAndChargeDelayBCave": {
@@ -451,19 +443,19 @@
         83E0 01 \
         75 31 \
         0F1F4000 \
-        A1 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
-        83F8 38 /* Delay Frames */ \
+        A1 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
+        83F8 58 /* Delay Frames */ \
         7D 14 \
         0F1F4000 \
         40 \
-        A3 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
+        A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
         B8 01000000 \
         EB 12 \
         0F1F00 \
         31C0 \
         48 \
         A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
-        A3 <codecave:ReimuC2ShootAndChargeDelayCounters+4> \
+        A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
         31C0 \
         C3 \
       "
