@@ -45,10 +45,11 @@ Rin:
  - Overall shot damage is increased
  - Ex vengeful spirit health is decreased
  - Ex vengeful spirit bullets are slower and fire less often
- - Ex vengeful spirit spawn rate is adjusted
- - Ex vengeful spirits have smaller collision
+ - Ex vengeful spirit spawn rate and location is adjusted
  - Ex vengeful spirit kill reward is decreased
  - Ex vengeful spirits can be grazed
+ - Spell card fairies shoot bullets when killed
+ - Spell card bullet speed increases with boss level
 
 Tsukasa:
  - Overall shot damage is increased
