@@ -79,6 +79,21 @@
       "addr": "RxF8C1F",
       "code": "80"
     },
+    "VsReturnToCharacterSelectMenuFix": {
+      "addr": "Rx12570F",
+      "code": " \
+        8BD6 \
+        83F9 02 \
+        0F4EC2 \
+        8B00 \
+        8906 \
+        83F8 01 \
+        75 14 \
+        6987 00040000 C0020000 \
+        C780 <Rx200B0C> 01000000 \
+        81A3 40010000 EFFFF7FF \
+       "
+    },
     "Achievement21A": {
       "addr": "Rx106B5C",
       "code": "6079"
