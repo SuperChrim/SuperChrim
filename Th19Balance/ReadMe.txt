@@ -20,12 +20,12 @@ Sanae:
 
 Ran:
  - Non spell fires more bullets
- - Chen always despawns with Ran boss
+ - Chen always despawns with Ran and the end of spell card
 
 Aunn:
  - Overall shot damage is increased
  - C1/Skill have piercing shots
- - Spell card bullets have is increased speed/density and cannot be erased
+ - Spell card bullets have increased speed/density and cannot be erased
  - Spell card lasers are longer and travel at sharper angle
  - Ex attack spawns more enemies and have altered movement paths
  - Ex can only be destroyed with bombs
