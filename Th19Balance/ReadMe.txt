@@ -143,4 +143,5 @@ Th19BugFixes:
  - Chiyari Ex grow bug is fixed
  - Laser count is capped at 150 to prevent Hisami crashing the game
  - Zanmu skill bug preventing spirits to spawn is fixed
+ - Quit out bug in Vs mode is fixed
  - Achievement 21 can be obtained
