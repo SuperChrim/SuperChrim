@@ -76,7 +76,7 @@ Saki:
  - Ex wolf spawn rate is adjusted
  - Ex wolf spirits can be grazed
  - Ex wolf spirit kill reward is decreased
- - Spell card laser are longer and shoot faster
+ - Spell card lasers are longer and shoot faster
 
 Yuuma:
  - Unfocused/focus shot damage is increased
