@@ -33,6 +33,10 @@
         74 \
       "
     },
+    "NazrinC2ExFix": {
+      "addr": "Rx10D8DC",
+      "code": "00"
+    },
     "YachieLaserCancelA": {
       "addr": "Rx116F6A",
       "code": "90909090"

@@ -4,6 +4,7 @@ Fixes:
  - Includes Shoxla's Rin skill death bug fix
  - Includes Shoxla's Th19ExAttackResAnimFix
  - Nazrin and Suika Ex vulnerable to Orin skill bug is fixed
+ - Nazrin Skill Ex hp bug is fixed
  - Tsukasa spell card laser bounce bug is fixed
  - Yachie laser cancel bug is fixed
  - Suika bomb is fixed
