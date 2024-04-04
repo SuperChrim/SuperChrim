@@ -161,7 +161,7 @@
     },
     "YachieC2Range": {
       "addr": "Rx1F3D5",
-      "code": "22"
+      "code": "28"
     },
     "ToutetsuScopeTime": {
       "addr": "Rx21368",
