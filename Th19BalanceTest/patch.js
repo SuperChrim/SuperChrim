@@ -10,5 +10,5 @@
   "servers": [
     "https://mirrors.thpatch.net/SuperChrim/Th19BalanceTest/"
   ],
-  "title": "Test Build of Th19Balance"
+  "title": "Testing build of Th19Balance"
 }
