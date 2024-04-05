@@ -84,18 +84,10 @@
       "code": "80"
     },
     "VsReturnToCharacterSelectMenuFix": {
-      "addr": "Rx12570F",
+      "addr": "Rx100E50",
       "code": " \
-        8BD6 \
-        83F9 02 \
-        0F4EC2 \
-        8B00 \
-        8906 \
-        83F8 01 \
-        75 14 \
-        6987 00040000 C0020000 \
-        C780 <Rx200B0C> 01000000 \
-        81A3 40010000 EFFFF7FF \
+        E9 [codecave:VsReturnToCharacterSelectMenuFixCave] \
+        90 \
        "
     },
     "Achievement21A": {
@@ -113,6 +105,17 @@
     "Achievement21D": {
       "addr": "Rx106B90",
       "code": "6079"
+    }
+  },
+  "codecaves": {
+    "VsReturnToCharacterSelectMenuFixCave": {
+      "code": " \
+        0F84 [Rx10120A] \
+        8B15 <Rx208C90> \
+        83FA 04 \
+        0F84 [Rx10120A] \
+        E9 [Rx100E56] \
+      "
     }
   }
 }
