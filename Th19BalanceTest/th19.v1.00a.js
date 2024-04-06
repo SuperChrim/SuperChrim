@@ -157,7 +157,7 @@
     },
     "YachieCancelDamage": {
       "addr": "Rx1F443",
-      "code": "0A"
+      "code": "36"
     },
     "YachieC2Range": {
       "addr": "Rx1F3D5",
@@ -189,7 +189,7 @@
     },
     "ToutetsuC2Dmg": {
       "addr": "Rx21E4C",
-      "code": "2D"
+      "code": "45"
     },
     "ToutetsuExTimeCap": {
       "addr": "Rx21F07",
