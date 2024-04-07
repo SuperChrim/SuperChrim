@@ -20,6 +20,7 @@ Sanae:
 
 Ran:
  - Non spell fires more bullets
+ - Ex have no kill reward
  - Chen always despawns with Ran and the end of spell card
 
 Aunn:
