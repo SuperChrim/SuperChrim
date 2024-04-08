@@ -132,12 +132,13 @@ Zanmu:
 Ability Cards:
  - All ability card shots have increased damage
  - Aunn's second card effects all characters and effect is increased
+ - Orin's second card makes disabled spirits stay on screen longer
  - Yachie Ex otters can be strengthened/weakened with Yachie's cards
  - Saki Ex wolves can be strengthened/weakened with Saki's cards
  - Yuuma Ex eagles can be strengthened/weakened with Yuuma's cards
- - Biten's second card makes Yachie Ex otters passable when disabled
- - Enoko's second card makes Saki Ex wolves passable when disabled
- - Chiyari's second card makes Yuuma Ex eagles passable when disabled
+ - Biten's second card makes Yachie Ex otters passable when disabled and decrease collision size
+ - Enoko's second card makes Saki Ex wolves passable when disabled and decrease collision size
+ - Chiyari's second card makes Yuuma Ex eagles passable when disabled and decrease collision size
  - Zanmu's second ability card only grants bomb piece after full meter charge
 
 System:
