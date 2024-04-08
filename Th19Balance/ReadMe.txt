@@ -41,6 +41,7 @@ Nazrin:
 
 Seiran:
  - Seiran can shoot while performing skill
+ - Skill fires more shots
 
 Rin:
  - Overall shot damage is increased
