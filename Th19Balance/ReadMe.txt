@@ -111,11 +111,11 @@ Biten:
 
 Chiyari:
  - Scope damage is increased
- - Ex attacks have decreased speed and disappear faster
+ - Ex have decreased speed and disappear faster
  - Skill dynamically increases size of Ex based on current size rather than one size
- - Ex attacks have no collision for first 30 frames after spawning
- - Ex attacks disappear inside bomb and after player death
- - Ex attacks can be grazed
+ - Ex have no collision for first 30 frames after spawning
+ - Ex disappear inside bomb and after player death
+ - Ex can be grazed
  - Skill/Ex attack require more meter to use
 
 Hisami:
