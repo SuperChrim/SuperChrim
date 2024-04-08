@@ -137,8 +137,11 @@ Ability Cards:
  - Saki Ex wolves can be strengthened/weakened with Saki's cards
  - Yuuma Ex eagles can be strengthened/weakened with Yuuma's cards
  - Biten's second card makes Yachie Ex otters passable when disabled and decrease collision size
+ - Biten's second card makes otters shoot no bullets
  - Enoko's second card makes Saki Ex wolves passable when disabled and decrease collision size
+ - Enoko's second card makes wolves shoot no bullets
  - Chiyari's second card makes Yuuma Ex eagles passable when disabled and decrease collision size
+ - Chiyari's second card makes eagles shoot no bullets
  - Zanmu's second ability card only grants bomb piece after full meter charge
 
 System:
