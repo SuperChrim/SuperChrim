@@ -45,7 +45,8 @@ Seiran:
 
 Rin:
  - Overall shot damage is increased
- - Ex vengeful spirit health is decreased
+ - Ex vengeful spirits lose health when scoped
+ - Ex vengeful spirit health is increased
  - Ex vengeful spirit bullets are slower and fire less often
  - Ex vengeful spirit spawn rate and location is adjusted
  - Ex vengeful spirit kill reward is decreased
@@ -66,21 +67,23 @@ Mamizou:
 Yachie:
  - Skill deals less damage and range is decreased
  - Ex otter spirit health is increased
- - Ex otters shoot less bullets
+ - Ex otter spirits lose health when scoped
+ - Ex otters shoot more bullets
  - Ex otter spawn rate is adjusted
  - Ex otter spirits can be grazed
  - Ex otter spirit kill reward is decreased
- - Ex attack will spawn a couple normal otter spirits
+ - Extra attacks will spawn a couple normal otter spirits
 
 Saki:
  - Overall shot damage is increased
  - C1, skill, and Ex attack require less meter
  - Ex wolf spirit health is increased
- - Ex wolves shoot less bullets
- - Ex wolf spawn rate is adjusted
+ - Ex wolf spirits lose health when scoped
+ - Ex wolf spirits shoot more bullets
+ - Ex wolf spirit spawn rate is adjusted
  - Ex wolf spirits can be grazed
  - Ex wolf spirit kill reward is decreased
- - Ex attack will spawn a couple normal wolf spirits
+ - Extra attacks will spawn a couple normal wolf spirits
  - Spell card lasers are longer and shoot faster
 
 Yuuma:
@@ -89,13 +92,15 @@ Yuuma:
  - C1/skill damage is decreased
  - C1/skill require more meter and cannot kill Ex special enemies
  - Skill animation and collision is adjusted
- - Ex eagle spirits shoot less bullets
+ - Ex eagle spirit health is increased
+ - Ex eagle spirits lose health when scoped
+ - Ex eagle spirits shoot more bullets
  - Ex eagle movement speed and angle is adjusted
  - Ex eagle spawn rate is adjusted
- - Ex attack eagles cannot be disabled until one second after spawning
+ - Extra attack eagles cannot be disabled until one second after spawning
  - Ex eagle spirits can be grazed
  - Ex eagle kill reward is decreased
- - Ex attack will spawn a couple normal eagle spirits
+ - Ex will spawn a couple normal eagle spirits
 
 Suika:
  - Spell card boss health is increased
