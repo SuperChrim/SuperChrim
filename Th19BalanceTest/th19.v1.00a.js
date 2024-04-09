@@ -167,17 +167,21 @@
       "addr": "Rx21368",
       "code": "20030000"
     },
-    "ToutetsuC2A": {
-      "addr": "Rx21BA4",
-      "code": "A0C2"
+    "ToutetsuC1Range": {
+      "addr": "Rx21A9D",
+      "code": "3442"
     },
-    "ToutetsuC2B": {
+    "ToutetsuC2RangeA": {
+      "addr": "Rx21BA4",
+      "code": "70C2"
+    },
+    "ToutetsuC2RangeB": {
       "addr": "Rx21BAE",
       "code": "9643"
     },
-    "ToutetsuC2C": {
+    "ToutetsuC2RangeC": {
       "addr": "Rx21BB8",
-      "code": "A0C2"
+      "code": "70C2"
     },
     "ToutetsuC1TimeOffset": {
       "addr": "Rx21A56",
