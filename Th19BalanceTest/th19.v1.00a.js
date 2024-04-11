@@ -199,7 +199,7 @@
       "addr": "Rx21F07",
       "code": "1B"
     },
-    "ToutetsuNoCancel": {
+    "ToutetsuNoEnemyCancel": {
       "addr": "Rx21E84",
       "code": "90909090"
     },
