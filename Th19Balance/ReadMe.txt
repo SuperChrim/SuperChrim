@@ -109,6 +109,9 @@ Suika:
 Biten:
  - Overall shot damage is increased
 
+Enoko:
+ - C1 and skill damage is decreased
+
 Chiyari:
  - Scope damage is increased
  - Ex have decreased speed and disappear faster
