@@ -98,6 +98,7 @@
       "addr": "Rx11DBA9",
       "code": "9600"
     },
+
     "SeperateExAttackAndBossAttackCheckA": {
       "addr": "Rx1032A0",
       "code": "83C6 4C"
@@ -167,10 +168,6 @@
       "addr": "Rx21368",
       "code": "20030000"
     },
-    "ToutetsuC1Range": {
-      "addr": "Rx21A9D",
-      "code": "3442"
-    },
     "ToutetsuC2RangeA": {
       "addr": "Rx21BA4",
       "code": "70C2"
@@ -193,11 +190,23 @@
     },
     "ToutetsuC2Dmg": {
       "addr": "Rx21E4C",
-      "code": "45"
+      "code": "50"
     },
     "ToutetsuExTimeCap": {
       "addr": "Rx21F07",
       "code": "1B"
+    },
+    "ToutetsuEraseBullets": {
+      "addr": "Rx21E09",
+      "code": "E9 [codecave:ToutetsuEraseBulletsCave]"
+    },
+    "ToutetsuNoCancelA": {
+      "addr": "Rx21E24",
+      "code": "83C4 14 9090"
+    },
+    "ToutetsuNoCancelB": {
+      "addr": "Rx21E3B",
+      "code": "83C4 0C 9090"
     },
     "ToutetsuNoEnemyCancel": {
       "addr": "Rx21E84",
@@ -391,6 +400,7 @@
         E8 [codecave:Aun2CardCalculateB] \
       "
     },
+
     "NerfZanmuCard2A": {
       "addr": "RxD83FF",
       "code": " \
@@ -462,6 +472,27 @@
         A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
         31C0 \
         C3 \
+      "
+    },
+    "ToutetsuEraseBulletsCave": {
+      "code": " \
+        50 \
+        51 \
+        52 \
+        6A 01 \
+        6A 02 \
+        6A 00 \
+        6A 01 \
+        57 \
+        B8 CC000000 \
+        FF3430 \
+        0F28D8 \
+        E8 [Rx10AA10] \
+        5A \
+        59 \
+        58 \
+        68 9F860100 \
+        E9 [Rx21E0E] \
       "
     },
     "NerfZanmuCard2ACave": {
