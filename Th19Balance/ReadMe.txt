@@ -35,6 +35,7 @@ Nazrin:
  - Overall shot damage is increased
  - Scope speed is increased
  - Bomb damage is increased
+ - Skill causes Ex spirits to shoot bullets on death
  - Ex have no collision for first 30 frames after spawning
  - Non spell bullets have an adjusted pattern
  - Spell card bullets are faster and more dense
