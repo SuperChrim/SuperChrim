@@ -83,6 +83,13 @@
       "addr": "RxF8C1F",
       "code": "80"
     },
+    "SuikaCard2Fix": {
+      "addr": "Rx10DD29",
+      "code": " \
+        83C1 0A \
+        90 \
+      "
+    },
     "VsReturnToCharacterSelectMenuFix": {
       "addr": "Rx100E50",
       "code": " \
