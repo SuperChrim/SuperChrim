@@ -147,6 +147,7 @@ Ability Cards:
  - Enoko's second card makes wolves shoot no bullets
  - Chiyari's second card makes Yuuma Ex eagles passable when disabled and decrease collision size
  - Chiyari's second card makes eagles shoot no bullets
+ - Hisami second ability effect is increased, and spirit bullets are affected
  - Zanmu's second ability card only grants bomb piece after full meter charge
 
 System:

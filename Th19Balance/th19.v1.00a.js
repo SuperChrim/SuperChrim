@@ -87,6 +87,10 @@
     "ZanmuAura2Aun2Base": {
       "type": "f32",
       "val": 0.64
+    },
+    "BuffHisamiCard2Mul": {
+      "type": "f32",
+      "val": 0.5
     }
   },
   "binhacks": {
@@ -387,6 +391,10 @@
         E8 [codecave:Aun2CardCalculateB] \
       "
     },
+    "BuffHisamiCard2": {
+      "addr": "RxE349B",
+      "code": "<codecave:BuffHisamiCard2Cave>"
+    },
     "NerfZanmuCard2A": {
       "addr": "RxD83FF",
       "code": " \
@@ -549,6 +557,9 @@
         F30F1143 70 \
         C3 \
       "
+    },
+    "BuffHisamiCard2Cave": {
+      "code": "<option:BuffHisamiCard2Mul>"
     }
   }
 }

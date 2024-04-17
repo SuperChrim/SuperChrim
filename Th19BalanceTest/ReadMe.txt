@@ -4,4 +4,3 @@ Changes:
  - Yuuma C1 and C2 only erase small bullets
  - Marisa gets her some her C1 damage back
  - Zanmu spell has less health against Marisa
- - Hisami second ability effect is increased, and spirit bullets are affected
