@@ -86,7 +86,7 @@
     "SuikaCard2Fix": {
       "addr": "Rx10DD29",
       "code": " \
-        83C1 06 \
+        83C1 05 \
         90 \
       "
     },
