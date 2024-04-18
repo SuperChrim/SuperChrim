@@ -159,6 +159,7 @@ Th19BugFixes:
  - Includes Shoxlu's Rin skill death bug fix
  - Includes Shoxlu's Th19ExAttackResAnimFix
  - Nazrin and Suika Ex vulnerable to Orin skill bug is fixed
+ - Mamizou lv 7 extra attack bug is fixed
  - Tsukasa spell card laser bounce bug is fixed
  - Yachie laser cancel bug is fixed
  - Chiyari Ex grow bug is fixed
