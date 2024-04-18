@@ -65,7 +65,6 @@ Tsukasa:
 Mamizou:
  - C1 damage is increased
  - Skill/Ex attack require less meter
- - Mamizou lv 7 extra attack bug is fixed
 
 Yachie:
  - Skill deals less damage and range is decreased
