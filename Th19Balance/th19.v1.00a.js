@@ -1,5 +1,9 @@
 {
   "options": {
+    "ToutetsuC1EtBreakSubName": {
+      "type": "s8",
+      "val": "Ecl_EtBreakLv1Toutetsu"
+    },
     "ReimuAuraAun2Base": {
       "type": "f32",
       "val": 0.64
@@ -151,6 +155,7 @@
       "addr": "Rx127D97",
       "code": "32"
     },
+
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BE"
@@ -171,17 +176,17 @@
       "addr": "Rx21368",
       "code": "20030000"
     },
-    "ToutetsuC2A": {
+    "ToutetsuC2RangeA": {
       "addr": "Rx21BA4",
-      "code": "A0C2"
+      "code": "70C2"
     },
-    "ToutetsuC2B": {
+    "ToutetsuC2RangeB": {
       "addr": "Rx21BAE",
       "code": "9643"
     },
-    "ToutetsuC2C": {
+    "ToutetsuC2RangeC": {
       "addr": "Rx21BB8",
-      "code": "A0C2"
+      "code": "70C2"
     },
     "ToutetsuC1TimeOffset": {
       "addr": "Rx21A56",
@@ -193,20 +198,44 @@
     },
     "ToutetsuC2Dmg": {
       "addr": "Rx21E4C",
-      "code": "45"
+      "code": "50"
     },
     "ToutetsuExTimeCap": {
       "addr": "Rx21F07",
       "code": "1B"
     },
-    "ToutetsuNoCancel": {
+    "ToutetsuEraseBullets": {
+      "addr": "Rx21E09",
+      "code": "E9 [codecave:ToutetsuEraseBulletsCave]"
+    },
+/*
+    "ToutetsuC1EtBreak": {
+      "addr": "Rx21A50",
+      "code": " \
+      E9 [codecave:ToutetsuC1EtBreakCave] \
+      <nop:5> \
+      "
+    },
+*/
+    "ToutetsuNoCancelA": {
+      "addr": "Rx21E24",
+      "code": "83C4 14 9090"
+    },
+    "ToutetsuNoCancelB": {
+      "addr": "Rx21E3B",
+      "code": "83C4 0C 9090"
+    },
+
+    "ToutetsuNoEnemyCancel": {
       "addr": "Rx21E84",
       "code": "90909090"
     },
+
     "CiyariScopeDmg": {
       "addr": "Rx26D03",
       "code": "06"
     },
+
     "ZanmuC2A": {
       "addr": "Rx299BF",
       "code": "A001" //5A00
@@ -227,6 +256,7 @@
       "addr": "Rx299E9",
       "code": "803F"
     },
+
     "AnimalSpiritIdentify": {
       "addr": "Rx29DBA",
       "code": " \
@@ -466,6 +496,61 @@
         A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
         31C0 \
         C3 \
+      "
+    },
+    "ToutetsuEraseBulletsCave": {
+      "code": " \
+        50 \
+        51 \
+        52 \
+        6A 01 \
+        6A 02 \
+        6A 00 \
+        6A 01 \
+        57 \
+        B8 CC000000 \
+        FF3430 \
+        0F28D8 \
+        E8 [Rx10AA10] \
+        5A \
+        59 \
+        58 \
+        68 9F860100 \
+        E9 [Rx21E0E] \
+      "
+    },
+    "ToutetsuC1EtBreakCave": {
+      "code": " \
+        60 \
+        8B8B CC000000 \
+        8B51 2C \
+        8B52 2C \
+        3993 94000000 \
+        7D 4C \
+        0F1F4000 \
+        6A 50 \
+        E8 [Rx5BA65] \
+        8BC8 \
+        E8 [RxA310] \
+        8B8B CC000000 \
+        8B51 04 \
+        8BB2 8C060000 \
+        8930 \
+        8BB2 90060000 \
+        89 70 04 \
+        C74014 0A000000 \
+        50 \
+        50 \
+        68 <option:ToutetsuC1EtBreakSubName> \
+        8B49 08 \
+        E8 [RxFB510] \
+        58 \
+        50 \
+        E8 [Rx5BA57] \
+        83C4 08 \
+        61 \
+        C787 8C000000 11000000 \
+        E9 [Rx21A5A] \
       "
     },
     "NerfZanmuCard2ACave": {
