@@ -1,7 +1,7 @@
 {
   "options": {
     "ToutetsuC1EtBreakSubName": {
-      "type": "s8",
+      "type": "s",
       "val": "Ecl_EtBreakLv1Toutetsu"
     },
     "ReimuAuraAun2Base": {
@@ -155,7 +155,6 @@
       "addr": "Rx127D97",
       "code": "32"
     },
-
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BE"
@@ -204,19 +203,23 @@
       "addr": "Rx21F07",
       "code": "1B"
     },
-    "ToutetsuEraseBullets": {
-      "addr": "Rx21E09",
-      "code": "E9 [codecave:ToutetsuEraseBulletsCave]"
-    },
-/*
-    "ToutetsuC1EtBreak": {
-      "addr": "Rx21A50",
+    "ToutetsuEraseBulletsA": {
+      "addr": "Rx21E10",
       "code": " \
-      E9 [codecave:ToutetsuC1EtBreakCave] \
-      <nop:5> \
+        E9 [codecave:ToutetsuEraseBulletsCave] \
+        8B8E D0000000 \
+        FFB5 FCFFFFFF \
+        57 \
       "
     },
-*/
+    "ToutetsuEraseBulletsB": {
+      "addr": "Rx21E46",
+      "code": "F30F105D F8"
+    },
+    "ToutetsuC1EtBreak": {
+      "addr": "Rx21ACD",
+      "code": "E8 [codecave:ToutetsuC1EtBreakCave]"
+    },
     "ToutetsuNoCancelA": {
       "addr": "Rx21E24",
       "code": "83C4 14 9090"
@@ -225,17 +228,14 @@
       "addr": "Rx21E3B",
       "code": "83C4 0C 9090"
     },
-
     "ToutetsuNoEnemyCancel": {
       "addr": "Rx21E84",
       "code": "90909090"
     },
-
     "CiyariScopeDmg": {
       "addr": "Rx26D03",
       "code": "06"
     },
-
     "ZanmuC2A": {
       "addr": "Rx299BF",
       "code": "A001" //5A00
@@ -256,7 +256,6 @@
       "addr": "Rx299E9",
       "code": "803F"
     },
-
     "AnimalSpiritIdentify": {
       "addr": "Rx29DBA",
       "code": " \
@@ -425,6 +424,7 @@
       "addr": "RxE349B",
       "code": "<codecave:BuffHisamiCard2Cave>"
     },
+
     "NerfZanmuCard2A": {
       "addr": "RxD83FF",
       "code": " \
@@ -499,58 +499,48 @@
       "
     },
     "ToutetsuEraseBulletsCave": {
+      "access": "re",
       "code": " \
-        50 \
-        51 \
-        52 \
+        0F28D8 \
+        F30F591D {f32:1.0} \
+        F30F5905 {f32:0.3} \
+        F30F115D F8 \
+        F30F1145 FC \
         6A 01 \
         6A 02 \
         6A 00 \
         6A 01 \
         57 \
-        B8 CC000000 \
-        FF3430 \
-        0F28D8 \
+        FFB6 CC000000 \
         E8 [Rx10AA10] \
-        5A \
-        59 \
-        58 \
-        68 9F860100 \
-        E9 [Rx21E0E] \
+        E9 [Rx21E15] \
       "
     },
     "ToutetsuC1EtBreakCave": {
+      "access": "re",
       "code": " \
-        60 \
-        8B8B CC000000 \
-        8B51 2C \
-        8B52 2C \
-        3993 94000000 \
-        7D 4C \
-        0F1F4000 \
-        6A 50 \
-        E8 [Rx5BA65] \
-        8BC8 \
-        E8 [RxA310] \
-        8B8B CC000000 \
-        8B51 04 \
-        8BB2 8C060000 \
-        8930 \
-        8BB2 90060000 \
-        89 70 04 \
-        C74014 0A000000 \
-        50 \
-        50 \
+        83EC 54 \
+        0F57C0 \
+        89CE \
+        F20F114424 4C \
+        0F114424 3C \
+        0F114424 2C \
+        0F114424 1C \
+        0F114424 0C \
+        8B45 08 \
+        8B50 08 \
+        895424 08 \
+        F20F1000 \
+        F20F110424 \
+        8B87 D0000000 \
+        8B48 08 \
+        89E2 \
+        52 \
         68 <option:ToutetsuC1EtBreakSubName> \
-        8B49 08 \
         E8 [RxFB510] \
-        58 \
-        50 \
-        E8 [Rx5BA57] \
-        83C4 08 \
-        61 \
-        C787 8C000000 11000000 \
-        E9 [Rx21A5A] \
+        83C4 54 \
+        89F1 \
+        E9 [RxAEB20] \
       "
     },
     "NerfZanmuCard2ACave": {
