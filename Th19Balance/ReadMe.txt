@@ -71,7 +71,7 @@ Tsukasa:
 
 Mamizou:
  - C1 damage has been increased
- - Skill/Ex attack noww require less meter
+ - Skill/Ex attack now require less meter
  - Lvl 7 extra attack bug has now been fixed
 
 Yachie:
