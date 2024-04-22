@@ -126,7 +126,7 @@ Chiyari:
  - Scope damage has been increased
  - Ex now have decreased speed and disappear faster
  - Skill now dynamically increases size of Ex based on current size, rather than always increasing to the maximum size
- - Ex noww have no collision for first 30 frames after spawning
+ - Ex now have no collision for first 30 frames after spawning
  - Ex now disappear when bombed and after player death
  - Ex can now be grazed
  - Skill/Ex attack now require more meter to use
