@@ -93,7 +93,7 @@ Saki:
  - Ex wolf spirit spawn rate has been adjusted
  - Ex wolf spirits can now be grazed
  - Ex wolf spirit kill reward has been decreased
- - Ex attack will now spawn a couple of normal wolf spirits in addition to Ex wolf spiriits
+ - Ex attack will now spawn a couple of normal wolf spirits in addition to Ex wolf spirits
  - Spell card lasers are now longer and travel faster
 
 Yuuma:
