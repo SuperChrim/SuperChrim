@@ -101,7 +101,7 @@ Yuuma:
  - Scope speed has been decreased
  - C1/skill damage has been decreased
  - C1/skill now require more meter and cannot kill Ex special enemies
- - Skill range has been increased to match the animation
+ - C1/Skill only erase bullets in front of her
  - Ex eagle spirit health has been increased
  - Ex eagle spirits now lose health when scoped
  - Ex eagle spirits now shoot more bullets
