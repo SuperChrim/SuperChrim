@@ -155,6 +155,7 @@
       "addr": "Rx127D97",
       "code": "32"
     },
+
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BE"
@@ -202,19 +203,6 @@
     "ToutetsuExTimeCap": {
       "addr": "Rx21F07",
       "code": "1B"
-    },
-    "ToutetsuEraseBulletsA": {
-      "addr": "Rx21E10",
-      "code": " \
-        E9 [codecave:ToutetsuEraseBulletsCave] \
-        8B8E D0000000 \
-        FFB5 FCFFFFFF \
-        57 \
-      "
-    },
-    "ToutetsuEraseBulletsB": {
-      "addr": "Rx21E46",
-      "code": "F30F105D F8"
     },
     "ToutetsuC1EtBreak": {
       "addr": "Rx21ACD",
@@ -424,7 +412,6 @@
       "addr": "RxE349B",
       "code": "<codecave:BuffHisamiCard2Cave>"
     },
-
     "NerfZanmuCard2A": {
       "addr": "RxD83FF",
       "code": " \
@@ -496,24 +483,6 @@
         A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
         31C0 \
         C3 \
-      "
-    },
-    "ToutetsuEraseBulletsCave": {
-      "access": "re",
-      "code": " \
-        0F28D8 \
-        F30F591D {f32:1.0} \
-        F30F5905 {f32:0.3} \
-        F30F115D F8 \
-        F30F1145 FC \
-        6A 01 \
-        6A 02 \
-        6A 00 \
-        6A 01 \
-        57 \
-        FFB6 CC000000 \
-        E8 [Rx10AA10] \
-        E9 [Rx21E15] \
       "
     },
     "ToutetsuC1EtBreakCave": {

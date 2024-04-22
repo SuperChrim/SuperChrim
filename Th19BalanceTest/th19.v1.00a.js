@@ -1,5 +1,9 @@
 {
   "options": {
+    "ToutetsuC1EtBreakSubName": {
+      "type": "s",
+      "val": "Ecl_EtBreakLv1Toutetsu"
+    },
     "ReimuAuraAun2Base": {
       "type": "f32",
       "val": 0.64
@@ -102,7 +106,6 @@
       "addr": "Rx11DBA9",
       "code": "9600"
     },
-
     "SeperateExAttackAndBossAttackCheckA": {
       "addr": "Rx1032A0",
       "code": "83C6 4C"
@@ -152,6 +155,7 @@
       "addr": "Rx127D97",
       "code": "32"
     },
+
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BE"
@@ -200,9 +204,9 @@
       "addr": "Rx21F07",
       "code": "1B"
     },
-    "ToutetsuEraseBullets": {
-      "addr": "Rx21E09",
-      "code": "E9 [codecave:ToutetsuEraseBulletsCave]"
+    "ToutetsuC1EtBreak": {
+      "addr": "Rx21ACD",
+      "code": "E8 [codecave:ToutetsuC1EtBreakCave]"
     },
     "ToutetsuNoCancelA": {
       "addr": "Rx21E24",
@@ -481,25 +485,31 @@
         C3 \
       "
     },
-    "ToutetsuEraseBulletsCave": {
+    "ToutetsuC1EtBreakCave": {
+      "access": "re",
       "code": " \
-        50 \
-        51 \
+        83EC 54 \
+        0F57C0 \
+        89CE \
+        F20F114424 4C \
+        0F114424 3C \
+        0F114424 2C \
+        0F114424 1C \
+        0F114424 0C \
+        8B45 08 \
+        8B50 08 \
+        895424 08 \
+        F20F1000 \
+        F20F110424 \
+        8B87 D0000000 \
+        8B48 08 \
+        89E2 \
         52 \
-        6A 01 \
-        6A 02 \
-        6A 00 \
-        6A 01 \
-        57 \
-        B8 CC000000 \
-        FF3430 \
-        0F28D8 \
-        E8 [Rx10AA10] \
-        5A \
-        59 \
-        58 \
-        68 9F860100 \
-        E9 [Rx21E0E] \
+        68 <option:ToutetsuC1EtBreakSubName> \
+        E8 [RxFB510] \
+        83C4 54 \
+        89F1 \
+        E9 [RxAEB20] \
       "
     },
     "NerfZanmuCard2ACave": {
