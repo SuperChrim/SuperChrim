@@ -140,7 +140,7 @@ Zanmu:
  - Skill and Ex attack now require more meter to use
  - Skill range and speed has been decreased
  - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Stregthening' card
- - If Zanmu has the respective 'Weakening' card and the opponent has the respective 'Stregthening' card, Zanmu skill now as a 50% chance to convert Ex animal spirits to pure spirits
+ - If Zanmu has the respective 'Weakening' card and the opponent has the respective 'Strengthening' card, Zanmu skill now as a 50% chance to convert Ex animal spirits to pure spirits
  - Ex can now be grazed
  - Unused animation has been added for spell card
 
@@ -150,7 +150,7 @@ Ability Cards:
  - Orin's second card now makes disabled spirits stay on screen longer
  - Yachie Ex otter spirits can now be strengthened/weakened with Yachie's cards
  - Saki Ex wolve spirits can now be strengthened/weakened with Saki's cards
- - Yuuma Ex eagle spirits can noww be strengthened/weakened with Yuuma's cards
+ - Yuuma Ex eagle spirits can now be strengthened/weakened with Yuuma's cards
  - Biten's second card now makes Yachie Ex otter spirits passable when disabled and decreases their collision size
  - Biten's second card now makes otter spirits no longer shoot bullets
  - Enoko's second card now makes Saki Ex wolf spirits passable when disabled and decreases their collision size
