@@ -1,16 +1,16 @@
 NOTE: This patch is unnecessary if you are already running the Th19Balance patch.
 
 Fixes:
- - Includes Shoxla's Rin skill death bug fix
- - Includes Shoxla's Th19ExAttackResAnimFix
- - Nazrin and Suika Ex vulnerable to Orin skill bug is fixed
- - Nazrin Skill Ex hp bug is fixed
- - Tsukasa spell card laser bounce bug is fixed
- - Yachie laser cancel bug is fixed
- - Suika bomb is fixed
- - Chiyari Ex grow bug is fixed
- - Laser count is capped at 150 to Hisami prevent crashing the game
- - Zanmu skill bug preventing spirits to spawn is fixed
- - Suika second ability card damage bug is fixed
- - Quit out bug in Vs mode is fixed
- - Achievement 21 can be obtained
+ - Includes Shoxlu's Rin skill death bug fix
+ - Includes Shoxlu's Th19ExAttackResAnimFix
+ - Nazrin and Suika Ex being vulnerable to Rin skill bug has now been fixed
+ - Tsukasa spell card laser bounce bug has been fixed
+ - Lvl 7 extra attack bug has now been fixed
+ - Yachie's Saki/Tsukasa laser cancel bug has been fixed
+ - Chiyari Ex grow bug has been fixed
+ - Laser count has been capped at 150 to prevent Hisami crashing the game against the AI
+ - Zanmu skill bug preventing spirits from spawning has been fixed
+ - Suika second ability card damage bug has been fixed
+ - Suika's bomb damage bug has been fixed
+ - Quit out bug in Vs mode has been fixed
+ - Achievement 21 can now be obtained

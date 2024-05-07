@@ -72,7 +72,6 @@ Tsukasa:
 Mamizou:
  - C1 damage has been increased
  - Skill/Ex attack now require less meter
- - Lvl 7 extra attack bug has now been fixed
 
 Yachie:
  - Skill deals less damage and range has been decreased
@@ -170,6 +169,7 @@ Th19BugFixes:
  - Includes Shoxlu's Th19ExAttackResAnimFix
  - Nazrin and Suika Ex being vulnerable to Rin skill bug has now been fixed
  - Tsukasa spell card laser bounce bug has been fixed
+ - Lvl 7 extra attack bug has now been fixed
  - Yachie's Saki/Tsukasa laser cancel bug has been fixed
  - Chiyari Ex grow bug has been fixed
  - Laser count has been capped at 150 to prevent Hisami crashing the game against the AI
