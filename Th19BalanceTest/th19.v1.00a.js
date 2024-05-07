@@ -605,7 +605,7 @@
     "BuffHisamiCard2Cave": {
       "code": "<option:BuffHisamiCard2Mul>"
     }
-  }
+  },
 
 ///////////////// Alternate ECL Files /////////////////
   "options": {
