@@ -606,11 +606,9 @@
       "code": "<option:BuffHisamiCard2Mul>"
     }
   }
-},
 
 ///////////////// Alternate ECL Files /////////////////
-{
-    "options": {
+  "options": {
     "ReimuECLFilename_str": {
       "type": "s",
       "val": "pl00_balance.ecl"
