@@ -106,6 +106,10 @@
       "addr": "Rx11DBA9",
       "code": "9600"
     },
+    "RanVSStage": {
+      "addr": "Rx1A2BF0",
+      "code": "02"
+    },
     "SeperateExAttackAndBossAttackCheckA": {
       "addr": "Rx1032A0",
       "code": "83C6 4C"
