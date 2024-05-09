@@ -96,81 +96,81 @@
       "type": "f32",
       "val": 0.5
     },
-    "ReimuECLFilename": {
-      "addr": "Rx1A2B94",
-      "code": "<option:ReimuECLFilename_str>"
+    "ReimuECLFilename_str": {
+      "type": "s",
+      "val": "pl00_balance.ecl"
     },
-    "MarisaECLFilename": {
-      "addr": "Rx1A2BB4",
-      "code": "<option:MarisaECLFilename_str>"
+    "MarisaECLFilename_str": {
+      "type": "s",
+      "val": "pl01_balance.ecl"
     },
-    "SanaeECLFilename": {
-      "addr": "Rx1A2BD4",
-      "code": "<option:SanaeECLFilename_str>"
+    "SanaeECLFilename_str": {
+      "type": "s",
+      "val": "pl02_balance.ecl"
     },
-    "RanECLFilename": {
-      "addr": "Rx1A2BF4",
-      "code": "<option:RanECLFilename_str>"
+    "RanECLFilename_str": {
+      "type": "s",
+      "val": "pl03_balance.ecl"
     },
-    "AunnECLFilename": {
-      "addr": "Rx1A2C14",
-      "code": "<option:AunnECLFilename_str>"
+    "AunnECLFilename_str": {
+      "type": "s",
+      "val": "pl04_balance.ecl"
     },
-    "NazrinECLFilename": {
-      "addr": "Rx1A2C34",
-      "code": "<option:NazrinECLFilename_str>"
+    "NazrinECLFilename_str": {
+      "type": "s",
+      "val": "pl05_balance.ecl"
     },
-    "SeiranECLFilename": {
-      "addr": "Rx1A2C54",
-      "code": "<option:SeiranECLFilename_str>"
+    "SeiranECLFilename_str": {
+      "type": "s",
+      "val": "pl06_balance.ecl"
     },
-    "OrinECLFilename": {
-      "addr": "Rx1A2C74",
-      "code": "<option:OrinECLFilename_str>"
+    "OrinECLFilename_str": {
+      "type": "s",
+      "val": "pl07_balance.ecl"
     },
-    "TsukasaECLFilename": {
-      "addr": "Rx1A2C94",
-      "code": "<option:TsukasaECLFilename_str>"
+    "TsukasaECLFilename_str": {
+      "type": "s",
+      "val": "pl08_balance.ecl"
     },
-    "MamizouECLFilename": {
-      "addr": "Rx1A2CB4",
-      "code": "<option:MamizouECLFilename_str>"
+    "MamizouECLFilename_str": {
+      "type": "s",
+      "val": "pl09_balance.ecl"
     },
-    "YachieECLFilename": {
-      "addr": "Rx1A2CD4",
-      "code": "<option:YachieECLFilename_str>"
+    "YachieECLFilename_str": {
+      "type": "s",
+      "val": "pl10_balance.ecl"
     },
-    "SakiECLFilename": {
-      "addr": "Rx1A2CF4",
-      "code": "<option:SakiECLFilename_str>"
+    "SakiECLFilename_str": {
+      "type": "s",
+      "val": "pl11_balance.ecl"
     },
-    "YuumaECLFilename": {
-      "addr": "Rx1A2D14",
-      "code": "<option:YuumaECLFilename_str>"
+    "YuumaECLFilename_str": {
+      "type": "s",
+      "val": "pl12_balance.ecl"
     },
-    "SuikaECLFilename": {
-      "addr": "Rx1A2D34",
-      "code": "<option:SuikaECLFilename_str>"
+    "SuikaECLFilename_str": {
+      "type": "s",
+      "val": "pl13_balance.ecl"
     },
-    "BitenECLFilename": {
-      "addr": "Rx1A2D54",
-      "code": "<option:BitenECLFilename_str>"
+    "BitenECLFilename_str": {
+      "type": "s",
+      "val": "pl14_balance.ecl"
     },
-    "EnokoECLFilename": {
-      "addr": "Rx1A2D74",
-      "code": "<option:EnokoECLFilename_str>"
+    "EnokoECLFilename_str": {
+      "type": "s",
+      "val": "pl15_balance.ecl"
     },
-    "ChiyariECLFilename": {
-      "addr": "Rx1A2D94",
-      "code": "<option:ChiyariECLFilename_str>"
+    "ChiyariECLFilename_str": {
+      "type": "s",
+      "val": "pl16_balance.ecl"
     },
-    "HisamiECLFilename": {
-      "addr": "Rx1A2DB4",
-      "code": "<option:HisamiECLFilename_str>"
+    "HisamiECLFilename_str": {
+      "type": "s",
+      "val": "pl17_balance.ecl"
     },
-    "ZanmuECLFilename": {
-      "addr": "Rx1A2DD4",
-      "code": "<option:ZanmuECLFilename_str>"
+    "ZanmuECLFilename_str": {
+      "type": "s",
+      "val": "pl18_balance.ecl"
     }
   },
   "binhacks": {
