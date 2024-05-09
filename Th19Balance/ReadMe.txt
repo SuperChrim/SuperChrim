@@ -139,7 +139,7 @@ Hisami:
 Zanmu:
  - Skill and Ex attack now require more meter to use
  - Skill range and speed has been decreased
- - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Stregthening' card
+ - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Strengthening' card
  - If Zanmu has the respective 'Weakening' card and the opponent has the respective 'Strengthening' card, Zanmu skill now as a 50% chance to convert Ex animal spirits to pure spirits
  - Ex can now be grazed
  - Unused animation has been added for spell card
@@ -162,7 +162,7 @@ Ability Cards:
 
 System:
  - Bullet count is now capped at 1200 to prevent slowdown in some situations
- - Spirits no longer spawn during bombs
+ - Beast spirits no longer spawn during bombs
  - Decision victory now prioritizes Boss attacks sent before Ex attacks sent if both players have the same number of lives remaining
 
 Th19BugFixes:
@@ -170,7 +170,7 @@ Th19BugFixes:
  - Includes Shoxlu's Th19ExAttackResAnimFix
  - Nazrin and Suika Ex being vulnerable to Rin skill bug has now been fixed
  - Tsukasa spell card laser bounce bug has been fixed
- - Lvl 7 extra attack bug has now been fixed
+ - Mamizou lvl 7 extra attack bug has now been fixed
  - Yachie's Saki/Tsukasa laser cancel bug has been fixed
  - Chiyari Ex grow bug has been fixed
  - Laser count has been capped at 150 to prevent Hisami crashing the game against the AI
