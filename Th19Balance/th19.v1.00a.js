@@ -762,3 +762,4 @@
       "code": "<option:BuffHisamiCard2Mul>"
     }
   }
+}
