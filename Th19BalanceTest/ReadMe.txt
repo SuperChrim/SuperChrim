@@ -3,3 +3,5 @@ This is a test build of Th19Balance. Potential changes will be tested here first
 Changes:
  - Reimu, Yachie, Saki, Yuuma, Suika, Zanmu lvl 7 and 8 boss attack has her first story card
  - Marisa has a new lvl 7 story like spell
+ - Marisa spellcard bullet speed is decreased
+ - Marisa Ex Attack laser range in increased and less dense
