@@ -20,6 +20,7 @@ Reimu:
 
 Marisa:
  - C1 damage has been decreased
+ - Spell Card bullet speed has been decreased
 
 Sanae:
  - Damage has been increased and she shoots during C1
