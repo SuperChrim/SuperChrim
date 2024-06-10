@@ -1,5 +1,10 @@
 {
   "options": {
+    "StoryBalance": {
+      "type": "b",
+      "val": true
+    },
+
     "ReimuECLFilename_str": {
       "type": "s",
       "val": "pl00_balance_story.ecl"
