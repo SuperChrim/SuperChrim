@@ -32,10 +32,6 @@
       "addr": "Rx10EA53",
       "code": "8BC2 90"
     },
-    "P2StoryMeterRateUnCap3": {
-      "addr": "Rx10EA53",
-      "code": "909090"
-    },
 
     "StoryP1Input": {
       "addr": "Rx10F890",
