@@ -1,179 +1,6 @@
 {
-  "options": {
-    "ToutetsuC1EtBreakSubName": {
-      "type": "s",
-      "val": "Ecl_EtBreakLv1Toutetsu"
-    },
-    "ReimuAuraAun2Base": {
-      "type": "f32",
-      "val": 0.64
-    },
-    "MarisaAuraAun2Base": {
-      "type": "f32",
-      "val": 0.14
-    },
-    "SanaeAuraAun2Base": {
-      "type": "f32",
-      "val": 1.0
-    },
-    "RanAuraAun2Base": {
-      "type": "f32",
-      "val": 0.3
-    },
-    "AunAuraAun2Base": {
-      "type": "f32",
-      "val": 0.32
-    },
-    "NazrinAuraAun2Base": {
-      "type": "f32",
-      "val": 0.4
-    },
-    "SeiranAuraAun2Base": {
-      "type": "f32",
-      "val": 0.48
-    },
-    "OrinAura1Aun2Base": {
-      "type": "f32",
-      "val": 0.5
-    },
-    "OrinAura2Aun2Base": {
-      "type": "f32",
-      "val": 0.5
-    },
-    "TsukasaAuraAun2Base": {
-      "type": "f32",
-      "val": 0.5
-    },
-    "MamizouAuraAun2Base": {
-      "type": "f32",
-      "val": 0.33
-    },
-    "YachieAuraAun2Base": {
-      "type": "f32",
-      "val": 0.88
-    },
-    "SakiAura1Aun2Base": {
-      "type": "f32",
-      "val": 0.96
-    },
-    "SakiAura2Aun2Base": {
-      "type": "f32",
-      "val": 0.32
-    },
-    "ToutetsuAuraAun2Base": {
-      "type": "f32",
-      "val": 4.0
-    },
-    "SuikaAuraAun2Base": {
-      "type": "f32",
-      "val": 0.4
-    },
-    "BitenAuraAun2Base": {
-      "type": "f32",
-      "val": 0.32
-    },
-    "EnokoAuraAun2Base": {
-      "type": "f32",
-      "val": 0.48
-    },
-    "ChiyariAuraAun2Base": {
-      "type": "f32",
-      "val": 0.56
-    },
-    "HisamiAuraAun2Base": {
-      "type": "f32",
-      "val": 1.2
-    },
-    "ZanmuAura1Aun2Base": {
-      "type": "f32",
-      "val": 1.28
-    },
-    "ZanmuAura2Aun2Base": {
-      "type": "f32",
-      "val": 0.64
-    },
-    "BuffHisamiCard2Mul": {
-      "type": "f32",
-      "val": 0.5
-    },
-    "ReimuECLFilename_str": {
-      "type": "s",
-      "val": "pl00_balance.ecl"
-    },
-    "MarisaECLFilename_str": {
-      "type": "s",
-      "val": "pl01_balance.ecl"
-    },
-    "SanaeECLFilename_str": {
-      "type": "s",
-      "val": "pl02_balance.ecl"
-    },
-    "RanECLFilename_str": {
-      "type": "s",
-      "val": "pl03_balance.ecl"
-    },
-    "AunnECLFilename_str": {
-      "type": "s",
-      "val": "pl04_balance.ecl"
-    },
-    "NazrinECLFilename_str": {
-      "type": "s",
-      "val": "pl05_balance.ecl"
-    },
-    "SeiranECLFilename_str": {
-      "type": "s",
-      "val": "pl06_balance.ecl"
-    },
-    "OrinECLFilename_str": {
-      "type": "s",
-      "val": "pl07_balance.ecl"
-    },
-    "TsukasaECLFilename_str": {
-      "type": "s",
-      "val": "pl08_balance.ecl"
-    },
-    "MamizouECLFilename_str": {
-      "type": "s",
-      "val": "pl09_balance.ecl"
-    },
-    "YachieECLFilename_str": {
-      "type": "s",
-      "val": "pl10_balance.ecl"
-    },
-    "SakiECLFilename_str": {
-      "type": "s",
-      "val": "pl11_balance.ecl"
-    },
-    "YuumaECLFilename_str": {
-      "type": "s",
-      "val": "pl12_balance.ecl"
-    },
-    "SuikaECLFilename_str": {
-      "type": "s",
-      "val": "pl13_balance.ecl"
-    },
-    "BitenECLFilename_str": {
-      "type": "s",
-      "val": "pl14_balance.ecl"
-    },
-    "EnokoECLFilename_str": {
-      "type": "s",
-      "val": "pl15_balance.ecl"
-    },
-    "ChiyariECLFilename_str": {
-      "type": "s",
-      "val": "pl16_balance.ecl"
-    },
-    "HisamiECLFilename_str": {
-      "type": "s",
-      "val": "pl17_balance.ecl"
-    },
-    "ZanmuECLFilename_str": {
-      "type": "s",
-      "val": "pl18_balance.ecl"
-    }
-  },
   "binhacks": {
+/////////////////////////////////////////////////////////
     "BulletCap": {
       "addr": "RxE5B54",
       "code": "B004"
@@ -182,6 +9,7 @@
       "addr": "Rx11DBA9",
       "code": "9600"
     },
+/////////////////////////////////////////////////////////
     "ReimuECLFilename": {
       "addr": "Rx1A2B94",
       "code": "<option:ReimuECLFilename_str>"
@@ -258,10 +86,12 @@
       "addr": "Rx1A2DD4",
       "code": "<option:ZanmuECLFilename_str>"
     },
+/////////////////////////////////////////////////////////
     "RanVSStage": {
       "addr": "Rx1A2BF0",
       "code": "02"
     },
+/////////////////////////////////////////////////////////
     "SeperateExAttackAndBossAttackCheckA": {
       "addr": "Rx1032A0",
       "code": "83C6 4C"
@@ -284,6 +114,7 @@
         E9 8A000000 \
       "
     },
+/////////////////////////////////////////////////////////
     "ReimuC2NoC1": {
       "addr": "Rx127675",
       "code": "\
@@ -311,7 +142,7 @@
       "addr": "Rx127D97",
       "code": "32"
     },
-
+/////////////////////////////////////////////////////////
     "NazrinScopeSpeedIncrease": {
       "addr": "Rx188D6",
       "code": "BE"
@@ -320,6 +151,7 @@
       "addr": "Rx12C681",
       "code": "28"
     },
+/////////////////////////////////////////////////////////
     "YachieCancelDamage": {
       "addr": "Rx1F443",
       "code": "36"
@@ -328,6 +160,7 @@
       "addr": "Rx1F3D5",
       "code": "28"
     },
+/////////////////////////////////////////////////////////
     "ToutetsuScopeTime": {
       "addr": "Rx21368",
       "code": "20030000"
@@ -376,10 +209,12 @@
       "addr": "Rx21E84",
       "code": "90909090"
     },
+/////////////////////////////////////////////////////////
     "CiyariScopeDmg": {
       "addr": "Rx26D03",
       "code": "06"
     },
+/////////////////////////////////////////////////////////
     "ZanmuC2A": {
       "addr": "Rx299BF",
       "code": "A001" //5A00
@@ -400,6 +235,7 @@
       "addr": "Rx299E9",
       "code": "803F"
     },
+/////////////////////////////////////////////////////////
     "AnimalSpiritIdentify": {
       "addr": "Rx29DBA",
       "code": " \
@@ -424,6 +260,7 @@
         8955AC \
       "
     },
+/////////////////////////////////////////////////////////
     "ReimuAuraAun2Multiplier": {
       "addr": "Rx14CA0",
       "code": "<codecave:Aun2CardMultipliers>"
@@ -564,10 +401,12 @@
         E8 [codecave:Aun2CardCalculateB] \
       "
     },
+/////////////////////////////////////////////////////////
     "BuffHisamiCard2": {
       "addr": "RxE349B",
       "code": "<codecave:BuffHisamiCard2Cave>"
     },
+/////////////////////////////////////////////////////////
     "NerfZanmuCard2A": {
       "addr": "RxD83FF",
       "code": " \
@@ -581,185 +420,36 @@
         E9 [codecave:NerfZanmuCard2BCave] \
       "
     }
-  },
-  "codecaves": {
-    "ReimuC2NoC1Cave": {
-      "code": "\
-        8B4A 64 \
-        85C9 \
-        74 14 \
-        0F1F4000 \
-        8B09 \
-        8B09 \
-        81F9 <Rx185DF8> \
-        0F84 [Rx1276D8] \
-        8B8A 98000000 \
-        E9 [Rx12767B] \
-      "
+/*
     },
-    "ReimuC2ShootAndChargeDelayCounters": {
-      "access": "RW",
-      "code": "\
-        FFFFFFFF \
-        FFFFFFFF \
-      "
-    },
-    "ReimuC2ShootAndChargeDelayACave": {
-      "code": "\
-        31C0 \
-        A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
-        A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
-        894E 08 \
-        E9 [Rx12762F] \
-      "
-    },
-    "ReimuC2ShootAndChargeDelayBCave": {
-      "code": "\
-        A1 <codecave:ReimuC2ShootAndChargeDelayCounters> \
-        85C0 \
-        78 3E \
-        0F1F4000 \
-        40 \
-        A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
-        83E0 01 \
-        75 31 \
-        0F1F4000 \
-        A1 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
-        83F8 38 /* Delay Frames */ \
-        7D 14 \
-        0F1F4000 \
-        40 \
-        A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
-        B8 01000000 \
-        EB 12 \
-        0F1F00 \
-        31C0 \
-        48 \
-        A3 <codecave:ReimuC2ShootAndChargeDelayCounters> \
-        A3 (<codecave:ReimuC2ShootAndChargeDelayCounters+4>) \
-        31C0 \
-        C3 \
-      "
-    },
-    "ToutetsuC1EtBreakCave": {
-      "access": "re",
+/////////////////////////////////////////////////////////
+    "add_bomb_fragment_check_A": {
+      "addr": "Rx124247",
       "code": " \
-        83EC 54 \
-        0F57C0 \
-        89CE \
-        F20F114424 4C \
-        0F114424 3C \
-        0F114424 2C \
-        0F114424 1C \
-        0F114424 0C \
-        8B45 08 \
-        8B50 08 \
-        895424 08 \
-        F20F1000 \
-        F20F110424 \
-        8B87 D0000000 \
-        8B48 08 \
-        89E2 \
-        52 \
-        68 <option:ToutetsuC1EtBreakSubName> \
-        E8 [RxFB510] \
-        83C4 54 \
-        89F1 \
-        E9 [RxAEB20] \
-      "
-    },
-    "NerfZanmuCard2ACave": {
-      "code": " \
-        0F84 [RxD8429] \
-        8B83 94000000 \
-        3B41 30 \
-        0F8C [RxD8429] \
-        E8 [RxA5E0] \
-        E9 [RxD8406] \
-      "
-    },
-    "NerfZanmuCard2BCave": {
-      "code": "\
         56 \
-        8B4DFC \
-        8BB1 94000000 \
-        3B73 30 \
-        5E \
-        7C 14 \
-        0F1F4000 \
-        80BB B5000000 00 \
-        74 07 \
-        0F1F4000 \
-        83C6 04 \
-        83C6 2C \
-        8B0E \
-        E9 [RxD8491] \
+        57 \
+        89CB \
+        8B53 70 \
+        31C0 \
+        85D2 \
+        0F48D0 \
+        B8 07000000 \
+        39C2 \
+        0F4EC2 \
+        8943 70 \
+        8B73 68 \
+        46 \
+        8B7B 0C \
+        <nop:11> \
       "
     },
-    "Aun2CardMultipliers": {
-      "access": "r",
-      "code": "<option:ReimuAuraAun2Base><option:MarisaAuraAun2Base><option:SanaeAuraAun2Base><option:RanAuraAun2Base><option:AunAuraAun2Base><option:NazrinAuraAun2Base><option:SeiranAuraAun2Base><option:OrinAura1Aun2Base><option:OrinAura2Aun2Base><option:TsukasaAuraAun2Base><option:MamizouAuraAun2Base><option:YachieAuraAun2Base><option:SakiAura1Aun2Base><option:SakiAura2Aun2Base><option:ToutetsuAuraAun2Base><option:SuikaAuraAun2Base><option:BitenAuraAun2Base><option:EnokoAuraAun2Base><option:ChiyariAuraAun2Base><option:HisamiAuraAun2Base><option:ZanmuAura1Aun2Base><option:ZanmuAura2Aun2Base>"
-    },
-    "Aun2CardCalculate": {
-      "access": "re",
+    "add_bomb_fragment_check_B": {
+      "addr": "Rx124297",
       "code": " \
-        8B5424 04 \
-        8B47 68 \
-        8B40 2C \
-        F30F2A80 88000000 \
-        0F57C9 \
-        F30F5FC1 \
-        F30F5D05 {f32:200.0f} \
-        F30F5982 <codecave:Aun2CardMultipliers> \
-        F30F1147 70 \
-        C2 0400 \
+        8973 68 \
+        3B34BD <codecave:bomb_pieces_for_bomb> \
       "
-    },
-    "Aun2CardCalculateB": {
-      "access": "re",
-      "code": " \
-        8B5424 04 \
-        8B47 68 \
-        8B40 2C \
-        F30F2A80 88000000 \
-        0F57C9 \
-        F30F5FC1 \
-        F30F5D05 {f32:200.0f} \
-        F30F5982 <codecave:Aun2CardMultipliers> \
-        F30F1187 A0000000 \
-        C2 0400 \
-      "
-    },
-    "Aun2CardCalculateOrin2": {
-      "access": "re",
-      "code": " \
-        8B46 68 \
-        8B40 2C \
-        F30F2A80 88000000 \
-        0F57C9 \
-        F30F5FC1 \
-        F30F5D05 {f32:200.0f} \
-        F30F5905 (<codecave:Aun2CardMultipliers>+32) \
-        F30F1146 70 \
-        C3 \
-      "
-    },
-    "Aun2CardCalculateSuika": {
-      "access": "re",
-      "code": " \
-        8B43 68 \
-        8B40 2C \
-        F30F2A80 88000000 \
-        0F57C9 \
-        F30F5FC1 \
-        F30F5D05 {f32:200.0f} \
-        F30F5905 (<codecave:Aun2CardMultipliers>+60) \
-        F30F1143 70 \
-        C3 \
-      "
-    },
-    "BuffHisamiCard2Cave": {
-      "code": "<option:BuffHisamiCard2Mul>"
     }
+*/
   }
 }
