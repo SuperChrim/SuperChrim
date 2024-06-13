@@ -1,5 +1,9 @@
 {
   "options": {
+    "StoryBalance": {
+      "type": "b",
+      "val": false
+    },
 /////////////////////////////////////////////////////////
     "ToutetsuC1EtBreakSubName": {
       "type": "s",
