@@ -5,8 +5,6 @@ Fixes:
  - Includes Shoxlu's Th19ExAttackResAnimFix
  - Nazrin and Suika Ex being vulnerable to Rin skill bug has now been fixed
  - Tsukasa spell card laser bounce bug has been fixed
- - Mamizou lvl 7 extra attack bug has now been fixed
- - Mamizou non spell increases in difficulty with boss lvl
  - Yachie's Saki/Tsukasa laser cancel bug has been fixed
  - Chiyari Ex grow bug has been fixed
  - Laser count has been capped at 150 to prevent Hisami crashing the game against the AI
