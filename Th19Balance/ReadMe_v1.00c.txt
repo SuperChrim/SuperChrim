@@ -1,4 +1,5 @@
 This is a patch that makes tweaks to characters in an attempt to make the roster feel more balanced for VS mode.
+This is the change log for the v1.00c version of the game.
 Please be aware that this will impact online play as well. Be sure that your opponent also has this patch for optimal performance.
 IMPORTANT! Do NOT use this in random matches in online mode.
 
@@ -11,15 +12,14 @@ Actionable state - being able to shoot or charge
 (This patch is a work in progress. More changes will be added in the future.)
 
 Reimu:
- - Overall shot damage has been decreased
- - C1 effect no longer applies while performing skill
- - Skill now requires more meter to use and the range of erasing bullets has been decreased
- - Delay after skill before re-entering an actionable state has been increased
+ - Shot damage has been decreased
+ - C1 damage has been increased
+ - Skill now requires more meter to use
  - Ex bullet speed/acceleration has decreased and higher level's bullet size has been reduced
  - Spell card bullet speed and acceleration has been decreased
 
 Marisa:
- - C1 damage has been decreased
+ - C1 damage has been decreased //
  - Spell Card bullet speed has been decreased
 
 Sanae:
@@ -28,7 +28,6 @@ Sanae:
 
 Ran:
  - Non-spell now fires more bullets
- - Ex bullets no longer have a kill reward
  - Chen now always despawns with Ran when a spell card is timed out
  - Vs mode stage has been changed to you Youkai Mountain River
 
@@ -37,13 +36,11 @@ Aunn:
  - C1/Skill now have piercing shots
  - Spell card bullets now have increased speed/density and cannot be erased
  - Spell card lasers are now longer and travel at sharper angle
- - Ex attack spawns more enemies and have altered movement paths
+ - Ex attack have altered movement paths
  - Ex can now only be destroyed with bombs
 
 Nazrin:
  - Overall shot damage has been increased
- - Scope speed has been increased
- - Bomb damage has been increased
  - Skill now causes Ex spirits to shoot bullets on death
  - Ex spirits killed from skill now have less kill reward
  - Ex have no collision for first 30 frames after spawning
@@ -55,24 +52,21 @@ Seiran:
  - Skill now fires more shots
 
 Rin:
- - Overall shot damage has been increased
  - Ex vengeful spirits lose health when scoped
  - Ex vengeful spirit's health has been increased
- - Ex vengeful spirit's bullets are now slower and fire less often
+ - Ex vengeful spirit's bullets now fire less often
  - Ex vengeful spirit spawn rate and location has been adjusted
- - Ex vengeful spirit kill reward has been decreased
+ - Ex vengeful spirit kill reward has been restored
  - Ex vengeful spirits can now be grazed
- - Ex attack will now spawn a couple of normal pure spirits
  - Spell card zombie fairies shoot bullets when killed
  - Spell card bullet speed now increases with boss level
 
 Tsukasa:
- - Overall shot damage has been increased
  - Ex attack now shoots more bullets but are now less dense; origin point is now higher
  - Ex tube speed and spawn rate has been adjusted
 
 Mamizou:
- - C1 damage has been increased
+ - C1 damage has been increased //
  - Skill/Ex attack now require less meter
 
 Yachie:
@@ -86,7 +80,7 @@ Yachie:
  - Ex attack will now spawn a couple of normal otter spirits in addition to Ex otter spirits
 
 Saki:
- - Overall shot damage has been increased
+ - Overall shot damage has been increased //
  - C1, skill, and Ex attack now require less meter
  - Ex wolf spirit health has been increased
  - Ex wolf spirits now lose health when scoped
@@ -98,7 +92,7 @@ Saki:
  - Spell card lasers are now longer and travel faster
 
 Yuuma:
- - Unfocused/focus shot damage has been increased
+ - Unfocused/focus shot damage has been increased //
  - Scope speed has been decreased
  - C1/skill damage has been decreased
  - C1/skill now require more meter and cannot kill Ex special enemies
@@ -118,7 +112,7 @@ Suika:
  - Ex mini Suika health has been increased
 
 Biten:
- - Overall shot damage has been increased
+ - Overall shot damage has been increased //
 
 Enoko:
  - C1 and skill damage has been decreased
@@ -133,7 +127,7 @@ Chiyari:
  - Skill/Ex attack now require more meter to use
 
 Hisami:
- - Overall shot damage has been increased
+ - Overall shot damage has been increased //
  - Vines are now slower and spawn rate has been adjusted
  - Unused animation has been added for spell card
 
@@ -167,17 +161,12 @@ System:
  - Decision victory now prioritizes Boss attacks sent before Ex attacks sent if both players have the same number of lives remaining
 
 Th19BugFixes:
- - Includes Shoxlu's Rin skill death bug fix
  - Includes Shoxlu's Th19ExAttackResAnimFix
  - Nazrin and Suika Ex being vulnerable to Rin skill bug has now been fixed
  - Tsukasa spell card laser bounce bug has been fixed
- - Mamizou lvl 7 extra attack bug has now been fixed
  - Mamizou non spell increases in difficulty with boss lvl
- - Yachie's Saki/Tsukasa laser cancel bug has been fixed
- - Chiyari Ex grow bug has been fixed
  - Laser count has been capped at 150 to prevent Hisami crashing the game against the AI
  - Zanmu skill bug preventing spirits from spawning has been fixed
  - Suika second ability card damage bug has been fixed
  - Suika's bomb damage bug has been fixed
- - Quit out bug in Vs mode has been fixed
  - Achievement 21 can now be obtained
