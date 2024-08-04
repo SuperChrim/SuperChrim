@@ -66,7 +66,7 @@ Tsukasa:
  - Ex tube speed and spawn rate has been adjusted
 
 Mamizou:
- - C1 damage has been increased //
+ - C1 damage has been increased
  - Skill/Ex attack now require less meter
 
 Yachie:
@@ -80,7 +80,6 @@ Yachie:
  - Ex attack will now spawn a couple of normal otter spirits in addition to Ex otter spirits
 
 Saki:
- - Overall shot damage has been increased //
  - C1, skill, and Ex attack now require less meter
  - Ex wolf spirit health has been increased
  - Ex wolf spirits now lose health when scoped
@@ -92,7 +91,6 @@ Saki:
  - Spell card lasers are now longer and travel faster
 
 Yuuma:
- - Unfocused/focus shot damage has been increased //
  - Scope speed has been decreased
  - C1/skill damage has been decreased
  - C1/skill now require more meter and cannot kill Ex special enemies
@@ -105,7 +103,7 @@ Yuuma:
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can now be grazed
  - Ex eagle spirit kill reward has been decreased
- - Ex attack will spawn a couple of normal eagle spirits in addition to Ex eagle spiriits
+ - Ex attack will spawn a couple of normal eagle spirits in addition to Ex eagle spirits
 
 Suika:
  - Spell card boss health has been increased
