@@ -68,16 +68,16 @@ Tsukasa:
 Mamizou:
  - C1 damage has been increased
  - Skill/Ex attack now require less meter
+ - Ex attack now spawns less enemies
 
 Yachie:
- - Skill deals less damage and range has been decreased
+ - Skill deals less damage and range has been decreased //
  - Ex otter spirit health has been increased
  - Ex otter spirits now lose health when scoped
  - Ex otters spirits now shoot more bullets
  - Ex otter spirit spawn rate has been adjusted
  - Ex otter spirits can now be grazed
- - Ex otter spirit kill reward has been decreased
- - Ex attack will now spawn a couple of normal otter spirits in addition to Ex otter spirits
+ - Ex otter spirit kill reward has been restored
 
 Saki:
  - C1, skill, and Ex attack now require less meter
@@ -87,7 +87,6 @@ Saki:
  - Ex wolf spirit spawn rate has been adjusted
  - Ex wolf spirits can now be grazed
  - Ex wolf spirit kill reward has been decreased
- - Ex attack will now spawn a couple of normal wolf spirits in addition to Ex wolf spirits
  - Spell card lasers are now longer and travel faster
 
 Yuuma:
@@ -103,10 +102,10 @@ Yuuma:
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can now be grazed
  - Ex eagle spirit kill reward has been decreased
- - Ex attack will spawn a couple of normal eagle spirits in addition to Ex eagle spirits
 
 Suika:
  - Spell card boss health has been increased
+ - Spell card starting vulnerability has been restored
  - Ex mini Suika health has been increased
 
 Biten:
