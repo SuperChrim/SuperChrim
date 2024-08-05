@@ -19,7 +19,7 @@ Reimu:
  - Spell card bullet speed and acceleration has been decreased
 
 Marisa:
- - C1 damage has been decreased //
+ - C1 damage has been increased
  - Spell Card bullet speed has been decreased
 
 Sanae:
@@ -71,7 +71,6 @@ Mamizou:
  - Ex attack now spawns less enemies
 
 Yachie:
- - Skill deals less damage and range has been decreased //
  - Ex otter spirit health has been increased
  - Ex otter spirits now lose health when scoped
  - Ex otters spirits now shoot more bullets
@@ -86,14 +85,11 @@ Saki:
  - Ex wolf spirits now shoot more bullets
  - Ex wolf spirit spawn rate has been adjusted
  - Ex wolf spirits can now be grazed
- - Ex wolf spirit kill reward has been decreased
+ - Ex wolf spirit kill reward has been restored
  - Spell card lasers are now longer and travel faster
 
 Yuuma:
- - Scope speed has been decreased
- - C1/skill damage has been decreased
- - C1/skill now require more meter and cannot kill Ex special enemies
- - C1/Skill only erase bullets in front of her
+ - C1/skill now require more meter
  - Ex eagle spirit health has been increased
  - Ex eagle spirits now lose health when scoped
  - Ex eagle spirits now shoot more bullets
@@ -101,7 +97,7 @@ Yuuma:
  - Ex eagle spirit spawn rate has been adjusted
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can now be grazed
- - Ex eagle spirit kill reward has been decreased
+ - Ex eagle spirit kill reward has been restored
 
 Suika:
  - Spell card boss health has been increased
@@ -109,10 +105,11 @@ Suika:
  - Ex mini Suika health has been increased
 
 Biten:
- - Overall shot damage has been increased //
+ - Overall shot damage has been increased
 
 Enoko:
  - C1 and skill damage has been decreased
+ - Ex can be grazed for the first 2 seconds after spawning
 
 Chiyari:
  - Scope damage has been increased
@@ -121,10 +118,11 @@ Chiyari:
  - Ex now have no collision for first 30 frames after spawning
  - Ex now disappear when bombed and after player death
  - Ex can now be grazed
+ - Ex kill reward is restored
  - Skill/Ex attack now require more meter to use
 
 Hisami:
- - Overall shot damage has been increased //
+ - Overall shot damage has been increased
  - Vines are now slower and spawn rate has been adjusted
  - Unused animation has been added for spell card
 
@@ -134,11 +132,11 @@ Zanmu:
  - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Strengthening' card
  - If Zanmu has the respective 'Weakening' card and the opponent has the respective 'Strengthening' card, Zanmu skill now as a 50% chance to convert Ex animal spirits to pure spirits
  - Ex can now be grazed
+ - Ex kill reward is restored
  - Unused animation has been added for spell card
 
 Ability Cards:
  - All ability card that grant additional shots now have increased damage
- - Aunn's second card now affects all characters and scope increase effect has been increased
  - Orin's second card now makes disabled spirits stay on screen longer
  - Yachie Ex otter spirits can now be strengthened/weakened with Yachie's cards
  - Saki Ex wolve spirits can now be strengthened/weakened with Saki's cards
@@ -149,21 +147,9 @@ Ability Cards:
  - Enoko's second card now makes wolf spirits no longer shoot bullets
  - Chiyari's second card now makes Yuuma Ex eagle spirits passable when disabled and decreases their collision size
  - Chiyari's second card now makes eagle spirits no longer shoot bullets
- - Hisami second ability card effect has been increased, and spirit bullets are now affected
- - Zanmu's second ability card now only grants bomb piece after a full meter charge. Additionally, the full meter is used, even when sending an Ex attack while the opponent's screen already has a boss active.
 
 System:
- - Bullet count is now capped at 1200 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
- - Decision victory now prioritizes Boss attacks sent before Ex attacks sent if both players have the same number of lives remaining
 
 Th19BugFixes:
- - Includes Shoxlu's Th19ExAttackResAnimFix
- - Nazrin and Suika Ex being vulnerable to Rin skill bug has now been fixed
- - Tsukasa spell card laser bounce bug has been fixed
  - Mamizou non spell increases in difficulty with boss lvl
- - Laser count has been capped at 150 to prevent Hisami crashing the game against the AI
- - Zanmu skill bug preventing spirits from spawning has been fixed
- - Suika second ability card damage bug has been fixed
- - Suika's bomb damage bug has been fixed
- - Achievement 21 can now be obtained
