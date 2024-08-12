@@ -20,7 +20,7 @@
     },
     "P2StoryMeterRate": {
       "addr": [ "RxEADA9", "RxEADBD", "RxEAE36", "RxEAFDA" ],
-      "code": "FFFFFFFF"
+      "code": "A0"
     },
 
     // P2 Meter Rate Uncap
