@@ -155,6 +155,10 @@
     "ZanmuECLFilename": {
       "addr": "Rx1C5E64",
       "code": "<option:ZanmuECLFilename_str>"
-    }
+    },
+
+    "RanVSStage": {
+      "addr": "Rx1C5C80",
+      "code": "02"
   }
 }

@@ -29,7 +29,7 @@ Sanae:
 Ran:
  - Non-spell now fires more bullets
  - Chen now always despawns with Ran when a spell card is timed out
- - Vs mode stage has been changed to you Youkai Mountain River
+ - Vs mode stage has been changed to Youkai Mountain River
 
 Aunn:
  - Overall shot damage has been increased
