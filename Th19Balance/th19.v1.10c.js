@@ -160,5 +160,6 @@
     "RanVSStage": {
       "addr": "Rx1C5C80",
       "code": "02"
+    }
   }
 }
