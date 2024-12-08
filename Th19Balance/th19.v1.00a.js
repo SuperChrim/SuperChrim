@@ -506,13 +506,13 @@
     },
 */
 /////////////////////////////////////////////////////////
-    "YachieCancelDamage": {
-      "addr": "Rx1F443",
-      "code": "36"
-    },
     "YachieC2Range": {
       "addr": "Rx1F3D5",
       "code": "28"
+    },
+    "YachieCancelDamage": {
+      "addr": "Rx1F443",
+      "code": "36"
     },
 /////////////////////////////////////////////////////////
     "ToutetsuScopeTime": {
