@@ -162,11 +162,53 @@
       "code": "02"
     },
 /////////////////////////////////////////////////////////
+/*
+    "SeperateExAttackAndBossAttackCheckA": {
+      "addr": "Rx1032A0", // Rx11582F
+      "code": "83C6 4C"
+    },
+    "SeperateExAttackAndBossAttackCheckB": {
+      "addr": "Rx1032C4",
+      "code": " \
+        8B35 <Rx1AE4D8> \
+        8B7E 4C \
+        39F9 \
+        0F8F 93000000 \
+        0F8C 9D000000 \
+        8B35 <Rx1AE49C> \
+        8B4E 48 \
+        8B35 <Rx1AE4D8> \
+        8B7E 48 \
+        39F9 \
+        7F 77 \
+        0F8C 81000000 \
+        E9 8A000000 \
+      "
+    }
+*/
+/////////////////////////////////////////////////////////
+/*
+    "ReimuC2Range": {
+      "addr": "Rx13B7BA", // Rx13B7BA
+      "code": "\
+        0F8D 06010000 \
+        8D7D D8 \
+        BB 03000000 \
+        <nop:8> \
+      "
+    }
+    "ReimuC2Time": {
+      "addr": "Rx127D97", // Rx13B974
+      "code": "32"
+    }
+*/
+/////////////////////////////////////////////////////////
     "BuffHisamiCard2": {
       "addr": "Rxf3b06",
       "code": "<codecave:BuffHisamiCard2Cave>"
     }
   },
+
 
   "codecaves": {
 /////////////////////////////////////////////////////////
