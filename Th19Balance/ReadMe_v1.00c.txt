@@ -41,6 +41,7 @@ Aunn:
 
 Nazrin:
  - Overall shot damage has been increased
+ - Bomb does not chase down spirits
  - Skill now causes Ex spirits to shoot bullets on death
  - Ex spirits killed from skill now have less kill reward
  - Ex have no collision for first 30 frames after spawning
