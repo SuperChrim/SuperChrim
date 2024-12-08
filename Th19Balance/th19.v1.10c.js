@@ -156,10 +156,22 @@
       "addr": "Rx1C5E64",
       "code": "<option:ZanmuECLFilename_str>"
     },
-
+/////////////////////////////////////////////////////////
     "RanVSStage": {
       "addr": "Rx1C5C80",
       "code": "02"
+    },
+/////////////////////////////////////////////////////////
+    "BuffHisamiCard2": {
+      "addr": "Rxf3b06",
+      "code": "<codecave:BuffHisamiCard2Cave>"
+    }
+  },
+
+  "codecaves": {
+/////////////////////////////////////////////////////////
+    "BuffHisamiCard2Cave": {
+      "code": "<option:BuffHisamiCard2Mul>"
     }
   }
 }
