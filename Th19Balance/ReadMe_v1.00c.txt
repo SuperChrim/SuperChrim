@@ -147,6 +147,7 @@ Ability Cards:
  - Enoko's second card now makes wolf spirits no longer shoot bullets
  - Chiyari's second card now makes Yuuma Ex eagle spirits passable when disabled and decreases their collision size
  - Chiyari's second card now makes eagle spirits no longer shoot bullets
+ - Hisami second ability card effect has been increased, and spirit bullets are now affected
 
 System:
  - Beast spirits no longer spawn during bombs
