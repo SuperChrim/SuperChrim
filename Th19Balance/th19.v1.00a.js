@@ -499,10 +499,12 @@
       "addr": "Rx188D6",
       "code": "BE"
     },
+/*
     "NazrinBombDmg": {
       "addr": "Rx12C681",
       "code": "28"
     },
+*/
 /////////////////////////////////////////////////////////
     "YachieCancelDamage": {
       "addr": "Rx1F443",
