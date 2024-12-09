@@ -94,10 +94,6 @@
       "type": "f32",
       "val": 0.64
     },
-    "BuffHisamiCard2Mul": {
-      "type": "f32",
-      "val": 0.5
-    },
 /////////////////////////////////////////////////////////
     "ReimuECLFilename_str": {
       "type": "s",
@@ -504,8 +500,8 @@
     },
 /////////////////////////////////////////////////////////
     "YachieCancelDamage": {
-      "addr": "Rx1F443",
-      "code": "36"
+      "addr": "Rx1F36A",
+      "code": "00"
     },
     "YachieC2Range": {
       "addr": "Rx1F3D5",

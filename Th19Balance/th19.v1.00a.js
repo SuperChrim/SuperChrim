@@ -94,10 +94,6 @@
       "type": "f32",
       "val": 0.64
     },
-    "BuffHisamiCard2Mul": {
-      "type": "f32",
-      "val": 0.5
-    },
 /////////////////////////////////////////////////////////
     "ReimuECLFilename_str": {
       "type": "s",
@@ -483,8 +479,7 @@
     },
     "ReimuC2Range": {
       "addr": "Rx127BA1",
-      "code": "\
-        0F8D 06010000 \
+      "code": "0F8D 06010000 \
         8D7D D8 \
         BB 03000000 \
         90 \
@@ -499,20 +494,18 @@
       "addr": "Rx188D6",
       "code": "BE"
     },
-/*
     "NazrinBombDmg": {
       "addr": "Rx12C681",
       "code": "28"
     },
-*/
 /////////////////////////////////////////////////////////
+    "YachieCancelDamage": {
+      "addr": "Rx1F36A",
+      "code": "00"
+    },
     "YachieC2Range": {
       "addr": "Rx1F3D5",
       "code": "28"
-    },
-    "YachieCancelDamage": {
-      "addr": "Rx1F443",
-      "code": "36"
     },
 /////////////////////////////////////////////////////////
     "ToutetsuScopeTime": {

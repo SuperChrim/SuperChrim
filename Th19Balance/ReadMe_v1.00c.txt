@@ -151,6 +151,7 @@ Ability Cards:
  - Hisami second ability card effect has been increased, and spirit bullets are now affected
 
 System:
+ - Bullet count is now capped at 1200 and Laser count at 150 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
 
 Th19BugFixes:
