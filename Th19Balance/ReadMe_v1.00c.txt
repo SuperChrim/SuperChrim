@@ -90,6 +90,7 @@ Saki:
  - Spell card lasers are now longer and travel faster
 
 Yuuma:
+ - Scope speed has been decreased
  - C1/skill now require more meter
  - Ex eagle spirit health has been increased
  - Ex eagle spirits now lose health when scoped
