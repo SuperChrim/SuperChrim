@@ -504,11 +504,11 @@
       "addr": "Rx1F36A",
       "code": "0A"
     },
+*/
     "YachieC2Range": {
       "addr": "Rx1F3D5",
       "code": "28"
     },
-*/
 /////////////////////////////////////////////////////////
     "ToutetsuScopeTime": {
       "addr": "Rx21368",
