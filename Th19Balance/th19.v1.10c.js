@@ -196,16 +196,11 @@
     }
 */
 /////////////////////////////////////////////////////////
-/*
     "ReimuC2Range": {
-      "addr": "Rx13B7BA", // Rx13B7BA
-      "code": "\
-        0F8D 06010000 \
-        8D7D D8 \
-        BB 03000000 \
-        <nop:8> \
-      "
-    }
+      "addr": "Rx13B7BA",
+      "code": "0F8D 2F010000"
+    },
+/*
     "ReimuC2Time": {
       "addr": "Rx127D97", // Rx13B974
       "code": "32"
@@ -222,6 +217,18 @@
     "ToutetsuScopeTime": {
       "addr": "Rx249B0",
       "code": "20030000"
+    },
+    "ToutetsuC2RangeA": {
+      "addr": "Rx2545E",
+      "code": "70C2"
+    },
+    "ToutetsuC2RangeB": {
+      "addr": "Rx25468",
+      "code": "9643"
+    },
+    "ToutetsuC2RangeC": {
+      "addr": "Rx25472",
+      "code": "70C2"
     },
 /////////////////////////////////////////////////////////
     "CiyariScopeDmg": {

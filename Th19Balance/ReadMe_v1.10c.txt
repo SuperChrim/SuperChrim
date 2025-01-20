@@ -14,7 +14,7 @@ Actionable state - being able to shoot or charge
 Reimu:
  - Shot damage has been decreased
  - C1 damage has been increased
- - Skill now requires more meter to use
+ - Skill now requires more meter to use and the range of erasing bullets has been decreased
  - Ex bullet speed/acceleration has decreased and higher level's bullet size has been reduced
  - Spell card bullet speed and acceleration has been decreased
 
