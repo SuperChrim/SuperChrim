@@ -80,6 +80,15 @@
 
   "binhacks": {
 /////////////////////////////////////////////////////////
+    "BulletCap": {
+      "addr": "RxF6364",
+      "code": "B004"
+    },
+      "LaserCap": {
+      "addr": "Rx130DFA",
+      "code": "9600"
+    },
+/////////////////////////////////////////////////////////
     "ReimuECLFilename": {
       "addr": "Rx1C5C24",
       "code": "<option:ReimuECLFilename_str>"
@@ -155,6 +164,97 @@
     "ZanmuECLFilename": {
       "addr": "Rx1C5E64",
       "code": "<option:ZanmuECLFilename_str>"
+    },
+/////////////////////////////////////////////////////////
+    "RanVSStage": {
+      "addr": "Rx1C5C80",
+      "code": "02"
+    },
+/////////////////////////////////////////////////////////
+/*
+    "SeperateExAttackAndBossAttackCheckA": {
+      "addr": "Rx1032A0", // Rx11582F
+      "code": "83C6 4C"
+    },
+    "SeperateExAttackAndBossAttackCheckB": {
+      "addr": "Rx1032C4",
+      "code": " \
+        8B35 <Rx1AE4D8> \
+        8B7E 4C \
+        39F9 \
+        0F8F 93000000 \
+        0F8C 9D000000 \
+        8B35 <Rx1AE49C> \
+        8B4E 48 \
+        8B35 <Rx1AE4D8> \
+        8B7E 48 \
+        39F9 \
+        7F 77 \
+        0F8C 81000000 \
+        E9 8A000000 \
+      "
+    }
+*/
+/////////////////////////////////////////////////////////
+    "ReimuC2Range": {
+      "addr": "Rx13B7BA",
+      "code": "0F8D 2F010000"
+    },
+/*
+    "ReimuC2Time": {
+      "addr": "Rx127D97", // Rx13B974
+      "code": "32"
+    }
+*/
+/////////////////////////////////////////////////////////
+/*
+    "YachieCancelDamage": {
+      "addr": "Rx22204",
+      "code": "F0"
+    },
+*/
+/////////////////////////////////////////////////////////
+    "ToutetsuScopeTime": {
+      "addr": "Rx249B0",
+      "code": "20030000"
+    },
+    "ToutetsuC2RangeA": {
+      "addr": "Rx2545E",
+      "code": "70C2"
+    },
+    "ToutetsuC2RangeB": {
+      "addr": "Rx25468",
+      "code": "9643"
+    },
+    "ToutetsuC2RangeC": {
+      "addr": "Rx25472",
+      "code": "70C2"
+    },
+/////////////////////////////////////////////////////////
+    "CiyariScopeDmg": {
+      "addr": "Rx2b306",
+      "code": "06"
+    },
+/////////////////////////////////////////////////////////
+    "ZanmuC2A": {
+      "addr": "Rx2E79F",
+      "code": "A001" //5A00
+    },
+    "ZanmuC2B": {
+      "addr": "Rx2E7A9",
+      "code": "06" //04
+    },
+/////////////////////////////////////////////////////////
+    "BuffHisamiCard2": {
+      "addr": "Rxf3b06",
+      "code": "<codecave:BuffHisamiCard2Cave>"
+    }
+  },
+
+  "codecaves": {
+/////////////////////////////////////////////////////////
+    "BuffHisamiCard2Cave": {
+      "code": "<option:BuffHisamiCard2Mul>"
     }
   }
 }
