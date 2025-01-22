@@ -2,11 +2,40 @@
   "options": {
     "P1AI": {
       "type": "b",
-      "val": false
+      "val": true
     } 
   },
 
   "binhacks": {
+
+    // Toggle P1 AI
+    "StoryP2Input": {
+      "enable": "<option:P1AI> == 1",
+      "addr": "Rx1222DF",
+      "code": "02"
+    },
+    "StoryP1AI": {
+      "enable": "<option:P1AI> == 1",
+      "addr": "Rx15840B",
+      "code": "01"
+    },
+
+    // Toggle P1 No AI
+    "StoryNoAIInput": {
+      "enable": "<option:P1AI> == 0",
+      "addr": "RxFA3A0",
+      "code": "909090909090"
+    },
+    "StoryAllowPlayerInput": {
+      "enable": "<option:P1AI> == 0",
+      "addr": "RxFB84E",
+      "code": "90909090909090909090"
+    },
+
+    "StoryP1Input": {
+      "addr": "Rx1222D5",
+      "code": "00"
+    },
 
     // Vs AI Swap
     "VsP1AI": {
