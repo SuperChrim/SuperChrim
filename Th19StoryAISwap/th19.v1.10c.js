@@ -13,17 +13,15 @@
       "code": "A0"
     },
 
-/*
     // P2 Meter Rate Uncap
     "P2StoryMeterRateUnCap1": {
-      "addr": "RxEB00B",
+      "addr": "Rx149E7E",
       "code": "9090"
     },
     "P2StoryMeterRateUnCap2": {
-      "addr": "Rx10EA53",
+      "addr": "Rx121577",
       "code": "8BC2 90"
     },
-*/
 
     // Toggle P1 AI
     "StoryP2Input": {
