@@ -8,6 +8,23 @@
 
   "binhacks": {
 
+    "P2StoryMeterRate": {
+      "addr": [ "RxFB9C0", "RxFB9D1", "RxFB9E2", "RxFB9F3" ],
+      "code": "A0"
+    },
+
+/*
+    // P2 Meter Rate Uncap
+    "P2StoryMeterRateUnCap1": {
+      "addr": "RxEB00B",
+      "code": "9090"
+    },
+    "P2StoryMeterRateUnCap2": {
+      "addr": "Rx10EA53",
+      "code": "8BC2 90"
+    },
+*/
+
     // Toggle P1 AI
     "StoryP2Input": {
       "enable": "<option:P1AI> == 1",
