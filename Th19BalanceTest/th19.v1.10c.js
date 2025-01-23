@@ -206,6 +206,30 @@
       "code": "32"
     }
 */
+
+/////////////////////////////////////////////////////////
+
+    "TsukasaC2NerfA": {
+      "addr": "Rx1BE20",
+      "code": "64"
+    },
+    "TsukasaC2NerfB": {
+      "addr": "Rx1E695",
+      "code": "3E43"
+    },
+    "TsukasaC2NerfC": {
+      "addr": "Rx1E72B",
+      "code": "64"
+    },
+    "TsukasaC2NerfD": {
+      "addr": "Rx1E739",
+      "code": "C842"
+    },
+    "TsukasaC2NerfE": {
+      "addr": "Rx1E741",
+      "code": "63"
+    },
+
 /////////////////////////////////////////////////////////
 /*
     "YachieCancelDamage": {

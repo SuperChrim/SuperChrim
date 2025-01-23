@@ -63,6 +63,7 @@ Rin:
  - Spell card bullet speed now increases with boss level
 
 Tsukasa:
+ - Skill range has been decreased
  - Ex attack now shoots more bullets but are now less dense; origin point is now higher
  - Ex tube speed and spawn rate has been adjusted
 
