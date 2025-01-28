@@ -177,7 +177,7 @@
       "code": "83C6 4C"
     },
     "SeperateExAttackAndBossAttackCheckB": {
-      "addr": "Rx1032C4",
+      "addr": "Rx1032C4", // Rx115853
       "code": " \
         8B35 <Rx1AE4D8> \
         8B7E 4C \
@@ -193,9 +193,17 @@
         0F8C 81000000 \
         E9 8A000000 \
       "
-    }
+    },
 */
+  },
 /////////////////////////////////////////////////////////
+    "ReimuC2NoC1": {
+      "addr": "Rx13B114",
+      "code": "\
+        E9 [codecave:ReimuC2NoC1Cave] \
+        90 \
+      "
+    },
     "ReimuC2Range": {
       "addr": "Rx13B7BA",
       "code": "0F8D 2F010000"
@@ -204,9 +212,8 @@
     "ReimuC2Time": {
       "addr": "Rx127D97", // Rx13B974
       "code": "32"
-    }
+    },
 */
-
 /////////////////////////////////////////////////////////
 
     "TsukasaC2NerfA": {
@@ -229,7 +236,6 @@
       "addr": "Rx1E741",
       "code": "63"
     },
-
 /////////////////////////////////////////////////////////
 /*
     "YachieCancelDamage": {
@@ -308,9 +314,33 @@
       "addr": "Rxf3b06",
       "code": "<codecave:BuffHisamiCard2Cave>"
     }
-  },
+  }
+
 
   "codecaves": {
+/////////////////////////////////////////////////////////
+/*
+    "ReimuC2NoC1Cave": {
+      "code": "\
+        8B4A 64 \
+        85C9 \
+        74 14 \
+        0F1F4000 \
+        8B09 \
+        8B09 \
+        81F9 <Rx1A8AB8> \
+        0F84 [Rx13B17C] \
+        8B99 98000000 \
+        E9 [Rx13B11A] \
+      "
+    },
+*/
+    "ReimuC2NoC1Cave": {
+      "code": "\
+        8B99 98000000 \
+        E9 [Rx13B11A] \
+      "
+    },
 /////////////////////////////////////////////////////////
     "BuffHisamiCard2Cave": {
       "code": "<option:BuffHisamiCard2Mul>"
