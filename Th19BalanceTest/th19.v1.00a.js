@@ -499,10 +499,12 @@
       "code": "28"
     },
 /////////////////////////////////////////////////////////
+/*
     "YachieCancelDamage": {
-      "addr": "Rx1F36A",
-      "code": "00"
+      "addr": "Rx1f31f",
+      "code": "FF"
     },
+*/
     "YachieC2Range": {
       "addr": "Rx1F3D5",
       "code": "28"

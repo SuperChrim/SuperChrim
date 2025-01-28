@@ -501,8 +501,8 @@
 /////////////////////////////////////////////////////////
 /*
     "YachieCancelDamage": {
-      "addr": "Rx1F36A",
-      "code": "0A"
+      "addr": "Rx1f31f",
+      "code": "FF"
     },
 */
     "YachieC2Range": {
