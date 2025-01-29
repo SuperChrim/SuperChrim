@@ -79,6 +79,7 @@ Yachie:
  - Ex otter spirit spawn rate has been adjusted
  - Ex otter spirits can now be grazed
  - Ex otter spirit kill reward has been restored
+ - Ex attack will now spawn a couple of normal otter spirits in addition to Ex otter spirits
 
 Saki:
  - C1, skill, and Ex attack now require less meter
@@ -88,6 +89,7 @@ Saki:
  - Ex wolf spirit spawn rate has been adjusted
  - Ex wolf spirits can now be grazed
  - Ex wolf spirit kill reward has been restored
+ - Ex attack will now spawn a couple of normal wolf spirits in addition to Ex wolf spirits
  - Spell card lasers are now longer and travel faster
 
 Yuuma:
@@ -101,6 +103,7 @@ Yuuma:
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can now be grazed
  - Ex eagle spirit kill reward has been restored
+ - Ex attack will spawn a couple of normal eagle spirits in addition to Ex eagle spirits
 
 Suika:
  - Spell card boss health has been increased
