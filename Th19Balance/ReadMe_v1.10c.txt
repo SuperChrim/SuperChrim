@@ -1,5 +1,12 @@
+
+
+HAPPY APRIL FOOLS
+
+
+
 This is a patch that makes tweaks to characters in an attempt to make the roster feel more balanced for VS mode.
 This is the change log for the v1.00c version of the game.
+
 Please be aware that this will impact online play as well. Be sure that your opponent also has this patch for optimal performance.
 IMPORTANT! Do NOT use this in random matches in online mode.
 
