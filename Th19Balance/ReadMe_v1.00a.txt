@@ -166,6 +166,7 @@ System:
  - Bullet count is now capped at 1200 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
  - Decision victory now prioritizes Boss attacks sent before Ex attacks sent if both players have the same number of lives remaining
+ - Wave 9 fairy HP has been decreased
 
 Th19BugFixes:
  - Includes Shoxlu's Rin skill death bug fix

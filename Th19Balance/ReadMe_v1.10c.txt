@@ -159,6 +159,7 @@ Ability Cards:
 System:
  - Bullet count is now capped at 1200 and Laser count at 150 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
+ - Wave 9 fairy HP has been decreased
 
 Th19BugFixes:
  - Mamizou non spell increases in difficulty with boss lvl
