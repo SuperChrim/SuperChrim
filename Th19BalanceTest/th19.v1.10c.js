@@ -75,6 +75,15 @@
     "ZanmuECLFilename_str": {
       "type": "s",
       "val": "pl18_balanceC.ecl"
+    },
+/////////////////////////////////////////////////////////
+    "ToutetsuExOffset": {
+      "type": "f32",
+      "val": -36
+    },
+    "SeiranExEarlyDelay": {
+      "type": "i32",
+      "val": 120
     }
   },
 
@@ -213,6 +222,13 @@
       "code": "32"
     },
 */
+
+/////////////////////////////////////////////////////////
+    "SeiranExEarlyDelay": {
+      "addr": "Rx1A8FB8",
+      "code": "<codecave:SeiranExEarlyDelay>"
+    },
+
 /////////////////////////////////////////////////////////
     "TsukasaC2NerfA": {
       "addr": "Rx1E675",
@@ -246,17 +262,37 @@
       "addr": "Rx249B0",
       "code": "20030000"
     },
+    "ToutetsuC1Range": {
+      "addr": "Rx252E3",
+      "code": "1042"
+    },
     "ToutetsuC2RangeA": {
       "addr": "Rx2545E",
-      "code": "70C2"
+      "code": "10C2"
     },
     "ToutetsuC2RangeB": {
       "addr": "Rx25468",
-      "code": "9643"
+      "code": "1643"
     },
     "ToutetsuC2RangeC": {
       "addr": "Rx25472",
-      "code": "70C2"
+      "code": "10C2"
+    },
+    "ToutetsuExOffset": {
+      "addr": "Rx25714",
+      "code": " \
+        8B98 8C060000 \
+        F20F1080 90060000 \
+        FFB7 08010000 \
+        E8 [RxCB8B0] \
+        85C0 \
+        74 0D \
+        8998 14060000 \
+        0F1380 18060000 \
+        891E \
+        F30F5805 {f32:<option:ToutetsuExOffset>} \
+        F20F1146 04 \
+      "
     },
 /////////////////////////////////////////////////////////
     "CiyariScopeDmg": {
@@ -319,7 +355,7 @@
 /////////////////////////////////////////////////////////
 /*
     "ReimuC2NoC1Cave": {
-      "code": "\
+      "code": " \
         8B4A 64 \
         85C9 \
         74 14 \
@@ -334,9 +370,19 @@
     },
 */
     "ReimuC2NoC1Cave": {
-      "code": "\
+      "code": " \
         8B99 98000000 \
         E9 [Rx13B11A] \
+      "
+    },
+/////////////////////////////////////////////////////////
+    "SeiranExEarlyDelay": {
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:SeiranExEarlyDelay> \
+        0F92C0 \
+        C3 \
       "
     },
 /////////////////////////////////////////////////////////
