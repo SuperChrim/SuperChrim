@@ -141,7 +141,7 @@ Hisami:
  - Unused animation has been added for spell card
 
 Zanmu:
- - Actionable state after skill occurs faster
+ - Actionable state after C1 occurs faster
  - Skill and Ex attack require more meter to use
  - Skill range and speed has been decreased
  - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Strengthening' card
