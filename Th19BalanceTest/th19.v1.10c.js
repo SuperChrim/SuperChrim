@@ -81,9 +81,38 @@
       "type": "f32",
       "val": -36
     },
-    "SeiranExEarlyDelay": {
-      "type": "i32",
+/////////////////////////////////////////////////////////
+    "MarisaExCooldownEnd": {
+      "type": "132",
+      "val": 100
+    },
+    "NazrinExCooldownEnd": {
+      "type": "u32",
+      "val": 80
+    },
+    "SeiranExCooldownEnd": {
+      "type": "u32",
       "val": 120
+    },
+    "YachieExCooldownEnd": {
+      "type": "u32",
+      "val": 50
+    },
+    "SakiExCooldownEnd": {
+      "type": "u32",
+      "val": 50
+    },
+    "SuikaExCooldownEnd": {
+      "type": "u32",
+      "val": 120
+    },
+    "HisamiExCooldownEnd": {
+      "type": "u32",
+      "val": 120
+    },
+    "ZanmuExCooldownEnd": {
+      "type": "u32",
+      "val": 70
     }
   },
 
@@ -222,11 +251,23 @@
       "code": "32"
     },
 */
-
 /////////////////////////////////////////////////////////
-    "SeiranExEarlyDelay": {
+    "MarisaExCooldownEnd": {
+      "enable": "<option:MarisaExCooldownEnd>",
+      "addr": "Rx1A8BB0",
+      "code": "<codecave:MarisaExCooldownEnd>"
+    },
+/////////////////////////////////////////////////////////
+    "NazrinExCooldownEnd": {
+      "enable": "<option:NazrinExCooldownEnd>",
+      "addr": "Rx1A8EAC",
+      "code": "<codecave:NazrinExCooldownEnd>"
+    },
+/////////////////////////////////////////////////////////
+    "SeiranExCooldownEnd": {
+      "enable": "<option:SeiranExCooldownEnd>",
       "addr": "Rx1A8FB8",
-      "code": "<codecave:SeiranExEarlyDelay>"
+      "code": "<codecave:SeiranExCooldownEnd>"
     },
 
 /////////////////////////////////////////////////////////
@@ -257,6 +298,17 @@
       "code": "F0"
     },
 */
+    "YachieExCooldownEnd": {
+      "enable": "<option:YachieExCooldownEnd>",
+      "addr": "Rx1A92D8",
+      "code": "<codecave:YachieExCooldownEnd>"
+    },
+/////////////////////////////////////////////////////////
+    "SakiExCooldownEnd": {
+      "enable": "<option:SakiExCooldownEnd>",
+      "addr": "Rx1A9394",
+      "code": "<codecave:SakiExCooldownEnd>"
+    },
 /////////////////////////////////////////////////////////
     "ToutetsuScopeTime": {
       "addr": "Rx249B0",
@@ -295,9 +347,21 @@
       "
     },
 /////////////////////////////////////////////////////////
+    "SuikaExCooldownEnd": {
+      "enable": "<option:SuikaExCooldownEnd>",
+      "addr": "Rx1A950C",
+      "code": "<codecave:SuikaExCooldownEnd>"
+    },
+/////////////////////////////////////////////////////////
     "CiyariScopeDmg": {
       "addr": "Rx2b306",
       "code": "06"
+    },
+/////////////////////////////////////////////////////////
+    "HisamiExCooldownEnd": {
+      "enable": "<option:HisamiExCooldownEnd>",
+      "addr": "Rx1A9808",
+      "code": "<codecave:HisamiExCooldownEnd>"
     },
 /////////////////////////////////////////////////////////
     "ZanmuC2A": {
@@ -343,6 +407,11 @@
         52 \
       "
     },
+    "ZanmuExCooldownEnd": {
+      "enable": "<option:ZanmuExCooldownEnd>",
+      "addr": "Rx1A98E8",
+      "code": "<codecave:ZanmuExCooldownEnd>"
+    },
 /////////////////////////////////////////////////////////
     "BuffHisamiCard2": {
       "addr": "Rxf3b06",
@@ -376,15 +445,85 @@
       "
     },
 /////////////////////////////////////////////////////////
-    "SeiranExEarlyDelay": {
+    "MarisaExCooldownEnd": {
+      "enable": "<option:MarisaExCooldownEnd>",
       "access": "re",
       "code": " \
         31C0 \
-        81B9 8C000000 <option:SeiranExEarlyDelay> \
+        81B9 8C000000 <option:MarisaExCooldownEnd> \
         0F92C0 \
         C3 \
       "
     },
+    "NazrinExCooldownEnd": {
+      "enable": "<option:NazrinExCooldownEnd>",
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:NazrinExCooldownEnd> \
+        0F92C0 \
+        C3 \
+      "
+    },
+    "SeiranExCooldownEnd": {
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:SeiranExCooldownEnd> \
+        0F92C0 \
+        C3 \
+      "
+    },
+    "YachieExCooldownEnd": {
+      "enable": "<option:YachieExCooldownEnd>",
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:YachieExCooldownEnd> \
+        0F92C0 \
+        C3 \
+      "
+    },
+    "SakiExCooldownEnd": {
+      "enable": "<option:SakiExCooldownEnd>",
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:SakiExCooldownEnd> \
+        0F92C0 \
+        C3 \
+      "
+    },
+    "SuikaExCooldownEnd": {
+      "enable": "<option:SuikaExCooldownEnd>",
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:SuikaExCooldownEnd> \
+        0F92C0 \
+        C3 \
+      "
+    },
+    "HisamiExCooldownEnd": {
+      "enable": "<option:HisamiExCooldownEnd>",
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:HisamiExCooldownEnd> \
+        0F92C0 \
+        C3 \
+      "
+    },
+    "ZanmuExCooldownEnd": {
+      "enable": "<option:ZanmuExCooldownEnd>",
+      "access": "re",
+      "code": " \
+        31C0 \
+        81B9 8C000000 <option:ZanmuExCooldownEnd> \
+        0F92C0 \
+        C3 \
+      "
+        },
 /////////////////////////////////////////////////////////
     "BuffHisamiCard2Cave": {
       "code": "<option:BuffHisamiCard2Mul>"

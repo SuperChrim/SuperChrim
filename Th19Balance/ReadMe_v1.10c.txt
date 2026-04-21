@@ -41,6 +41,7 @@ Aunn:
  - Ex can only be destroyed with bombs
 
 Nazrin:
+ - Actionable state after C1 occurs faster
  - Overall shot damage has been increased
  - Bomb does not chase down spirits
  - Skill causes Ex spirits to shoot bullets on death
@@ -75,6 +76,7 @@ Mamizou:
  - Ex attack spawns less enemies
 
 Yachie:
+ - Actionable state after skill occurs faster
  - Ex otter spirit health has been increased
  - Ex otter spirits lose health when scoped
  - Ex otters spirits shoot more bullets
@@ -85,6 +87,7 @@ Yachie:
 
 Saki:
  - C1, skill, and Ex attack require less meter
+ - Actionable state after skill occurs faster
  - Ex wolf spirit health has been increased
  - Ex wolf spirits lose health when scoped
  - Ex wolf spirits shoot more bullets
@@ -109,6 +112,7 @@ Yuuma:
  - Ex attack will spawn a couple of normal eagle spirits in addition to Ex eagle spirits
 
 Suika:
+ - Actionable state after skill occurs faster
  - Spell card boss health has been increased
  - Spell card starting vulnerability has been restored
  - Ex mini Suika health has been increased
@@ -131,11 +135,13 @@ Chiyari:
  - Skill/Ex attack require more meter to use
 
 Hisami:
+ - Actionable state after skill occurs faster
  - Overall shot damage has been increased
  - Vines are slower and spawn rate has been adjusted
  - Unused animation has been added for spell card
 
 Zanmu:
+ - Actionable state after skill occurs faster
  - Skill and Ex attack require more meter to use
  - Skill range and speed has been decreased
  - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Strengthening' card
