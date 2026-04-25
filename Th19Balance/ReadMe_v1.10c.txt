@@ -168,6 +168,7 @@ System:
  - Bullet count is capped at 1200 and Laser count at 150 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
  - Wave 9 fairy HP has been decreased
+ - The hitbox indicator follows the player after a barrier break
 
 Th19BugFixes:
  - Mamizou non spell increases in difficulty with boss lvl

@@ -84,7 +84,7 @@
 /////////////////////////////////////////////////////////
     "MarisaExCooldownEnd": {
       "type": "132",
-      "val": 100
+      "val": 0
     },
     "NazrinExCooldownEnd": {
       "type": "u32",
@@ -416,7 +416,15 @@
     "BuffHisamiCard2": {
       "addr": "Rxf3b06",
       "code": "<codecave:BuffHisamiCard2Cave>"
-    }
+    },
+        "BarrierBreakStateLogicA": {
+            "addr": "Rx146880",
+            "code": "<int3:363>"
+        },
+        "BarrierBreakStateLogicB": {
+            "addr": "Rx146CFC",
+            "code": "<codecave:BarrierBreakStateLogic>"
+        }
   },
 
 
@@ -527,6 +535,69 @@
 /////////////////////////////////////////////////////////
     "BuffHisamiCard2Cave": {
       "code": "<option:BuffHisamiCard2Mul>"
-    }
+    },
+/////////////////////////////////////////////////////////
+        "BarrierBreakStateLogic": {
+            "access": "re",
+            "code": "\
+83EC 08 \
+D947 40 \
+D9FB \
+D91C24 \
+D95C24 04 \
+8B87 B8060000 \
+F20F100424 \
+83F8 28 \
+7C 1D \
+F30F100D {u32:0xFFFFFFFF} \
+C747 10 01000000 \
+0F118F B4060000 \
+808F C4060000 01 \
+0F57C9 \
+F30F2AC8 \
+F30F590D {u32:0xC0CCCCCD} \
+89F9 \
+F30F580D {u32:0x43800000} \
+0FC6C9 00 \
+0F59C8 \
+F30F5BC1 \
+660FD60424 \
+0F57C9 \
+660F76C8 \
+0F50F1 \
+E8 [Rx2FCE0] \
+FFB7 84060000 \
+8B0D <Rx1D19BC> \
+E8 [RxCB8B0] \
+85C0 \
+74 20 \
+F20F1087 8C060000 \
+F20F1180 14060000 \
+F30F1087 94060000 \
+F30F1180 1C060000 \
+83F6 0F \
+74 27 \
+8DB7 2C210000 \
+8D87 34210000 \
+68 00010000 \
+56 \
+50 \
+E8 [th_memmove] \
+83C4 0C \
+F30F7E87 98060000 \
+660FD606 \
+BE 00070000 \
+<nop:6> \
+8D0437 \
+89F9 \
+50 \
+E8 [Rx146D10] \
+81C6 28010000 \
+81FE 70200000 \
+75 E7 \
+F30F100D <Rx1AA230> \
+E9 [Rx146A00] \
+"
+        }
   }
 }
