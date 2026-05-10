@@ -9,31 +9,32 @@ For the purpose of this document, the following terms are equivalent:
 Skill - C2
 Ex attack - C3
 Actionable state - being able to shoot or charge
+Kill reward - the amount of bullets spirits, and EX attacks that are sent
 
 (This patch is a work in progress. More changes will be added in the future.)
 
 Reimu:
- - Shot damage has been decreased
- - C1 damage has been increased
- - Skill requires more meter to use and the range of erasing bullets has been decreased
- - Ex bullet speed/acceleration has decreased and higher level's bullet size has been reduced
- - Spell card bullet speed and acceleration has been decreased
+ - Shot damage is decreased
+ - C1 damage is increased
+ - Skill requires more meter to use and the range of erasing bullets is decreased
+ - Ex bullet speed/acceleration has decreased and higher level's bullet size is reduced
+ - Spell card bullet speed and acceleration is decreased
 
 Marisa:
- - C1 damage has been increased
- - Spell Card bullet speed has been decreased
+ - C1 damage is increased
+ - Spell Card bullet speed is decreased
 
 Sanae:
- - Damage has been increased and she shoots during C1
+ - Damage is increased and she shoots during C1
  - Ex attack covers more of the screen at higher levels
 
 Ran:
  - Non-spell fires more bullets
  - Chen always despawns with Ran when a spell card is timed out
- - Vs mode stage has been changed to Youkai Mountain River
+ - Vs mode stage is changed to Youkai Mountain River
 
 Aunn:
- - Overall shot damage has been increased
+ - Overall shot damage is increased
  - C1/Skill have piercing shots
  - Spell card bullets have increased speed/density and cannot be erased
  - Spell card lasers are longer and travel at sharper angle
@@ -42,7 +43,7 @@ Aunn:
 
 Nazrin:
  - Actionable state after C1 occurs faster
- - Overall shot damage has been increased
+ - Overall shot damage is increased
  - Bomb does not chase down spirits
  - Skill causes Ex spirits to shoot bullets on death
  - Ex spirits killed from skill have less kill reward
@@ -57,75 +58,75 @@ Seiran:
 
 Rin:
  - Ex vengeful spirits lose health when scoped
- - Ex vengeful spirit's health has been increased
+ - Ex vengeful spirit's health is increased
  - Ex vengeful spirit's bullets fire less often
- - Ex vengeful spirit spawn rate and location has been adjusted
- - Ex vengeful spirit kill reward has been restored
+ - Ex vengeful spirit spawn rate and location is adjusted
+ - Ex vengeful spirit kill reward is restored
  - Ex vengeful spirits can be grazed
  - Spell card zombie fairies shoot bullets when killed
  - Spell card bullet speed increases with boss level
 
 Tsukasa:
- - Skill range has been decreased
+ - Skill range is decreased
  - Ex attack shoots more bullets but are less dense; origin point is higher
- - Ex tube speed and spawn rate has been adjusted
+ - Ex tube speed and spawn rate is adjusted
 
 Mamizou:
- - C1 damage has been increased
+ - C1 damage is increased
  - Skill/Ex attack require less meter
  - Ex attack spawns less enemies
 
 Yachie:
  - Actionable state after skill occurs faster
- - Ex otter spirit health has been increased
+ - Ex otter spirit health is increased
  - Ex otter spirits lose health when scoped
- - Ex otters spirits shoot more bullets
- - Ex otter spirit spawn rate has been adjusted
+ - Ex otter spirits shoot more bullets
+ - Ex otter spirit spawn rate is adjusted
  - Ex otter spirits can be grazed
- - Ex otter spirit kill reward has been restored
+ - Ex otter spirit kill reward is restored
  - Ex attack will spawn a couple of normal otter spirits in addition to Ex otter spirits
 
 Saki:
  - C1, skill, and Ex attack require less meter
  - Actionable state after skill occurs faster
- - Ex wolf spirit health has been increased
+ - Ex wolf spirit health is increased
  - Ex wolf spirits lose health when scoped
  - Ex wolf spirits shoot more bullets
- - Ex wolf spirit spawn rate has been adjusted
+ - Ex wolf spirit spawn rate is adjusted
  - Ex wolf spirits can be grazed
- - Ex wolf spirit kill reward has been restored
+ - Ex wolf spirit kill reward is restored
  - Ex attack will spawn a couple of normal wolf spirits in addition to Ex wolf spirits
  - Spell card lasers are longer and travel faster
 
 Yuuma:
- - Scope speed has been decreased
+ - Scope speed is decreased
  - C1/Skill require more meter
- - C1/Skill size has been decreased and is only active at her front
- - Ex eagle spirit health has been increased
+ - C1/Skill size is decreased and is only active at her front
+ - Ex eagle spirit health is increased
  - Ex eagle spirits lose health when scoped
  - Ex eagle spirits shoot more bullets
- - Ex eagle spirit movement speed and angle has been adjusted
- - Ex eagle spirit spawn rate has been adjusted
+ - Ex eagle spirit movement speed and angle is adjusted
+ - Ex eagle spirit spawn rate is adjusted
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can be grazed
- - Ex eagle spirit kill reward has been restored
+ - Ex eagle spirit kill reward is restored
  - Ex attack will spawn a couple of normal eagle spirits in addition to Ex eagle spirits
 
 Suika:
  - Actionable state after skill occurs faster
- - Spell card boss health has been increased
- - Spell card starting vulnerability has been restored
- - Ex mini Suika health has been increased
+ - Spell card boss health is increased
+ - Spell card starting vulnerability is restored
+ - Ex mini Suika health is increased
 
 Biten:
- - Overall shot damage has been increased
+ - Overall shot damage is increased
 
 Enoko:
- - C1 and skill damage has been decreased
+ - C1 and skill damage is decreased
  - Ex can be grazed for the first 2 seconds after spawning
 
 Chiyari:
- - Scope damage has been increased
+ - Scope damage is increased
  - Ex have decreased speed and disappear faster
  - Skill dynamically increases size of Ex based on current size, rather than always increasing to the maximum size
  - Ex have no collision for first 30 frames after spawning
@@ -136,19 +137,19 @@ Chiyari:
 
 Hisami:
  - Actionable state after skill occurs faster
- - Overall shot damage has been increased
- - Vines are slower and spawn rate has been adjusted
- - Unused animation has been added for spell card
+ - Overall shot damage is increased
+ - Vines are slower and spawn rate is adjusted
+ - Unused animation is added for spell card
 
 Zanmu:
  - Actionable state after C1 occurs faster
  - Skill and Ex attack require more meter to use
- - Skill range and speed has been decreased
+ - Skill range and speed is decreased
  - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Strengthening' card
  - If Zanmu has the respective 'Weakening' card and the opponent has the respective 'Strengthening' card, Zanmu skill as a 50% chance to convert Ex animal spirits to pure spirits
  - Ex can be grazed
  - Ex kill reward is restored
- - Unused animation has been added for spell card
+ - Unused animation is added for spell card
 
 Ability Cards:
  - All ability card that grant additional shots have increased damage
@@ -162,12 +163,12 @@ Ability Cards:
  - Enoko's second card makes wolf spirits no longer shoot bullets
  - Chiyari's second card makes Yuuma Ex eagle spirits passable when disabled and decreases their collision size
  - Chiyari's second card makes eagle spirits no longer shoot bullets
- - Hisami second ability card effect has been increased, and spirit bullets are affected
+ - Hisami second ability card effect is increased, and spirit bullets are affected
 
 System:
  - Bullet count is capped at 1200 and Laser count at 150 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
- - Wave 9 fairy HP has been decreased
+ - Wave 9 fairy HP is decreased
  - The hitbox indicator follows the player after a barrier break
 
 Th19BugFixes:
