@@ -153,6 +153,7 @@ Zanmu:
 
 Ability Cards:
  - All ability card that grant additional shots have increased damage
+ - Aunn's first card's effect on charging speed is decreased
  - Orin's second card makes disabled spirits stay on screen longer
  - Yachie Ex otter spirits can be strengthened/weakened with Yachie's cards
  - Saki Ex wolve spirits can be strengthened/weakened with Saki's cards
