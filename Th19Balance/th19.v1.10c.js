@@ -298,6 +298,7 @@
       "code": "9600"
     },
 /////////////////////////////////////////////////////////
+/*
         "ApplyBaseCardEffects": {
             "addr": "Rx118114",
             "code": "\
@@ -326,6 +327,7 @@ F30F7F8F <Rx22B144> \
             "addr": "Rx1A7F6C",
             "code": "<codecave:CardNazrin2ApplyBombDuration>"
         },
+*/
 /////////////////////////////////////////////////////////
     "ReimuECLFilename": {
       "addr": "Rx1C5C24",
