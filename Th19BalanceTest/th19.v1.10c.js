@@ -121,7 +121,7 @@
     "ReimuAuraSize": { "type": "u8", "val": 100 },
     "ReimuBombDuration": { "type": "u8", "val": 100 },
     "ReimuHitboxSizeReimu2": { "type": "u8", "val": 50 },
-    "ReimuChargeSpeedAun1": { "type": "u8", "val": 220 },
+    "ReimuChargeSpeedAun1": { "type": "u8", "val": 120 },
     "ReimuAuraSizeAun2": { "type": "u8", "val": 125 },
     "ReimuBombDurationNazrin2": { "type": "u8", "val": 150 },
         
