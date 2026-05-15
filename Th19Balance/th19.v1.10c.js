@@ -115,12 +115,13 @@
       "val": 70
     },
 
+/////////////////////////////////////////////////////////
     "ReimuHitboxSize": { "type": "u8", "val": 100 },
     "ReimuChargeSpeed": { "type": "u8", "val": 100 },
     "ReimuAuraSize": { "type": "u8", "val": 100 },
     "ReimuBombDuration": { "type": "u8", "val": 100 },
     "ReimuHitboxSizeReimu2": { "type": "u8", "val": 50 },
-    "ReimuChargeSpeedAun1": { "type": "u8", "val": 120 },
+    "ReimuChargeSpeedAun1": { "type": "u8", "val": 220 },
     "ReimuAuraSizeAun2": { "type": "u8", "val": 125 },
     "ReimuBombDurationNazrin2": { "type": "u8", "val": 150 },
         
@@ -311,6 +312,7 @@ F30F7F8F <Rx22B144> \
 <nop:5> \
 "
         },
+*/
         "CardReimu2ApplyHitboxSize": {
             "addr": "Rx1A81AC",
             "code": "<codecave:CardReimu2ApplyHitboxSize>"
@@ -327,7 +329,6 @@ F30F7F8F <Rx22B144> \
             "addr": "Rx1A7F6C",
             "code": "<codecave:CardNazrin2ApplyBombDuration>"
         },
-*/
 /////////////////////////////////////////////////////////
     "ReimuECLFilename": {
       "addr": "Rx1C5C24",
