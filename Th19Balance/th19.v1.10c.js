@@ -82,10 +82,6 @@
       "val": -36
     },
 /////////////////////////////////////////////////////////
-    "MarisaExCooldownEnd": {
-      "type": "132",
-      "val": 0
-    },
     "NazrinExCooldownEnd": {
       "type": "u32",
       "val": 80
@@ -116,175 +112,99 @@
     },
 
 /////////////////////////////////////////////////////////
-    "ReimuHitboxSize": { "type": "u8", "val": 100 },
-    "ReimuChargeSpeed": { "type": "u8", "val": 100 },
-    "ReimuAuraSize": { "type": "u8", "val": 100 },
-    "ReimuBombDuration": { "type": "u8", "val": 100 },
     "ReimuHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "ReimuChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "ReimuAuraSizeAun2": { "type": "u8", "val": 125 },
+    "ReimuAuraSizeAun2": { "type": "u8", "val": 140 },
     "ReimuBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "MarisaHitboxSize": { "type": "u8", "val": 100 },
-    "MarisaChargeSpeed": { "type": "u8", "val": 100 },
-    "MarisaAuraSize": { "type": "u8", "val": 100 },
-    "MarisaBombDuration": { "type": "u8", "val": 100 },
     "MarisaHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "MarisaChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "MarisaAuraSizeAun2": { "type": "u8", "val": 125 },
+    "MarisaAuraSizeAun2": { "type": "u8", "val": 150 },
     "MarisaBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "SanaeHitboxSize": { "type": "u8", "val": 100 },
-    "SanaeChargeSpeed": { "type": "u8", "val": 100 },
-    "SanaeAuraSize": { "type": "u8", "val": 100 },
-    "SanaeBombDuration": { "type": "u8", "val": 100 },
     "SanaeHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "SanaeChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "SanaeAuraSizeAun2": { "type": "u8", "val": 125 },
+    "SanaeAuraSizeAun2": { "type": "u8", "val": 130 },
     "SanaeBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "RanHitboxSize": { "type": "u8", "val": 100 },
-    "RanChargeSpeed": { "type": "u8", "val": 100 },
-    "RanAuraSize": { "type": "u8", "val": 100 },
-    "RanBombDuration": { "type": "u8", "val": 100 },
     "RanHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "RanChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "RanAuraSizeAun2": { "type": "u8", "val": 125 },
+    "RanAuraSizeAun2": { "type": "u8", "val": 130 },
     "RanBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "AunHitboxSize": { "type": "u8", "val": 100 },
-    "AunChargeSpeed": { "type": "u8", "val": 100 },
-    "AunAuraSize": { "type": "u8", "val": 100 },
-    "AunBombDuration": { "type": "u8", "val": 100 },
     "AunHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "AunChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "AunAuraSizeAun2": { "type": "u8", "val": 125 },
+    "AunAuraSizeAun2": { "type": "u8", "val": 130 },
     "AunBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "NazrinHitboxSize": { "type": "u8", "val": 100 },
-    "NazrinChargeSpeed": { "type": "u8", "val": 100 },
-    "NazrinAuraSize": { "type": "u8", "val": 100 },
-    "NazrinBombDuration": { "type": "u8", "val": 100 },
     "NazrinHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "NazrinChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "NazrinAuraSizeAun2": { "type": "u8", "val": 125 },
+    "NazrinAuraSizeAun2": { "type": "u8", "val": 170 },
     "NazrinBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "SeiranHitboxSize": { "type": "u8", "val": 100 },
-    "SeiranChargeSpeed": { "type": "u8", "val": 100 },
-    "SeiranAuraSize": { "type": "u8", "val": 100 },
-    "SeiranBombDuration": { "type": "u8", "val": 100 },
     "SeiranHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "SeiranChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "SeiranAuraSizeAun2": { "type": "u8", "val": 125 },
+    "SeiranAuraSizeAun2": { "type": "u8", "val": 150 },
     "SeiranBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "OrinHitboxSize": { "type": "u8", "val": 100 },
-    "OrinChargeSpeed": { "type": "u8", "val": 100 },
-    "OrinAuraSize": { "type": "u8", "val": 100 },
-    "OrinBombDuration": { "type": "u8", "val": 100 },
     "OrinHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "OrinChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "OrinAuraSizeAun2": { "type": "u8", "val": 125 },
+    "OrinAuraSizeAun2": { "type": "u8", "val": 150 },
     "OrinBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "TsukasaHitboxSize": { "type": "u8", "val": 100 },
-    "TsukasaChargeSpeed": { "type": "u8", "val": 100 },
-    "TsukasaAuraSize": { "type": "u8", "val": 100 },
-    "TsukasaBombDuration": { "type": "u8", "val": 100 },
     "TsukasaHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "TsukasaChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "TsukasaAuraSizeAun2": { "type": "u8", "val": 125 },
+    "TsukasaAuraSizeAun2": { "type": "u8", "val": 150 },
     "TsukasaBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "MamizouHitboxSize": { "type": "u8", "val": 100 },
-    "MamizouChargeSpeed": { "type": "u8", "val": 100 },
-    "MamizouAuraSize": { "type": "u8", "val": 100 },
-    "MamizouBombDuration": { "type": "u8", "val": 100 },
     "MamizouHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "MamizouChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "MamizouAuraSizeAun2": { "type": "u8", "val": 125 },
+    "MamizouAuraSizeAun2": { "type": "u8", "val": 160 },
     "MamizouBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "YachieHitboxSize": { "type": "u8", "val": 100 },
-    "YachieChargeSpeed": { "type": "u8", "val": 100 },
-    "YachieAuraSize": { "type": "u8", "val": 100 },
-    "YachieBombDuration": { "type": "u8", "val": 100 },
     "YachieHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "YachieChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "YachieAuraSizeAun2": { "type": "u8", "val": 125 },
+    "YachieAuraSizeAun2": { "type": "u8", "val": 140 },
     "YachieBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "SakiHitboxSize": { "type": "u8", "val": 100 },
-    "SakiChargeSpeed": { "type": "u8", "val": 100 },
-    "SakiAuraSize": { "type": "u8", "val": 100 },
-    "SakiBombDuration": { "type": "u8", "val": 100 },
     "SakiHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "SakiChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "SakiAuraSizeAun2": { "type": "u8", "val": 125 },
+    "SakiAuraSizeAun2": { "type": "u8", "val": 150 },
     "SakiBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "ToutetsuHitboxSize": { "type": "u8", "val": 100 },
-    "ToutetsuChargeSpeed": { "type": "u8", "val": 100 },
-    "ToutetsuAuraSize": { "type": "u8", "val": 100 },
-    "ToutetsuBombDuration": { "type": "u8", "val": 100 },
     "ToutetsuHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "ToutetsuChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "ToutetsuAuraSizeAun2": { "type": "u8", "val": 125 },
+    "ToutetsuAuraSizeAun2": { "type": "u8", "val": 130 },
     "ToutetsuBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "SuikaHitboxSize": { "type": "u8", "val": 100 },
-    "SuikaChargeSpeed": { "type": "u8", "val": 100 },
-    "SuikaAuraSize": { "type": "u8", "val": 100 },
-    "SuikaBombDuration": { "type": "u8", "val": 100 },
     "SuikaHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "SuikaChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "SuikaAuraSizeAun2": { "type": "u8", "val": 125 },
+    "SuikaAuraSizeAun2": { "type": "u8", "val": 140 },
     "SuikaBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "BitenHitboxSize": { "type": "u8", "val": 100 },
-    "BitenChargeSpeed": { "type": "u8", "val": 100 },
-    "BitenAuraSize": { "type": "u8", "val": 100 },
-    "BitenBombDuration": { "type": "u8", "val": 100 },
     "BitenHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "BitenChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "BitenAuraSizeAun2": { "type": "u8", "val": 125 },
+    "BitenAuraSizeAun2": { "type": "u8", "val": 160 },
     "BitenBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "EnokoHitboxSize": { "type": "u8", "val": 100 },
-    "EnokoChargeSpeed": { "type": "u8", "val": 100 },
-    "EnokoAuraSize": { "type": "u8", "val": 100 },
-    "EnokoBombDuration": { "type": "u8", "val": 100 },
     "EnokoHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "EnokoChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "EnokoAuraSizeAun2": { "type": "u8", "val": 125 },
+    "EnokoAuraSizeAun2": { "type": "u8", "val": 135 },
     "EnokoBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "ChiyariHitboxSize": { "type": "u8", "val": 100 },
-    "ChiyariChargeSpeed": { "type": "u8", "val": 100 },
-    "ChiyariAuraSize": { "type": "u8", "val": 100 },
-    "ChiyariBombDuration": { "type": "u8", "val": 100 },
     "ChiyariHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "ChiyariChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "ChiyariAuraSizeAun2": { "type": "u8", "val": 125 },
+    "ChiyariAuraSizeAun2": { "type": "u8", "val": 140 },
     "ChiyariBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "HisamiHitboxSize": { "type": "u8", "val": 100 },
-    "HisamiChargeSpeed": { "type": "u8", "val": 100 },
-    "HisamiAuraSize": { "type": "u8", "val": 100 },
-    "HisamiBombDuration": { "type": "u8", "val": 100 },
     "HisamiHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "HisamiChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "HisamiAuraSizeAun2": { "type": "u8", "val": 125 },
+    "HisamiAuraSizeAun2": { "type": "u8", "val": 130 },
     "HisamiBombDurationNazrin2": { "type": "u8", "val": 150 },
         
-    "ZanmuHitboxSize": { "type": "u8", "val": 100 },
-    "ZanmuChargeSpeed": { "type": "u8", "val": 100 },
-    "ZanmuAuraSize": { "type": "u8", "val": 100 },
-    "ZanmuBombDuration": { "type": "u8", "val": 100 },
     "ZanmuHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "ZanmuChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "ZanmuAuraSizeAun2": { "type": "u8", "val": 125 },
+    "ZanmuAuraSizeAun2": { "type": "u8", "val": 135 },
     "ZanmuBombDurationNazrin2": { "type": "u8", "val": 150 }
   },
 
@@ -299,20 +219,6 @@
       "code": "9600"
     },
 /////////////////////////////////////////////////////////
-/*
-        "ApplyBaseCardEffects": {
-            "addr": "Rx118114",
-            "code": "\
-660FEFC0 \
-8B8F <Rx22B0CC> \
-660F6E0C8D {x.u8:<option:ReimuHitboxSize>;<option:ReimuChargeSpeed>;<option:ReimuAuraSize>;<option:ReimuBombDuration>;<option:MarisaHitboxSize>;<option:MarisaChargeSpeed>;<option:MarisaAuraSize>;<option:MarisaBombDuration>;<option:SanaeHitboxSize>;<option:SanaeChargeSpeed>;<option:SanaeAuraSize>;<option:SanaeBombDuration>;<option:RanHitboxSize>;<option:RanChargeSpeed>;<option:RanAuraSize>;<option:RanBombDuration>;<option:AunHitboxSize>;<option:AunChargeSpeed>;<option:AunAuraSize>;<option:AunBombDuration>;<option:NazrinHitboxSize>;<option:NazrinChargeSpeed>;<option:NazrinAuraSize>;<option:NazrinBombDuration>;<option:SeiranHitboxSize>;<option:SeiranChargeSpeed>;<option:SeiranAuraSize>;<option:SeiranBombDuration>;<option:OrinHitboxSize>;<option:OrinChargeSpeed>;<option:OrinAuraSize>;<option:OrinBombDuration>;<option:TsukasaHitboxSize>;<option:TsukasaChargeSpeed>;<option:TsukasaAuraSize>;<option:TsukasaBombDuration>;<option:MamizouHitboxSize>;<option:MamizouChargeSpeed>;<option:MamizouAuraSize>;<option:MamizouBombDuration>;<option:YachieHitboxSize>;<option:YachieChargeSpeed>;<option:YachieAuraSize>;<option:YachieBombDuration>;<option:SakiHitboxSize>;<option:SakiChargeSpeed>;<option:SakiAuraSize>;<option:SakiBombDuration>;<option:ToutetsuHitboxSize>;<option:ToutetsuChargeSpeed>;<option:ToutetsuAuraSize>;<option:ToutetsuBombDuration>;<option:SuikaHitboxSize>;<option:SuikaChargeSpeed>;<option:SuikaAuraSize>;<option:SuikaBombDuration>;<option:BitenHitboxSize>;<option:BitenChargeSpeed>;<option:BitenAuraSize>;<option:BitenBombDuration>;<option:EnokoHitboxSize>;<option:EnokoChargeSpeed>;<option:EnokoAuraSize>;<option:EnokoBombDuration>;<option:ChiyariHitboxSize>;<option:ChiyariChargeSpeed>;<option:ChiyariAuraSize>;<option:ChiyariBombDuration>;<option:HisamiHitboxSize>;<option:HisamiChargeSpeed>;<option:HisamiAuraSize>;<option:HisamiBombDuration>;<option:ZanmuHitboxSize>;<option:ZanmuChargeSpeed>;<option:ZanmuAuraSize>;<option:ZanmuBombDuration>} \
-660F60C8 \
-660F61C8 \
-F30F7F8F <Rx22B144> \
-<nop:5> \
-"
-        },
-*/
         "CardReimu2ApplyHitboxSize": {
             "addr": "Rx1A81AC",
             "code": "<codecave:CardReimu2ApplyHitboxSize>"
@@ -454,12 +360,6 @@ F30F7F8F <Rx22B144> \
       "code": "32"
     },
 */
-/////////////////////////////////////////////////////////
-    "MarisaExCooldownEnd": {
-      "enable": "<option:MarisaExCooldownEnd>",
-      "addr": "Rx1A8BB0",
-      "code": "<codecave:MarisaExCooldownEnd>"
-    },
 /////////////////////////////////////////////////////////
     "NazrinExCooldownEnd": {
       "enable": "<option:NazrinExCooldownEnd>",
@@ -720,16 +620,6 @@ C3 \
       "
     },
 /////////////////////////////////////////////////////////
-    "MarisaExCooldownEnd": {
-      "enable": "<option:MarisaExCooldownEnd>",
-      "access": "re",
-      "code": " \
-        31C0 \
-        81B9 8C000000 <option:MarisaExCooldownEnd> \
-        0F92C0 \
-        C3 \
-      "
-    },
     "NazrinExCooldownEnd": {
       "enable": "<option:NazrinExCooldownEnd>",
       "access": "re",
