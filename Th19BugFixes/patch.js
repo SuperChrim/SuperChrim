@@ -2,7 +2,8 @@
   "dependencies": [
     "nmlgc/base_tsa",
     "Shoxlu/Th19FixOrinLV2",
-    "Shoxlu/Th19ExAttackResAnimFix"
+    "Shoxlu/Th19ExAttackResAnimFix",
+    "zero318/BetterOptimization"
   ],
   "id": "Th19BugFixes",
   "servers": [
