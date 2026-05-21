@@ -124,7 +124,7 @@
         
     "SanaeHitboxSizeReimu2": { "type": "u8", "val": 50 },
     "SanaeChargeSpeedAun1": { "type": "u8", "val": 120 },
-    "SanaeAuraSizeAun2": { "type": "u8", "val": 130 },
+    "SanaeAuraSizeAun2": { "type": "u8", "val": 125 },
     "SanaeBombDurationNazrin2": { "type": "u8", "val": 150 },
         
     "RanHitboxSizeReimu2": { "type": "u8", "val": 50 },
