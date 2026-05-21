@@ -2,7 +2,7 @@
   "options": {
     "Th19Plus": {
       "type": "b",
-      "val": true
+      "val": false
     },
 /////////////////////////////////////////////////////////
     "ToutetsuC1EtBreakSubName": {
