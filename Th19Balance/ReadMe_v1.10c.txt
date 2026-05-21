@@ -43,11 +43,14 @@ Aunn:
 
 Nazrin:
  - Actionable state after C1 occurs faster
- - Overall shot damage is increased
+ - Shot damage is increased
  - Bomb does not chase down spirits
  - Skill causes Ex spirits to shoot bullets on death
  - Ex spirits killed from skill have less kill reward
  - Ex have no collision for first 30 frames after spawning
+ - Ex spawn rate is adjusted
+ - C3 spawn high up the screen and are spread out more
+ - Ex and C3 hitbox size is reduced
  - Non spell bullets have an adjusted pattern
  - Spell card bullets are faster and are more dense
 
