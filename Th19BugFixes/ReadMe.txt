@@ -1,6 +1,6 @@
 NOTE: This patch is unnecessary if you are already running the Th19Balance patch.
 
-Fixes:
+Fixes (v1.00a):
  - Includes Shoxlu's Rin skill death bug fix
  - Includes Shoxlu's Th19ExAttackResAnimFix
  - Nazrin and Suika Ex being vulnerable to Rin skill bug has now been fixed
@@ -13,3 +13,6 @@ Fixes:
  - Suika's bomb damage bug has been fixed
  - Quit out bug in Vs mode has been fixed
  - Achievement 21 can now be obtained
+
+Fixes (v1.10c):
+ - Aunn's second card works on all parts of Orin's scope
