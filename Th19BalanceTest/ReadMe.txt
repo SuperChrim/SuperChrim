@@ -7,3 +7,4 @@ Changes:
  - Zanmu C2 Kill reward
  - Zanmu Ex collision remove at spawn and despawn animation
  - Saki C3 requires less meter
+ - Aunn scope shape change

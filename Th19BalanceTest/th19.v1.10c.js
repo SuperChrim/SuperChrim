@@ -77,6 +77,12 @@
       "val": "pl18_balanceC.ecl"
     },
 /////////////////////////////////////////////////////////
+    "AunnAuraFinalHeightToWidthRatio": {
+      // Vanilla: 0.2
+      "type": "f32",
+      "val": 0.35
+    },
+/////////////////////////////////////////////////////////
     "ToutetsuExOffset": {
       "type": "f32",
       "val": -36
@@ -219,22 +225,22 @@
       "code": "9600"
     },
 /////////////////////////////////////////////////////////
-        "CardReimu2ApplyHitboxSize": {
-            "addr": "Rx1A81AC",
-            "code": "<codecave:CardReimu2ApplyHitboxSize>"
-        },
-        "CardAun1ApplyChargeSpeed": {
-            "addr": "Rx1A808C",
-            "code": "<codecave:CardAun1ApplyChargeSpeed>"
-        },
-        "CardAun2ApplyAuraSize": {
-            "addr": "Rx1A802C",
-            "code": "<codecave:CardAun2ApplyAuraSize>"
-        },
-        "CardNazrin2ApplyBombDuration": {
-            "addr": "Rx1A7F6C",
-            "code": "<codecave:CardNazrin2ApplyBombDuration>"
-        },
+    "CardReimu2ApplyHitboxSize": {
+        "addr": "Rx1A81AC",
+        "code": "<codecave:CardReimu2ApplyHitboxSize>"
+    },
+    "CardAun1ApplyChargeSpeed": {
+        "addr": "Rx1A808C",
+        "code": "<codecave:CardAun1ApplyChargeSpeed>"
+    },
+    "CardAun2ApplyAuraSize": {
+        "addr": "Rx1A802C",
+        "code": "<codecave:CardAun2ApplyAuraSize>"
+    },
+    "CardNazrin2ApplyBombDuration": {
+        "addr": "Rx1A7F6C",
+        "code": "<codecave:CardNazrin2ApplyBombDuration>"
+    },
 /////////////////////////////////////////////////////////
     "ReimuECLFilename": {
       "addr": "Rx1C5C24",
@@ -361,6 +367,11 @@
     },
 */
 /////////////////////////////////////////////////////////
+    "AunnAuraFinalHeightToWidthRatio": {
+      "addr": "Rx1A7BA",
+      "code": "{f32:<option:AunnAuraFinalHeightToWidthRatio>}"
+    },
+/////////////////////////////////////////////////////////
     "NazrinExCooldownEnd": {
       "enable": "<option:NazrinExCooldownEnd>",
       "addr": "Rx1A8EAC",
@@ -372,7 +383,6 @@
       "addr": "Rx1A8FB8",
       "code": "<codecave:SeiranExCooldownEnd>"
     },
-
 /////////////////////////////////////////////////////////
     "TsukasaC2NerfA": {
       "addr": "Rx1E675",
