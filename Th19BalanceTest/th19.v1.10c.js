@@ -83,6 +83,12 @@
       "val": 0.35
     },
 /////////////////////////////////////////////////////////
+    "YachieExDamage": {
+      // Vanilla: 1
+      "type": "i32",
+      "val": 5
+    },
+/////////////////////////////////////////////////////////
     "ToutetsuExOffset": {
       "type": "f32",
       "val": -36
@@ -405,12 +411,16 @@
       "code": "63"
     },
 /////////////////////////////////////////////////////////
-/*
-    "YachieCancelDamage": {
-      "addr": "Rx22204",
-      "code": "F0"
+    "YachieExDamage": {
+      "enable": "<option:YachieExDamage>!=1",
+      "addr": [ "Rx22547", "Rx22654" ],
+      "code": "\
+        68 <option:YachieExDamage>\
+        51 \
+        6A 06\
+        68 00000000\
+      "
     },
-*/
     "YachieExCooldownEnd": {
       "enable": "<option:YachieExCooldownEnd>",
       "addr": "Rx1A92D8",
