@@ -9,3 +9,5 @@ Changes:
  - Zanmu Ex collision remove at spawn and despawn animation
  - Saki C3 requires less meter
  - Aunn scope shape change
+ - Yachie, Saki, Yuuma no longer spawn normal spirits
+ - Orin Ex spawn soft cap adjust
