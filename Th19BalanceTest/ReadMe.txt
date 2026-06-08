@@ -5,6 +5,7 @@ Changes:
  - Marisa has a new lvl 7 and 8 story like spell
  - Aunn has a new lvl 7 and 8 story like spell
  - Zanmu C2 Kill reward
+ - Zanmu C2 bugfix
  - Zanmu Ex collision remove at spawn and despawn animation
  - Saki C3 requires less meter
  - Aunn scope shape change
