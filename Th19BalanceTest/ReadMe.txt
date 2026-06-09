@@ -11,3 +11,4 @@ Changes:
  - Aunn scope shape change
  - Yachie, Saki, Yuuma no longer spawn normal spirits
  - Orin Ex spawn soft cap adjust
+ - Yachie C1 and C2 damage increase
