@@ -83,10 +83,15 @@
       "val": 0.35
     },
 /////////////////////////////////////////////////////////
-    "YachieExDamage": {
+    "YachieC1Damage": {
       // Vanilla: 1
       "type": "i32",
-      "val": 5
+      "val": 6
+    },
+    "YachieC2Damage": {
+      // Vanilla: 1
+      "type": "i32",
+      "val": 4
     },
 /////////////////////////////////////////////////////////
     "ToutetsuExOffset": {
@@ -411,11 +416,21 @@
       "code": "63"
     },
 /////////////////////////////////////////////////////////
-    "YachieExDamage": {
-      "enable": "<option:YachieExDamage>!=1",
-      "addr": [ "Rx22547", "Rx22654" ],
+    "YachieC1Damage": {
+      "enable": "<option:YachieC1Damage>!=1",
+      "addr": "Rx22547",
       "code": "\
-        68 <option:YachieExDamage>\
+        68 <option:YachieC1Damage>\
+        51 \
+        6A 06\
+        68 00000000\
+      "
+    },
+    "YachieC2Damage": {
+      "enable": "<option:YachieC2Damage>!=1",
+      "addr": "Rx22654",
+      "code": "\
+        68 <option:YachieC2Damage>\
         51 \
         6A 06\
         68 00000000\
