@@ -13,3 +13,5 @@ Changes:
  - Orin Ex spawn soft cap adjust
  - Yachie C1 and C2 damage increase
  - Mamizou Card 2 cancels special enemies
+ - Marisa C1 damage is decreased
+ - Enoko C3 spawn range is widened
