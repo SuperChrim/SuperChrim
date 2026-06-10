@@ -15,3 +15,4 @@ Changes:
  - Mamizou Card 2 cancels special enemies
  - Marisa C1 damage is decreased
  - Enoko C3 spawn range is widened
+ - Mamizou more kill reward for bombs
