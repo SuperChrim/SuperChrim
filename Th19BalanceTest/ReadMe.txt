@@ -17,3 +17,4 @@ Changes:
  - Enoko C3 spawn range is widened
  - Enoko Ex graze removed
  - Mamizou more kill reward for bombs
+ - Kill reward of fairies increases with rank
