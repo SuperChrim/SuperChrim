@@ -21,7 +21,7 @@ Reimu:
  - Spell card bullet speed and acceleration is decreased
 
 Marisa:
- - C1 damage is increased
+ - C1 damage is decreased
  - Spell Card bullet speed is decreased
 
 Sanae:
@@ -36,6 +36,7 @@ Ran:
 Aunn:
  - Overall shot damage is increased
  - C1/Skill have piercing shots
+ - Aunn scope covers more vertical distance
  - Spell card bullets have increased speed/density and cannot be erased
  - Spell card lasers are longer and travel at sharper angle
  - Ex attack have altered movement paths
@@ -80,6 +81,7 @@ Mamizou:
  - Ex attack spawns less enemies
 
 Yachie:
+ - C1 and skill damage is increased
  - Actionable state after skill occurs faster
  - Ex otter spirit health is increased
  - Ex otter spirits lose health when scoped
@@ -87,7 +89,6 @@ Yachie:
  - Ex otter spirit spawn rate is adjusted
  - Ex otter spirits can be grazed
  - Ex otter spirit kill reward is restored
- - Ex attack will spawn a couple of normal otter spirits in addition to Ex otter spirits
 
 Saki:
  - C1, skill, and Ex attack require less meter
@@ -98,7 +99,6 @@ Saki:
  - Ex wolf spirit spawn rate is adjusted
  - Ex wolf spirits can be grazed
  - Ex wolf spirit kill reward is restored
- - Ex attack will spawn a couple of normal wolf spirits in addition to Ex wolf spirits
  - Spell card lasers are longer and travel faster
 
 Yuuma:
@@ -113,7 +113,6 @@ Yuuma:
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can be grazed
  - Ex eagle spirit kill reward is restored
- - Ex attack will spawn a couple of normal eagle spirits in addition to Ex eagle spirits
 
 Suika:
  - Actionable state after skill occurs faster
@@ -126,7 +125,8 @@ Biten:
 
 Enoko:
  - C1 and skill damage is decreased
- - Ex can be grazed for the first 2 seconds after spawning
+ - Ex attack spawn range is widened
+
 
 Chiyari:
  - Scope damage is increased
@@ -148,10 +148,11 @@ Zanmu:
  - Actionable state after C1 occurs faster
  - Skill and Ex attack require more meter to use
  - Skill range and speed is decreased
- - Ex no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Strengthening' card
+ - Skill no longer converts Ex animal spirits to pure spirits if the opponent has the respective 'Strengthening' card
  - If Zanmu has the respective 'Weakening' card and the opponent has the respective 'Strengthening' card, Zanmu skill as a 50% chance to convert Ex animal spirits to pure spirits
  - Ex can be grazed
  - Ex kill reward is restored
+ - Ex collision is removed at spawn and despawn animation
  - Unused animation is added for spell card
 
 Ability Cards:
@@ -159,6 +160,7 @@ Ability Cards:
  - Aunn's first card's effect on charging speed is decreased
  - Aunn's second card's effect on scope size is increased
  - Orin's second card makes disabled spirits stay on screen longer
+ - Mamizou's second card cancels special enemies
  - Yachie Ex otter spirits can be strengthened/weakened with Yachie's cards
  - Saki Ex wolve spirits can be strengthened/weakened with Saki's cards
  - Yuuma Ex eagle spirits can be strengthened/weakened with Yuuma's cards
@@ -174,6 +176,7 @@ System:
  - Bullet count is capped at 1200 and Laser count at 150 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
  - Wave 9 fairy HP is decreased
+ - Kill reward of fairies increases with rank
  - The hitbox indicator follows the player after a barrier break
 
 Th19BugFixes:
