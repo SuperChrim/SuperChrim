@@ -178,6 +178,7 @@ System:
  - Wave 9 fairy HP is decreased
  - Kill reward of fairies increases with rank
  - The hitbox indicator follows the player after a barrier break
+ - Boss dies when player loses a round (Just an extra visual detail)
 
 Th19BugFixes:
  - Mamizou non spell increases in difficulty with boss lvl
