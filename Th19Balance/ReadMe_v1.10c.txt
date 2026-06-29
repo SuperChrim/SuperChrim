@@ -124,7 +124,6 @@ Biten:
  - Overall shot damage is increased
 
 Enoko:
- - C1 and skill damage is decreased
  - Ex attack spawn range is widened
 
 
