@@ -125,6 +125,7 @@ Biten:
 
 Enoko:
  - Ex attack spawn range is widened
+ - Boss non spell and spell fires more bullets
 
 
 Chiyari:
