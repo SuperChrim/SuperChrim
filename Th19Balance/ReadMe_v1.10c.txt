@@ -74,6 +74,7 @@ Tsukasa:
  - Skill range is decreased
  - Ex attack shoots more bullets but are less dense; origin point is higher
  - Ex tube speed and spawn rate is adjusted
+ - Spell card lasers increase with boss level
 
 Mamizou:
  - C1 damage is increased
