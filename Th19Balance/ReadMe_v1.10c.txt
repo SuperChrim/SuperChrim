@@ -80,6 +80,7 @@ Mamizou:
  - C1 damage is increased
  - Skill/Ex attack require less meter
  - Ex attack spawns less enemies
+ - Non spell bullets increase with boss level
 
 Yachie:
  - C1 and skill damage is increased
