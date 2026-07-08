@@ -68,6 +68,7 @@ Rin:
  - Ex vengeful spirit kill reward is restored
  - Ex vengeful spirits can be grazed
  - Spell card zombie fairies shoot bullets when killed
+ - Spell card boss health will decrease when zombie fairies are killed
  - Spell card fires more bullets and bullet speed increases with boss level
 
 Tsukasa:
