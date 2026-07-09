@@ -62,8 +62,8 @@ Seiran:
 
 Rin:
  - Ex vengeful spirits lose health when scoped
- - Ex vengeful spirit's health is increased
- - Ex vengeful spirit's bullets fire less often
+ - Ex vengeful spirit health is increased
+ - Ex vengeful spirit bullets fire less often
  - Ex vengeful spirit spawn rate and location is adjusted
  - Ex vengeful spirit kill reward is restored
  - Ex vengeful spirits can be grazed
