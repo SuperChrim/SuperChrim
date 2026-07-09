@@ -68,7 +68,7 @@ Rin:
  - Ex vengeful spirit kill reward is restored
  - Ex vengeful spirits can be grazed
  - Spell card zombie fairies shoot bullets when killed
- - Spell card boss health will decrease when zombie fairies are killed
+ - Spell card boss health decreases when zombie fairies are killed
  - Spell card fires more bullets and bullet speed increases with boss level
 
 Tsukasa:
@@ -93,6 +93,7 @@ Yachie:
  - Ex otter spirit spawn rate is adjusted
  - Ex otter spirits can be grazed
  - Ex otter spirit kill reward is restored
+ - Boss health decreases when Ex otter spirits are killed
 
 Saki:
  - C1, skill, and Ex attack require less meter
@@ -104,6 +105,7 @@ Saki:
  - Ex wolf spirits can be grazed
  - Ex wolf spirit kill reward is restored
  - Spell card lasers are longer and travel faster
+ - Boss health decreases when Ex wolf spirits are killed
 
 Yuuma:
  - Scope speed is decreased
@@ -117,6 +119,7 @@ Yuuma:
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can be grazed
  - Ex eagle spirit kill reward is restored
+ - Boss health decreases when Ex eagle spirits are killed
 
 Suika:
  - Actionable state after skill occurs faster
