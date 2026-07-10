@@ -61,6 +61,7 @@ Seiran:
  - Actionable state after skill occurs faster
 
 Rin:
+ - C1/Skill damage is increased
  - Ex vengeful spirits lose health when scoped
  - Ex vengeful spirit health is increased
  - Ex vengeful spirit bullets fire less often
