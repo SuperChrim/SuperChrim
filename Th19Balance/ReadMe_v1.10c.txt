@@ -120,6 +120,7 @@ Yuuma:
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can be grazed
  - Ex eagle spirit kill reward is restored
+ - Non spell bullets is increased
  - Boss health decreases when Ex eagle spirits are killed
 
 Suika:
