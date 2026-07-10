@@ -3,4 +3,6 @@ This is a test build of Th19Balance. Potential changes will be tested here first
 Changes:
  - Reimu, Marisa, Aunn, Yachie, Saki, Yuuma, Suika, Zanmu lvl 7 and 8 boss attacks use their story cards
  - Marisa has a new lvl 7 and 8 story like spell
+ - Sanae has a new lvl 7 and 8 story like spell
  - Aunn has a new lvl 7 and 8 story like spell
+ - Sanae lasers can be erased
