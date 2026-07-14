@@ -163,6 +163,7 @@ Zanmu:
  - Ex kill reward is restored
  - Ex collision is removed at spawn and despawn animation
  - Unused animation is added for spell card
+ - Boss bullet spawn distance is increased
 
 Ability Cards:
  - All ability card that grant additional shots have increased damage
