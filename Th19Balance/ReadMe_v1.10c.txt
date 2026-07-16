@@ -121,6 +121,7 @@ Yuuma:
  - Ex eagle spirits can be grazed
  - Ex eagle spirit kill reward is restored
  - Non spell bullets is increased
+ - Spell bullet speed is decreased
  - Boss health decreases when Ex eagle spirits are killed
 
 Suika:
