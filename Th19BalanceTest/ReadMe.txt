@@ -5,4 +5,3 @@ Changes:
  - Marisa has a new lvl 7 and 8 story like spell
  - Sanae has a new lvl 7 and 8 story like spell
  - Aunn has a new lvl 7 and 8 story like spell
- - Sanae lasers can be erased

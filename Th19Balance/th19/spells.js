@@ -6,6 +6,7 @@
     "4+BossCard2+0": "Spinning Top \"Curl Up And Die\"",
     "4+BossCard3+0": "Koma Sign \"Solitary A-Un Breathing\"",
     "8+BossCard2+0": "Kuda-gitsune \"Long Cylinder Fox\"",
+    "15+BossCard2+0": "Three Heads \"Cerberus Inferno\"",
     "16+BossCard2+0": "Cursed Blood \"Cursed Bloody Fire\"",
     "17+BossCard2+0": "Executor \"Circular Grip\""
 }
