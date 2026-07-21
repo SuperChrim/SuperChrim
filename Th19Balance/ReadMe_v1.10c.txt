@@ -184,7 +184,7 @@ Ability Cards:
  - Hisami second ability card effect is increased, and spirit bullets are affected
 
 System:
- - Bullet count is capped at 1200 and Laser count at 150 to prevent slowdown in some situations
+ - Bullet count is capped at 1500 and Laser count at 150 to prevent slowdown in some situations
  - Beast spirits no longer spawn during bombs
  - Wave 9 fairy HP is decreased
  - Kill reward of fairies increases with rank
