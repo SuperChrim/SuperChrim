@@ -68,6 +68,7 @@ Rin:
  - Ex vengeful spirit spawn rate and location is adjusted
  - Ex vengeful spirit kill reward is restored
  - Ex vengeful spirits can be grazed
+ - Ex vengeful spirits hurtbox size is decreased
  - Spell card zombie fairies shoot bullets when killed
  - Spell card boss health decreases when zombie fairies are killed
  - Spell card fires more bullets and bullet speed increases with boss level
@@ -93,6 +94,7 @@ Yachie:
  - Ex otter spirits shoot more bullets
  - Ex otter spirit spawn rate is adjusted
  - Ex otter spirits can be grazed
+ - Ex otter spirits hurtbox size is decreased
  - Ex otter spirit kill reward is restored
  - Boss health decreases when Ex otter spirits are killed
 
@@ -104,6 +106,7 @@ Saki:
  - Ex wolf spirits shoot more bullets
  - Ex wolf spirit spawn rate is adjusted
  - Ex wolf spirits can be grazed
+ - Ex wolf spirits hurtbox size is decreased
  - Ex wolf spirit kill reward is restored
  - Spell card lasers are longer and travel faster
  - Boss health decreases when Ex wolf spirits are killed
@@ -119,6 +122,7 @@ Yuuma:
  - Ex eagle spirit spawn rate is adjusted
  - Extra attack eagle spirits (but not Ex eagle spirits) cannot no longer be scoped until one second after spawning
  - Ex eagle spirits can be grazed
+ - Ex eagle spirits hurtbox size is decreased
  - Ex eagle spirit kill reward is restored
  - Non spell bullets is increased
  - Spell bullet speed is decreased
