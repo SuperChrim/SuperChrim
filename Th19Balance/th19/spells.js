@@ -8,6 +8,7 @@
     "4+BossCard3+0": "Koma Sign \"Solitary A-Un Breathing\"",
     "5+BossCard2+0": "Gemstones \"Busy Nazrin Rod\"",
     "6+BossCard2+0": "Gun Sign \"Beast Shooting\"",
+    "7+BossCard2+0": "Dead Spirits \"Ghost Cat's Dead Fairy\"",
     "8+BossCard2+0": "Kuda-gitsune \"Long Cylinder Fox\"",
     "14+BossCard2+0": "Monkey Strike \"Great Monkey Mania\"",
     "15+BossCard2+0": "Three Heads \"Cerberus Inferno\"",
