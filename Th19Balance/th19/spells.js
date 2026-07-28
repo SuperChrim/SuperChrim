@@ -10,6 +10,7 @@
     "6+BossCard2+0": "Gun Sign \"Beast Shooting\"",
     "7+BossCard2+0": "Dead Spirits \"Ghost Cat's Dead Fairy\"",
     "8+BossCard2+0": "Kuda-gitsune \"Long Cylinder Fox\"",
+    "9+BossCard2+0": "Tanuki Sign \"Greedy Beast Spirits! Overrun the Enemy!\"",
     "14+BossCard2+0": "Monkey Strike \"Great Monkey Mania\"",
     "15+BossCard2+0": "Three Heads \"Cerberus Inferno\"",
     "16+BossCard2+0": "Cursed Blood \"Cursed Bloody Fire\"",
